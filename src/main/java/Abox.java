@@ -5,6 +5,10 @@ import org.apache.jena.vocabulary.RDF;
 
 
 import java.io.*;
+import java.net.MalformedURLException;
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.net.URL;
 
 public class Abox {
 
@@ -56,7 +60,7 @@ public class Abox {
                         new FileOutputStream(config.OUTPUT_FILE_PATH+"paper.nt")), true), "NT");
     }
 
-    public static void transformAuthor() throws IOException {
+    public static void transformAuthor() throws IOException, URISyntaxException {
 
         Model model = ModelFactory.createDefaultModel();
         // read csv
@@ -68,7 +72,19 @@ public class Abox {
             String affiliated_to = row_data[1].replace(" ","_");
 
             String authorUri = author_name.replace(" ","_");
-            Resource author = model.createResource(config.RESOURCE_URL+authorUri)
+
+            URI uri = null;
+            try {
+            URL url = new URL(config.RESOURCE_URL+authorUri);
+            String nullFragment = null;
+            uri = new URI(url.getProtocol(), url.getHost(), url.getPath(), url.getQuery(), nullFragment);
+            } catch (MalformedURLException e) {
+                System.out.println("URL " + authorUri + " is a malformed URL");
+            } catch (URISyntaxException e) {
+                System.out.println("URI " + authorUri + " is a malformed URL");
+            }
+
+            Resource author = model.createResource(config.RESOURCE_URL+uri.toString())
                     .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Author"))
                     .addProperty(model.createProperty(config.DBO_URL+"birthName"),author_name)
                     .addProperty(model.createProperty(config.BASE_URL+"affiliated_to"),model.createResource(config.RESOURCE_URL+affiliated_to));
@@ -122,7 +138,18 @@ public class Abox {
             String author = row_data[2];
 
             String writesUri = author.replace(" ","_");
-            Resource writes = model.createResource(config.RESOURCE_URL+writesUri)
+            URI uri = null;
+            try {
+                URL url = new URL(config.RESOURCE_URL+writesUri);
+                String nullFragment = null;
+                uri = new URI(url.getProtocol(), url.getHost(), url.getPath(), url.getQuery(), nullFragment);
+            } catch (MalformedURLException e) {
+                System.out.println("URL " + writesUri + " is a malformed URL");
+            } catch (URISyntaxException e) {
+                System.out.println("URI " + writesUri + " is a malformed URL");
+            }
+
+            Resource writes = model.createResource(config.RESOURCE_URL+uri)
                     .addProperty(model.createProperty(config.BASE_URL+"writes"),model.createResource(config.RESOURCE_URL+key));
         }
         csvReader.close();
@@ -137,7 +164,17 @@ public class Abox {
             String author = row_data[1];
 
             String writesUri = author.replace(" ","_");
-            Resource writes = model.createResource(config.RESOURCE_URL+writesUri)
+            URI uri = null;
+            try {
+                URL url = new URL(config.RESOURCE_URL+writesUri);
+                String nullFragment = null;
+                uri = new URI(url.getProtocol(), url.getHost(), url.getPath(), url.getQuery(), nullFragment);
+            } catch (MalformedURLException e) {
+                System.out.println("URL " + writesUri + " is a malformed URL");
+            } catch (URISyntaxException e) {
+                System.out.println("URI " + writesUri + " is a malformed URL");
+            }
+            Resource writes = model.createResource(config.RESOURCE_URL+uri)
                     .addProperty(model.createProperty(config.BASE_URL+"writes"),model.createResource(config.RESOURCE_URL+key));
         }
         csvReader.close();
