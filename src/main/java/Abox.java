@@ -493,7 +493,7 @@ public class Abox {
         while ((row = csvReader.readLine()) != null) {
             String[] row_data = row.split(",");
             String key = row_data[0];
-            String crossref = row_data[3];
+            String crossref = row_data[row_data.length-1];
 
             String paperUri = key.replace(' ','_').replace('/','_');
             String volumeUri = crossref.replace(' ','_').replace('/','_');
