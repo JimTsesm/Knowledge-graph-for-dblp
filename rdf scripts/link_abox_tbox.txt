@@ -52,3 +52,19 @@ WHERE{
 	?a pub:sends ?b .
 	?b rdf:type pub:Review
 };
+
+INSERT{
+	?a rdf:type pub:Journal.
+	?b rdf:type pub:Volume
+}
+WHERE{
+	?a pub:has_volume ?b
+};
+
+INSERT{
+	?a rdf:type pub:Conference.
+	?b rdf:type pub:Edition
+}
+WHERE{
+	?a pub:has_edition ?b
+};
