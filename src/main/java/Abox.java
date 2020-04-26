@@ -292,7 +292,7 @@ public class Abox {
             row_count++;
             String[] row_data = row.split(",");
             String paper = row_data[0].replace("/","_");
-            String reviewer = row_data[1];
+            String reviewer = row_data[1].replace(" ","_");;
 
             URI reviewerUri = null;
             try {
