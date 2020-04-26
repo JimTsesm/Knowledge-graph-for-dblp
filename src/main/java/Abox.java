@@ -29,7 +29,7 @@ public class Abox {
 
             String paperUri = key.replace(" ","_");
             Resource paper = model.createResource(config.RESOURCE_URL+paperUri)
-                    .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Paper"))
+                    //.addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Paper"))
                     .addProperty(model.createProperty(config.BASE_URL+"key"),key)
                     .addProperty(model.createProperty(config.BASE_URL+"title"),title)
                     .addProperty(model.createProperty(config.BASE_URL+"year"),year);
@@ -48,7 +48,7 @@ public class Abox {
 
             String paperUri = key.replace(" ","_");
             Resource paper = model.createResource(config.RESOURCE_URL+paperUri)
-                    .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Paper"))
+                    //.addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Paper"))
                     .addProperty(model.createProperty(config.BASE_URL+"key"),key)
                     .addProperty(model.createProperty(config.BASE_URL+"title"),title)
                     .addProperty(model.createProperty(config.BASE_URL+"year"),year);
@@ -86,7 +86,7 @@ public class Abox {
             }
 
             Resource author = model.createResource(config.RESOURCE_URL+uri.toString())
-                    .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Author"))
+                    //.addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Author"))
                     .addProperty(model.createProperty(config.DBO_URL+"birthName"),author_name)
                     .addProperty(model.createProperty(config.BASE_URL+"affiliated_to"),model.createResource(config.RESOURCE_URL+affiliated_to));
         }
@@ -113,7 +113,7 @@ public class Abox {
 
             String universityUri = university_name.replace(" ","_").replace("\"","");
             Resource author = model.createResource(config.RESOURCE_URL+universityUri)
-                    .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.DBO_URL+"University"))
+                    //.addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.DBO_URL+"University"))
                     .addProperty(model.createProperty(config.DBO_URL+"foundationPlace"),country)
                     .addProperty(model.createProperty(config.BASE_URL+"university_name"),university_name);
         }
@@ -198,7 +198,7 @@ public class Abox {
 
             String keywordUri = row.replace(" ","_");
             Resource keyword = model.createResource(config.RESOURCE_URL+keywordUri)
-                    .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Keyword"))
+                    //.addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Keyword"))
                     .addProperty(model.createProperty(config.BASE_URL+"keyword_name"),row);
         }
         csvReader.close();
@@ -256,6 +256,73 @@ public class Abox {
                         new FileOutputStream(config.OUTPUT_FILE_PATH+"link_paper_keyword.nt")), true), "NT");
     }
 
+    public static void transformCitation() throws IOException, URISyntaxException {
+
+        Model model = ModelFactory.createDefaultModel();
+        // read csv
+        BufferedReader csvReader = new BufferedReader(new FileReader(config.citation_input));
+        String row;
+        while ((row = csvReader.readLine()) != null) {
+            String[] row_data = row.split(",");
+            String paper = row_data[0].replace("/","_");
+            String citation_id = row_data[1];
+
+            String citationUri = "citation_"+citation_id;
+
+            Resource author = model.createResource(config.RESOURCE_URL+citationUri.toString())
+                    .addProperty(model.createProperty(config.BASE_URL+"citation_id"),citation_id)
+                    .addProperty(model.createProperty(config.BASE_URL+"cites"),model.createResource(config.RESOURCE_URL+paper));
+        }
+        csvReader.close();
+
+        // write the mode to file
+        model.write(new PrintStream(
+                new BufferedOutputStream(
+                        new FileOutputStream(config.OUTPUT_FILE_PATH+"citations.nt")), true), "NT");
+    }
+
+    public static void transformReviews() throws IOException, URISyntaxException {
+
+        Model model = ModelFactory.createDefaultModel();
+        // read csv
+        BufferedReader csvReader = new BufferedReader(new FileReader(config.review_input));
+        String row;
+        int row_count = 0;
+        while ((row = csvReader.readLine()) != null) {
+            row_count++;
+            String[] row_data = row.split(",");
+            String paper = row_data[0].replace("/","_");
+            String reviewer = row_data[1];
+
+            URI reviewerUri = null;
+            try {
+                URL url = new URL(config.RESOURCE_URL+reviewer);
+                String nullFragment = null;
+                reviewerUri = new URI(url.getProtocol(), url.getHost(), url.getPath(), url.getQuery(), nullFragment);
+            } catch (MalformedURLException e) {
+                System.out.println("URL " + reviewer + " is a malformed URL");
+            } catch (URISyntaxException e) {
+                System.out.println("URI " + reviewer + " is a malformed URL");
+            }
+
+            //create reviewer resource
+            Resource rev = model.createResource(reviewerUri.toString())
+                    .addProperty(model.createProperty(config.DBO_URL+"birthName"),reviewer)
+                    .addProperty(model.createProperty(config.BASE_URL+"sends"),model.createResource(config.RESOURCE_URL+"review_"+row_count));
+            //create review resource
+            Resource rev2 = model.createResource(config.RESOURCE_URL+"review_"+row_count)
+                    .addProperty(model.createProperty(config.BASE_URL+"review_id"),String.valueOf(row_count))
+                    .addProperty(model.createProperty(config.BASE_URL+"for"),model.createResource(config.RESOURCE_URL+paper));
+
+        }
+        csvReader.close();
+
+        // write the mode to file
+        model.write(new PrintStream(
+                new BufferedOutputStream(
+                        new FileOutputStream(config.OUTPUT_FILE_PATH+"reviews.nt")), true), "NT");
+    }
+
     //Ali's Part
     public static void transformJournal() throws IOException {
 
@@ -269,7 +336,7 @@ public class Abox {
 
             String journalUri = name.replace(" ","_");
             Resource journal = model.createResource(config.RESOURCE_URL+journalUri)
-                    .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Journal"))
+                    //.addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Journal"))
                     .addProperty(model.createProperty(config.BASE_URL+"name"),name);
         }
         csvReader.close();
@@ -299,7 +366,7 @@ public class Abox {
 
             String volumeUri = key.replace(" ","_").replace('/','_');
             Resource volume = model.createResource(config.RESOURCE_URL+volumeUri)
-                    .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Volume"))
+                    //.addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Volume"))
                     .addProperty(model.createProperty(config.BASE_URL+"key"),key)
                     .addProperty(model.createProperty(config.BASE_URL+"number"),number)
                     .addProperty(model.createProperty(config.BASE_URL+"year"),year);
@@ -328,7 +395,7 @@ public class Abox {
             String conferenceUri = name.replace(' ','_').replace('/','_');
 
             Resource conference = model.createResource(config.RESOURCE_URL+conferenceUri)
-                    .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Conference"))
+                    //.addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Conference"))
                     .addProperty(model.createProperty(config.BASE_URL+"name"),name);
         }
         csvReader.close();
@@ -371,7 +438,7 @@ public class Abox {
             String conferenceUri = row_data[2].replace(' ','_').replace('/','_');
 
             Resource edition = model.createResource(config.RESOURCE_URL+editionUri)
-                    .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Edition"))
+                    //.addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Edition"))
                     .addProperty(model.createProperty(config.BASE_URL+"key"),key)
                     .addProperty(model.createProperty(config.BASE_URL+"year"),year);
 

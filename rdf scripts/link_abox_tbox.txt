@@ -1,0 +1,54 @@
+PREFIX pub: <http://www.semanticweb.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+
+INSERT{
+	?a rdf:type pub:Paper
+}
+WHERE{
+	?a pub:key ?b .
+	?a pub:title ?c
+};
+
+INSERT{
+	?a rdf:type pub:Author
+}
+WHERE{
+	?a dbo:birthName ?b
+};
+
+INSERT{
+	?a rdf:type pub:University
+}
+WHERE{
+	?a pub:university_name ?b
+};
+
+INSERT{
+	?a rdf:type pub:Keyword
+}
+WHERE{
+	?a pub:keyword_name ?b
+};
+
+INSERT{
+	?a rdf:type pub:Citation
+}
+WHERE{
+	?a pub:citation_id ?b
+};
+
+INSERT{
+	?a rdf:type pub:Review
+}
+WHERE{
+	?a pub:review_id ?b
+};
+
+INSERT{
+	?a rdf:type pub:Reviewer
+}
+WHERE{
+	?a pub:sends ?b .
+	?b rdf:type pub:Review
+};
