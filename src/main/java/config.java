@@ -10,6 +10,12 @@ public class config {
     public static final String keywords_input = INPUT_FILE_PATH+"keywords.csv";
     public static final String link_paper_keyword_input = INPUT_FILE_PATH+"Keyword.csv";
     public static final String link_paper_keyword_input2 = INPUT_FILE_PATH+"Keyword(journal).csv";
+    public static final String journal_input = INPUT_FILE_PATH+"journal.csv";
+    public static final String volume_input = INPUT_FILE_PATH+"volume(journal).csv";
+    public static final String conference_input = INPUT_FILE_PATH+"Conferences.csv";
+    public static final String edition_input = INPUT_FILE_PATH+"Edition.csv";
+    public static final String link_paper_edition_input = INPUT_FILE_PATH+"Paper(Edition).csv";
+    public static final String link_paper_volume_input = INPUT_FILE_PATH+"paper(volume).csv";
 
 
     public static final String BASE_URL = "http://www.semanticweb.org/";

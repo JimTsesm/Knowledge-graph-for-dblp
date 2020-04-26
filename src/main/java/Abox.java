@@ -1,3 +1,4 @@
+import org.apache.jena.rdf.model.Literal;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.Resource;
@@ -256,5 +257,189 @@ public class Abox {
     }
 
     //Ali's Part
+    public static void transformJournal() throws IOException {
+
+        Model model = ModelFactory.createDefaultModel();
+        // read Journals from journal csv
+        BufferedReader csvReader = new BufferedReader(new FileReader(config.journal_input));
+
+        String row;
+        while ((row = csvReader.readLine()) != null) {
+            String name = row;
+
+            String journalUri = name.replace(" ","_");
+            Resource journal = model.createResource(config.RESOURCE_URL+journalUri)
+                    .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Journal"))
+                    .addProperty(model.createProperty(config.BASE_URL+"name"),name);
+        }
+        csvReader.close();
+
+        // write the mode to file
+        model.write(new PrintStream(
+                new BufferedOutputStream(
+                        new FileOutputStream(config.OUTPUT_FILE_PATH+"journal.nt")), true), "NT");
+    }
+
+    public static void transformVolume_linkToJournal() throws IOException {
+
+        Model model = ModelFactory.createDefaultModel();
+        // read Volumes from volume(journal) csv
+        BufferedReader csvReader = new BufferedReader(new FileReader(config.volume_input));
+        // skip the header line
+        csvReader.readLine();
+        String row;
+        while ((row = csvReader.readLine()) != null) {
+            String[] row_data = row.split(",");
+            String key = row_data[0];//.replace('/','_');
+            Literal number = model.createTypedLiteral(Integer.parseInt(row_data[1]));
+            Literal year = model.createTypedLiteral(Integer.parseInt(row_data[2]));
+
+            String journalUri = row_data[3].replace(' ','_');
+
+
+            String volumeUri = key.replace(" ","_").replace('/','_');
+            Resource volume = model.createResource(config.RESOURCE_URL+volumeUri)
+                    .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Volume"))
+                    .addProperty(model.createProperty(config.BASE_URL+"key"),key)
+                    .addProperty(model.createProperty(config.BASE_URL+"number"),number)
+                    .addProperty(model.createProperty(config.BASE_URL+"year"),year);
+
+            Resource has_volume = model.createResource(config.RESOURCE_URL+journalUri)
+                    .addProperty(model.createProperty(config.BASE_URL+"has_volume"), model.createResource(config.RESOURCE_URL+volumeUri));
+
+        }
+        csvReader.close();
+
+        // write the mode to file
+        model.write(new PrintStream(
+                new BufferedOutputStream(
+                        new FileOutputStream(config.OUTPUT_FILE_PATH+"volume_link_journal.nt")), true), "NT");
+    }
+
+    public static void transformConference() throws IOException {
+
+        Model model = ModelFactory.createDefaultModel();
+        // read Conferences from Conferences csv
+        BufferedReader csvReader = new BufferedReader(new InputStreamReader(new FileInputStream(config.conference_input), "Cp1252"));
+
+        String row;
+        while ((row = csvReader.readLine()) != null) {
+            String name = row;
+            String conferenceUri = name.replace(' ','_').replace('/','_');
+
+            Resource conference = model.createResource(config.RESOURCE_URL+conferenceUri)
+                    .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Conference"))
+                    .addProperty(model.createProperty(config.BASE_URL+"name"),name);
+        }
+        csvReader.close();
+
+        // write the mode to file
+        model.write(new PrintStream(
+                new BufferedOutputStream(
+                        new FileOutputStream(config.OUTPUT_FILE_PATH+"conference.nt")), true), "NT");
+    }
+
+    public static void transformEdition_linkToConference() throws IOException {
+
+        Model model = ModelFactory.createDefaultModel();
+        // read Editions from Edition csv
+        BufferedReader csvReader = new BufferedReader(new FileReader(config.edition_input));
+        // skip the header line
+        csvReader.readLine();
+        String row;
+        while ((row = csvReader.readLine()) != null) {
+            String[] row_data = row.split(",");
+            if(row_data.length>4){
+                String str = row.substring(row.indexOf("\"")+1, row.lastIndexOf("\""));
+                row = row.replace(str,"");
+                row_data = row.split(",");
+                row_data[2] = str;
+            }
+
+            String key = row_data[1];//.replace('/','_');
+
+            String _year = row_data[3];
+            if (_year.length()>4)
+                _year = _year.substring(0,4);
+            Literal year;
+            try {
+                year = model.createTypedLiteral(Integer.parseInt(_year));
+            }catch(Exception ex){
+                year = model.createTypedLiteral(0);
+            }
+            String editionUri = key.replace(' ','_').replace('/','_');
+            String conferenceUri = row_data[2].replace(' ','_').replace('/','_');
+
+            Resource edition = model.createResource(config.RESOURCE_URL+editionUri)
+                    .addProperty(model.createProperty(RDF.type.toString()), model.createResource(config.BASE_URL+"Edition"))
+                    .addProperty(model.createProperty(config.BASE_URL+"key"),key)
+                    .addProperty(model.createProperty(config.BASE_URL+"year"),year);
+
+            Resource has_edition = model.createResource(config.RESOURCE_URL+conferenceUri)
+                    .addProperty(model.createProperty(config.BASE_URL+"has_edition"), model.createResource(config.RESOURCE_URL+editionUri));
+
+        }
+        csvReader.close();
+
+        // write the mode to file
+        model.write(new PrintStream(
+                new BufferedOutputStream(
+                        new FileOutputStream(config.OUTPUT_FILE_PATH+"edition_link_conference.nt")), true), "NT");
+    }
+
+    public static void link_paper_edition() throws IOException {
+
+        Model model = ModelFactory.createDefaultModel();
+        // read papers & editions from paper(edition) csv
+        BufferedReader csvReader = new BufferedReader(new FileReader(config.link_paper_edition_input));
+        // skip the header line
+        csvReader.readLine();
+        String row;
+        while ((row = csvReader.readLine()) != null) {
+            String[] row_data = row.split(",");
+            String key = row_data[1];
+            String crossref = row_data[3];
+
+            String paperUri = key.replace(' ','_').replace('/','_');
+            String editionUri = crossref.replace(' ','_').replace('/','_');
+
+            Resource published_in = model.createResource(config.RESOURCE_URL+paperUri)
+                    .addProperty(model.createProperty(config.BASE_URL+"published_in"), model.createResource(config.RESOURCE_URL+editionUri));
+
+        }
+        csvReader.close();
+
+        // write the mode to file
+        model.write(new PrintStream(
+                new BufferedOutputStream(
+                        new FileOutputStream(config.OUTPUT_FILE_PATH+"link_paper_edition.nt")), true), "NT");
+    }
+
+    public static void link_paper_volume() throws IOException {
+
+        Model model = ModelFactory.createDefaultModel();
+        // read papers & volumes from paper(volume) csv
+        BufferedReader csvReader = new BufferedReader(new FileReader(config.link_paper_volume_input));
+        // skip the header line
+        csvReader.readLine();
+        String row;
+        while ((row = csvReader.readLine()) != null) {
+            String[] row_data = row.split(",");
+            String key = row_data[0];
+            String crossref = row_data[3];
+
+            String paperUri = key.replace(' ','_').replace('/','_');
+            String volumeUri = crossref.replace(' ','_').replace('/','_');
+
+            Resource published_in = model.createResource(config.RESOURCE_URL+paperUri)
+                    .addProperty(model.createProperty(config.BASE_URL+"published_in"), model.createResource(config.RESOURCE_URL+volumeUri));
+        }
+        csvReader.close();
+
+        // write the mode to file
+        model.write(new PrintStream(
+                new BufferedOutputStream(
+                        new FileOutputStream(config.OUTPUT_FILE_PATH+"link_paper_volume.nt")), true), "NT");
+    }
 
 }
