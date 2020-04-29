@@ -1,0 +1,5666 @@
+key,author
+thipeac/GolanderW09,Amit Golander
+thipeac/GolanderW09,Shlomo Weiss
+thipeac/ChoiPD09,Michel Dubois
+thipeac/ChoiPD09,Seok-Jun Park
+thipeac/ChoiPD09,Woojin Choi
+thipeac/SarkarT11,Dean M. Tullsen
+thipeac/SarkarT11,Subhradyuti Sarkar
+thipeac/AnsariLKJKW11,Chris C. Kirkham
+thipeac/AnsariLKJKW11,Christos Kotselidis
+thipeac/AnsariLKJKW11,Ian Watson
+thipeac/AnsariLKJKW11,Kim Jarvis
+thipeac/AnsariLKJKW11,Mikel Luján
+thipeac/AnsariLKJKW11,Mohammad Ansari
+thipeac/Waliullah11,M. M. Waliullah
+thipeac/OBoyleBC07,François Bodin
+thipeac/OBoyleBC07,Marcelo Cintra
+thipeac/OBoyleBC07,Michael F. P. O'Boyle
+thipeac/CopeCLH11,Ben Cope
+thipeac/CopeCLH11,Lee W. Howes
+thipeac/CopeCLH11,Peter Y. K. Cheung
+thipeac/CopeCLH11,Wayne Luk
+thipeac/LiaoJS11,Thambipillai Srikanthan
+thipeac/LiaoJS11,Wu Jigang
+thipeac/LiaoJS11,Xiongfei Liao
+thipeac/KhanK11,Omer Khan
+thipeac/KhanK11,Sandip Kundu
+thipeac/WuYWHRGZ11,Chunyuan Zhang
+thipeac/WuYWHRGZ11,Ju Ren
+thipeac/WuYWHRGZ11,Maolin Guan
+thipeac/WuYWHRGZ11,Mei Wen
+thipeac/WuYWHRGZ11,Nan Wu 0003
+thipeac/WuYWHRGZ11,Qianming Yang
+thipeac/WuYWHRGZ11,Yi He
+thipeac/VandeputteE11a,Frederik Vandeputte
+thipeac/VandeputteE11a,Lieven Eeckhout
+thipeac/AnsariLKJKW11a,Chris C. Kirkham
+thipeac/AnsariLKJKW11a,Christos Kotselidis
+thipeac/AnsariLKJKW11a,Ian Watson
+thipeac/AnsariLKJKW11a,Kim Jarvis
+thipeac/AnsariLKJKW11a,Mikel Luján
+thipeac/AnsariLKJKW11a,Mohammad Ansari
+thipeac/HuJK09,Chunling Hu
+thipeac/HuJK09,Daniel A. Jiménez
+thipeac/HuJK09,Ulrich Kremer
+thipeac/SusuMAAM07,Alex E. Susu
+thipeac/SusuMAAM07,Andrea Acquaviva
+thipeac/SusuMAAM07,David Atienza
+thipeac/SusuMAAM07,Giovanni De Micheli
+thipeac/SusuMAAM07,Michele Magno
+thipeac/BuytaertVEB07,Dries Buytaert
+thipeac/BuytaertVEB07,Koen De Bosschere
+thipeac/BuytaertVEB07,Kris Venstermans
+thipeac/BuytaertVEB07,Lieven Eeckhout
+thipeac/GoudarziIN11,Hamid Noori
+thipeac/GoudarziIN11,Maziar Goudarzi
+thipeac/GoudarziIN11,Tohru Ishihara
+thipeac/VandeputteE11,Frederik Vandeputte
+thipeac/VandeputteE11,Lieven Eeckhout
+thipeac/LatorreMGCG11,Antonio González 0001
+thipeac/LatorreMGCG11,Fernando Latorre
+thipeac/LatorreMGCG11,Grigorios Magklis
+thipeac/LatorreMGCG11,José González
+thipeac/LatorreMGCG11,Pedro Chaparro
+thipeac/GeigerMT07,Gary S. Tyson
+thipeac/GeigerMT07,Michael J. Geiger
+thipeac/GeigerMT07,Sally A. McKee
+thipeac/MolnosCHE07,Anca Mariana Molnos
+thipeac/MolnosCHE07,Jos T. J. van Eijndhoven
+thipeac/MolnosCHE07,Marc J. M. Heijligers
+thipeac/MolnosCHE07,Sorin Dan Cotofana
+thipeac/YuanYF11,Dongrui Fan
+thipeac/YuanYF11,Lei Yu
+thipeac/YuanYF11,Nan Yuan
+thipeac/FursinCOT07,Albert Cohen 0001
+thipeac/FursinCOT07,Grigori Fursin
+thipeac/FursinCOT07,Michael F. P. O'Boyle
+thipeac/FursinCOT07,Olivier Temam
+thipeac/BeiuMKM11,Basheer A. M. Madappuram
+thipeac/BeiuMKM11,Liam McDaid
+thipeac/BeiuMKM11,Peter M. Kelly
+thipeac/BeiuMKM11,Valeriu Beiu
+thipeac/KlugOWT11,Carsten Trinitis
+thipeac/KlugOWT11,Josef Weidendorfer
+thipeac/KlugOWT11,Michael Ott
+thipeac/KlugOWT11,Tobias Klug
+thipeac/LinC11,Chuen-Liang Chen
+thipeac/LinC11,Chun-Chieh Lin
+thipeac/JonesOAG11,Antonio González 0001
+thipeac/JonesOAG11,Jaume Abella
+thipeac/JonesOAG11,Michael F. P. O'Boyle
+thipeac/JonesOAG11,Timothy M. Jones 0001
+thipeac/RyooURKFH07,Christopher I. Rodrigues
+thipeac/RyooURKFH07,Matthew I. Frank
+thipeac/RyooURKFH07,Robert E. Kidd
+thipeac/RyooURKFH07,Sain-Zee Ueng
+thipeac/RyooURKFH07,Shane Ryoo
+thipeac/RyooURKFH07,Wen-mei W. Hwu
+thipeac/KhatibBPBJBKHNJ07,Axel Jantsch
+thipeac/KhatibBPBJBKHNJ07,Davide Bertozzi
+thipeac/KhatibBPBJBKHNJ07,Francesco Poletti
+thipeac/KhatibBPBJBKHNJ07,Hasan Khalifeh
+thipeac/KhatibBPBJBKHNJ07,Iyad Al Khatib
+thipeac/KhatibBPBJBKHNJ07,Luca Benini
+thipeac/KhatibBPBJBKHNJ07,Mazen Hajjar
+thipeac/KhatibBPBJBKHNJ07,Mohamed Bechara
+thipeac/KhatibBPBJBKHNJ07,Rustam Nabiev
+thipeac/KhatibBPBJBKHNJ07,Sven Jonsson
+thipeac/VandierendonckS09,André Seznec
+thipeac/VandierendonckS09,Hans Vandierendonck
+thipeac/AzevedoJMTHARV11,Alex Ramírez
+thipeac/AzevedoJMTHARV11,Andrei Sergeevich Terechko
+thipeac/AzevedoJMTHARV11,Arnaldo Azevedo
+thipeac/AzevedoJMTHARV11,Ben H. H. Juurlink
+thipeac/AzevedoJMTHARV11,Cor Meenderinck
+thipeac/AzevedoJMTHARV11,Jan Hoogerbrugge
+thipeac/AzevedoJMTHARV11,Mateo Valero
+thipeac/AzevedoJMTHARV11,Mauricio Alvarez
+thipeac/SonK07,Mahmut T. Kandemir
+thipeac/SonK07,Seung Woo Son 0001
+thipeac/Wilkes07,Maurice V. Wilkes
+thipeac/Stenstrom07,Per Stenström
+thipeac/McKee07,Sally A. McKee
+thipeac/HenryN11,Leyla Nazhandali
+thipeac/HenryN11,Michael B. Henry
+thipeac/OsborneLCM11,José Gabriel F. Coutinho
+thipeac/OsborneLCM11,Oskar Mencer
+thipeac/OsborneLCM11,Wayne Luk
+thipeac/OsborneLCM11,William George Osborne
+thipeac/SaidaniLFTB11,Claude Tadonki
+thipeac/SaidaniLFTB11,Joel Falcou
+thipeac/SaidaniLFTB11,Lionel Lacassagne
+thipeac/SaidaniLFTB11,Samir Bouaziz
+thipeac/SaidaniLFTB11,Tarik Saidani
+thipeac/BlumrichSG11,Alan Gara
+thipeac/BlumrichSG11,Matthias A. Blumrich
+thipeac/BlumrichSG11,Valentina Salapura
+thipeac/NethercoteBM07,Doug Burger
+thipeac/NethercoteBM07,Kathryn S. McKinley
+thipeac/NethercoteBM07,Nicholas Nethercote
+thipeac/PlishkerSKB11,Mary Kiemb
+thipeac/PlishkerSKB11,Nimish Sane
+thipeac/PlishkerSKB11,Shuvra S. Bhattacharyya
+thipeac/PlishkerSKB11,William Plishker
+thipeac/LlorenteKWH11,Andreas Herkersdorf
+thipeac/LlorenteKWH11,Daniel Llorente
+thipeac/LlorenteKWH11,Kimon Karras
+thipeac/LlorenteKWH11,Thomas Wild
+thipeac/ChenK07,Guilin Chen
+thipeac/ChenK07,Mahmut T. Kandemir
+thipeac/MuralidharaK11,Mahmut T. Kandemir
+thipeac/MuralidharaK11,Sai Prashanth Muralidhara
+thipeac/MoretoCRV11,Alex Ramírez
+thipeac/MoretoCRV11,Francisco J. Cazorla
+thipeac/MoretoCRV11,Mateo Valero
+thipeac/MoretoCRV11,Miquel Moretó
+thipeac/KoteraAETK11,Hiroaki Kobayashi
+thipeac/KoteraAETK11,Hiroyuki Takizawa
+thipeac/KoteraAETK11,Isao Kotera
+thipeac/KoteraAETK11,Kenta Abe
+thipeac/KoteraAETK11,Ryusuke Egawa
+thipeac/KeramidasXK09,Georgios Keramidas
+thipeac/KeramidasXK09,Polychronis Xekalakis
+thipeac/KeramidasXK09,Stefanos Kaxiras
+thipeac/KluyskensE09,Lieven Eeckhout
+thipeac/KluyskensE09,Simon Kluyskens
+thipeac/PinterW07,Israel Waldman
+thipeac/PinterW07,Shlomit S. Pinter
+thipeac/OliverFCA07,Diana Franklin
+thipeac/OliverFCA07,Frederic T. Chong
+thipeac/OliverFCA07,John Oliver
+thipeac/OliverFCA07,Venkatesh Akella
+thipeac/AhnP09,Minwook Ahn
+thipeac/AhnP09,Yunheung Paek
+thipeac/JahreN11,Lasse Natvig
+thipeac/JahreN11,Magnus Jahre
+thipeac/BartoliniFP11,Cosimo Antonio Prete
+thipeac/BartoliniFP11,Pierfrancesco Foglia
+thipeac/BartoliniFP11,Sandro Bartolini
+thipeac/DevosCVS11,Dirk Stroobandt
+thipeac/DevosCVS11,Harald Devos
+thipeac/DevosCVS11,Ingrid Verbauwhede
+thipeac/DevosCVS11,Jan Van Campenhout
+thipeac/JaddoeTP11,Andy D. Pimentel
+thipeac/JaddoeTP11,Mark Thompson 0001
+thipeac/JaddoeTP11,Stanley Jaddoe
+thipeac/IbrahimN09,Khaled Z. Ibrahim
+thipeac/IbrahimN09,Smaïl Niar
+thipeac/SazeidesMCK11,Andreas Moustakas
+thipeac/SazeidesMCK11,Kypros Constantinides
+thipeac/SazeidesMCK11,Marios Kleanthous
+thipeac/SazeidesMCK11,Yiannakis Sazeides
+thipeac/MahoneySBP09,Guy Bois
+thipeac/MahoneySBP09,Patrice Plante
+thipeac/MahoneySBP09,Patrick Mahoney
+thipeac/MahoneySBP09,Yvon Savaria
+thipeac/RullmannM11,Markus Rullmann
+thipeac/RullmannM11,Renate Merker
+thipeac/NingK07,David R. Kaeli
+thipeac/NingK07,Ke Ning
+thipeac/WadaHMSNSKK11,Akihiro Hayashi
+thipeac/WadaHMSNSKK11,Hiroaki Shikano
+thipeac/WadaHMSNSKK11,Hirofumi Nakano
+thipeac/WadaHMSNSKK11,Hironori Kasahara
+thipeac/WadaHMSNSKK11,Jun Shirako
+thipeac/WadaHMSNSKK11,Keiji Kimura
+thipeac/WadaHMSNSKK11,Takeshi Masuura
+thipeac/WadaHMSNSKK11,Yasutaka Wada
+thipeac/StenstromW09,David B. Whalley
+thipeac/StenstromW09,Per Stenström
+thipeac/RochangeS09,Christine Rochange
+thipeac/RochangeS09,Pascal Sainrat
+thipeac/BhadauriaMST09,Gary S. Tyson
+thipeac/BhadauriaMST09,Karan Singh
+thipeac/BhadauriaMST09,Major Bhadauria
+thipeac/BhadauriaMST09,Sally A. McKee
+thipeac/NagarajanGK09,Arvind Krishnaswamy
+thipeac/NagarajanGK09,Rajiv Gupta 0001
+thipeac/NagarajanGK09,Vijay Nagarajan
+thipeac/HoogerbruggeT11,Andrei Sergeevich Terechko
+thipeac/HoogerbruggeT11,Jan Hoogerbrugge
+thipeac/FakhreddineAAJ07,Ghaffari Fakhreddine
+thipeac/FakhreddineAAJ07,Maher Ben Jemaa
+thipeac/FakhreddineAAJ07,Michel Auguin
+thipeac/FakhreddineAAJ07,Mohamed Abid
+thipeac/CanedoAS09,Arquimedes Canedo
+thipeac/CanedoAS09,Ben A. Abderazek
+thipeac/CanedoAS09,Masahiro Sowa
+thipeac/WelcS11,Adam Welc
+thipeac/WelcS11,Bratin Saha
+thipeac/BosschereLMNOPRSSST07,Alex Ramírez
+thipeac/BosschereLMNOPRSSST07,André Seznec
+thipeac/BosschereLMNOPRSSST07,Dionisios N. Pnevmatikatos
+thipeac/BosschereLMNOPRSSST07,Koen De Bosschere
+thipeac/BosschereLMNOPRSSST07,Michael F. P. O'Boyle
+thipeac/BosschereLMNOPRSSST07,Nacho Navarro
+thipeac/BosschereLMNOPRSSST07,Olivier Temam
+thipeac/BosschereLMNOPRSSST07,Pascal Sainrat
+thipeac/BosschereLMNOPRSSST07,Per Stenström
+thipeac/BosschereLMNOPRSSST07,Wayne Luk
+thipeac/BosschereLMNOPRSSST07,Xavier Martorell
+thipeac/ShiLL07,Chenghuai Lu
+thipeac/ShiLL07,Hsien-Hsin S. Lee
+thipeac/ShiLL07,Weidong Shi
+thipeac/ChanetCMNB09,Dominique Chanet
+thipeac/ChanetCMNB09,Enric Morancho
+thipeac/ChanetCMNB09,Javier Cabezas
+thipeac/ChanetCMNB09,Koen De Bosschere
+thipeac/ChanetCMNB09,Nacho Navarro
+thipeac/DevosBCCDS07,Dirk Stroobandt
+thipeac/DevosBCCDS07,Erik H. D'Hollander
+thipeac/DevosBCCDS07,Harald Devos
+thipeac/DevosBCCDS07,Jan M. Van Campenhout
+thipeac/DevosBCCDS07,Kristof Beyls
+thipeac/DevosBCCDS07,Mark Christiaens
+thipeac/Aggarwal09,Aneesh Aggarwal
+jgtools/Frisvad12,Jeppe Revall Frisvad
+jgtools/SeoA12,Jaewoo Seo
+jgtools/SeoA12,Ken Anjyo
+jgtools/SchretterKD12,Colas Schretter
+jgtools/SchretterKD12,Leif Kobbelt
+jgtools/SchretterKD12,Paul-Olivier Dehaye
+jgtools/AnjyoTL12,Hideki Todo
+jgtools/AnjyoTL12,John P. Lewis
+jgtools/AnjyoTL12,Ken Anjyo
+jgtools/ManoharanR13,Bimal Kumar Ray
+jgtools/ManoharanR13,Prabukumar Manoharan
+jgtools/LeBlancSAB12,Andrew Shouldice
+jgtools/LeBlancSAB12,Dirk V. Arnold
+jgtools/LeBlancSAB12,Graham LeBlanc
+jgtools/LeBlancSAB12,Stephen Brooks
+jgtools/IwanickiS12,Michal Iwanicki
+jgtools/IwanickiS12,Peter-Pike J. Sloan
+jgtools/Tarini12,Marco Tarini
+jgtools/ChampagnatS12,Frédéric Champagnat
+jgtools/ChampagnatS12,Yves Le Sant
+jgtools/Pfeifle12,Ron Pfeifle
+jgtools/UpchurchD12,Mathieu Desbrun
+jgtools/UpchurchD12,Paul Upchurch
+jgtools/McEwanSRG12,David Sheets
+jgtools/McEwanSRG12,Ian McEwan
+jgtools/McEwanSRG12,Mark Richardson
+jgtools/McEwanSRG12,Stefan Gustavson
+jgtools/Pobegailo13,Alexander P. Pobegailo
+jgtools/MousasNA13,Christos Mousas
+jgtools/MousasNA13,Christos-Nikolaos Anagnostopoulos
+jgtools/MousasNA13,Paul Newbury
+jgtools/Jacobson13,Alec Jacobson
+jgtools/Ray12,Bimal Kumar Ray
+jgtools/YuanNS12,Derek Nowrouzezahrai
+jgtools/YuanNS12,Hong Yuan
+jgtools/YuanNS12,Peter-Pike J. Sloan
+jgtools/NunesVRFT12,Alberto Raposo
+jgtools/NunesVRFT12,Alexandre Valdetaro
+jgtools/NunesVRFT12,Bruno Feijó
+jgtools/NunesVRFT12,Gustavo N. Nunes
+jgtools/NunesVRFT12,Rodrigo de Toledo
+jgtools/FrogleyJ13,D. Frogley
+jgtools/FrogleyJ13,M. D. Jones
+jgtools/Kenwright12,Ben Kenwright
+jgtools/VoSSP12,Cláudio T. Silva
+jgtools/VoSSP12,Huy T. Vo
+jgtools/VoSSP12,Luiz F. Scheidegger
+jgtools/VoSSP12,Valerio Pascucci
+jods/SaboudM08,Enrico Motta
+jods/SaboudM08,Marta Sabou
+jods/SaboudM08,Mathieu d'Aquin
+jods/PerniciS03,Barbara Pernici
+jods/PerniciS03,Monica Scannapieco
+jods/WuLCX11,Bo Chen
+jods/WuLCX11,Huayu Wu 0001
+jods/WuLCX11,Liang Xu
+jods/WuLCX11,Tok Wang Ling
+jods/RoserB08,Bernhard Bauer
+jods/RoserB08,Stephan Roser
+jods/SimperlS07,David Schlangen
+jods/SimperlS07,Elena Paslaru Bontas Simperl
+jods/GeorgeS06,Betsy George
+jods/GeorgeS06,Shashi Shekhar
+jods/MeoQTU07,Domenico Ursino
+jods/MeoQTU07,Giorgio Terracina
+jods/MeoQTU07,Giovanni Quattrone
+jods/MeoQTU07,Pasquale De Meo
+jods/YangK03,Guizhen Yang
+jods/YangK03,Michael Kifer
+jods/BettiniWJ05,Claudio Bettini
+jods/BettiniWJ05,Sushil Jajodia
+jods/BettiniWJ05,Xiaoyang Sean Wang
+jods/DasiopoulouKS09,Ioannis Kompatsiaris
+jods/DasiopoulouKS09,Michael G. Strintzis
+jods/DasiopoulouKS09,Stamatia Dasiopoulou
+jods/Piprani08,Baba Piprani
+jods/JarrarDM03,Jan Demey
+jods/JarrarDM03,Mustafa Jarrar
+jods/JarrarDM03,Robert Meersman
+jods/VolzSM05,Boris Motik
+jods/VolzSM05,Raphael Volz
+jods/VolzSM05,Steffen Staab
+jods/RinderleR07,Manfred Reichert
+jods/RinderleR07,Stefanie Rinderle
+jods/CleveMH11,Anthony Cleve
+jods/CleveMH11,Jean-Luc Hainaut
+jods/CleveMH11,Jean-Roch Meurisse
+jods/KarabatisCJLALF09,George Karabatis
+jods/KarabatisCJLALF09,Mikael Lindvall
+jods/KarabatisCJLALF09,Monish Advani
+jods/KarabatisCJLALF09,Raimund L. Feldmann
+jods/KarabatisCJLALF09,Tania Lobo
+jods/KarabatisCJLALF09,Vandana Pursnani Janeja
+jods/KarabatisCJLALF09,Zhiyuan Chen 0003
+jods/ChungM05,Dennis McLeod
+jods/ChungM05,Seokkyung Chung
+jods/EuzenatMSSS11,Christian Meilicke
+jods/EuzenatMSSS11,Cássia Trojahn dos Santos
+jods/EuzenatMSSS11,Heiner Stuckenschmidt
+jods/EuzenatMSSS11,Jérôme Euzenat
+jods/EuzenatMSSS11,Pavel Shvaiko
+jods/GugliottaDCTGDGRRS08,Alessio Gugliotta
+jods/GugliottaDCTGDGRRS08,John Domingue
+jods/GugliottaDCTGDGRRS08,Leticia Gutiérrez-Villarías
+jods/GugliottaDCTGDGRRS08,Liliana Cabral
+jods/GugliottaDCTGDGRRS08,Marc Richardson
+jods/GugliottaDCTGDGRRS08,Mary Rowlatt
+jods/GugliottaDCTGDGRRS08,Rob Davies
+jods/GugliottaDCTGDGRRS08,Sandra Stincic
+jods/GugliottaDCTGDGRRS08,Stefania Galizia
+jods/GugliottaDCTGDGRRS08,Vlad Tanasescu
+jods/PirroRT09,Domenico Talia
+jods/PirroRT09,Giuseppe Pirrò
+jods/PirroRT09,Massimo Ruffolo
+jods/SegevG07,Avigdor Gal
+jods/SegevG07,Aviv Segev
+jods/AlbertoniM08,Monica De Martino
+jods/AlbertoniM08,Riccardo Albertoni
+jods/JaudoinFPT09,Farouk Toumani
+jods/JaudoinFPT09,Frédéric Flouvat
+jods/JaudoinFPT09,Hélène Jaudoin
+jods/JaudoinFPT09,Jean-Marc Petit
+jods/MecellaSVBCB03,Antonino Virgillito
+jods/MecellaSVBCB03,Carlo Batini
+jods/MecellaSVBCB03,Massimo Mecella
+jods/MecellaSVBCB03,Monica Scannapieco
+jods/MecellaSVBCB03,Roberto Baldoni
+jods/MecellaSVBCB03,Tiziana Catarci
+jods/GrozaHD11,Siegfried Handschuh
+jods/GrozaHD11,Stefan Decker
+jods/GrozaHD11,Tudor Groza
+jods/TournairePRT11,Alexandre Termier
+jods/TournairePRT11,Jean-Marc Petit
+jods/TournairePRT11,Marie-Christine Rousset
+jods/TournairePRT11,Rémi Tournaire
+jods/AtzeniBBG09,Francesca Bugiotti
+jods/AtzeniBBG09,Giorgio Gianforme
+jods/AtzeniBBG09,Luigi Bellomarini
+jods/AtzeniBBG09,Paolo Atzeni
+jods/SaisPR09,Fatiha Saïs
+jods/SaisPR09,Marie-Christine Rousset
+jods/SaisPR09,Nathalie Pernelle
+jods/BrambillaCCCVFTT08,Andrea Turati
+jods/BrambillaCCCVFTT08,Christina Tziviskou
+jods/BrambillaCCCVFTT08,Dario Cerizza
+jods/BrambillaCCCVFTT08,Emanuele Della Valle
+jods/BrambillaCCCVFTT08,Federico Michele Facca
+jods/BrambillaCCCVFTT08,Irene Celino
+jods/BrambillaCCCVFTT08,Marco Brambilla 0001
+jods/BrambillaCCCVFTT08,Stefano Ceri
+jods/PoggiLCGLR08,Antonella Poggi
+jods/PoggiLCGLR08,Diego Calvanese
+jods/PoggiLCGLR08,Domenico Lembo
+jods/PoggiLCGLR08,Giuseppe De Giacomo
+jods/PoggiLCGLR08,Maurizio Lenzerini
+jods/PoggiLCGLR08,Riccardo Rosati
+jods/SureAS03,Jürgen Angele
+jods/SureAS03,Steffen Staab
+jods/SureAS03,York Sure
+jods/PinetS09,François Pinet
+jods/PinetS09,Michel Schneider
+jods/Pierra08,Guy Pierra
+jods/KodaliFW05,Csilla Farkas
+jods/KodaliFW05,Duminda Wijesekera
+jods/KodaliFW05,Naren Kodali
+jods/LeeSL05,Herman Lam
+jods/LeeSL05,Minsoo Lee
+jods/LeeSL05,Stanley Y. W. Su
+jods/BrownP09,Hye-Young Paik
+jods/BrownP09,Ross Brown
+jods/SkoutasSS09,Alkis Simitsis
+jods/SkoutasSS09,Dimitrios Skoutas
+jods/SkoutasSS09,Timos K. Sellis
+jods/PapastefanatosVSV09,Alkis Simitsis
+jods/PapastefanatosVSV09,George Papastefanatos
+jods/PapastefanatosVSV09,Panos Vassiliadis
+jods/PapastefanatosVSV09,Yannis Vassiliou
+jods/TroyerBK09,Frederic Kleinermann
+jods/TroyerBK09,Olga De Troyer
+jods/TroyerBK09,Wesley Bille
+jods/NebotLPAP09,Juan Manuel Pérez-Martínez
+jods/NebotLPAP09,María José Aramburu
+jods/NebotLPAP09,Rafael Berlanga Llavori
+jods/NebotLPAP09,Torben Bach Pedersen
+jods/NebotLPAP09,Victoria Nebot
+jods/GiunchigliaYS07,Fausto Giunchiglia
+jods/GiunchigliaYS07,Mikalai Yatskevich
+jods/GiunchigliaYS07,Pavel Shvaiko
+jods/Mawlood-YunisWS11,Abdul-Rahman Mawlood-Yunis
+jods/Mawlood-YunisWS11,Michael Weiss 0001
+jods/Mawlood-YunisWS11,Nicola Santoro
+jods/DouMQ05,Dejing Dou
+jods/DouMQ05,Drew V. McDermott
+jods/DouMQ05,Peishen Qi
+jods/CookeGN05,Alasdair J. G. Gray
+jods/CookeGN05,Andrew W. Cooke
+jods/CookeGN05,Werner Nutt
+jods/HurtadoPW08,Alexandra Poulovassilis
+jods/HurtadoPW08,Carlos A. Hurtado
+jods/HurtadoPW08,Peter T. Wood
+jods/TzitzikasAS05,Anastasia Analyti
+jods/TzitzikasAS05,Nicolas Spyratos
+jods/TzitzikasAS05,Yannis Tzitzikas
+jods/KalfoglouS03,W. Marco Schorlemmer
+jods/KalfoglouS03,Yannis Kalfoglou
+jods/BorgidaS03,Alexander Borgida
+jods/BorgidaS03,Luciano Serafini
+jods/BanerjeeD09,Karen C. Davis
+jods/BanerjeeD09,Sandipto Banerjee
+jods/BrunzelS08,Marko Brunzel
+jods/BrunzelS08,Myra Spiliopoulou
+jods/NiinimakiN09,Marko Niinimäki
+jods/NiinimakiN09,Tapio Niemi
+jods/Majkic09,Zoran Majkic
+jods/FletcherW09,Catharine M. Wyss
+jods/FletcherW09,George H. L. Fletcher
+jods/SantosMQV08,Cássia Trojahn dos Santos
+jods/SantosMQV08,Márcia Cristina Moraes
+jods/SantosMQV08,Paulo Quaresma
+jods/SantosMQV08,Renata Vieira
+jods/CaliLPS09,Andrea Calì
+jods/CaliLPS09,Heiner Stuckenschmidt
+jods/CaliLPS09,Livia Predoiu
+jods/CaliLPS09,Thomas Lukasiewicz
+jods/LamSPV08,Derek H. Sleeman
+jods/LamSPV08,Jeff Z. Pan
+jods/LamSPV08,Joey Sik Chun Lam
+jods/LamSPV08,Wamberto Weber Vasconcelos
+jods/GiorginiMNS03,Eleonora Nicchiarelli
+jods/GiorginiMNS03,John Mylopoulos
+jods/GiorginiMNS03,Paolo Giorgini
+jods/GiorginiMNS03,Roberto Sebastiani
+jods/MorkSRKW08,Arnon Rosenthal
+jods/MorkSRKW08,Chris Wolf
+jods/MorkSRKW08,Joel Korb
+jods/MorkSRKW08,Len Seligman
+jods/MorkSRKW08,Peter Mork
+jods/HerschelHBC06,Christian Czekay
+jods/HerschelHBC06,Jens Bleiholder
+jods/HerschelHBC06,Ralf Heese
+jods/HerschelHBC06,Sven Herschel
+jods/WangP08,Jeff Z. Pan
+jods/WangP08,Shenghui Wang
+jods/ParsonsW03,Jeffrey Parsons
+jods/ParsonsW03,Yair Wand
+fomac/HolzlG16,Matthias M. Hölzl
+fomac/HolzlG16,Thomas Gabor
+fomac/SteffenN16,Bernhard Steffen
+fomac/SteffenN16,Stefan Naujokat
+fomac/Lindvall0TDH16,Martin Becker 0002
+fomac/Lindvall0TDH16,Mikael Lindvall
+fomac/Lindvall0TDH16,Mike Hinchey
+fomac/Lindvall0TDH16,Slawomir Duszynski
+fomac/Lindvall0TDH16,Vasil L. Tenev
+fomac/Tripakis16,Stavros Tripakis
+fomac/Felderer16,Michael Felderer
+fomac/CelebicBF16,Boban Celebic
+fomac/CelebicBF16,Michael Felderer
+fomac/CelebicBF16,Ruth Breu
+fomac/Margaria16,Tiziana Margaria
+fomac/BubelDHJOSY16,Einar Broch Johnsen
+fomac/BubelDHJOSY16,Ferruccio Damiani
+fomac/BubelDHJOSY16,Ina Schaefer
+fomac/BubelDHJOSY16,Ingrid Chieh Yu
+fomac/BubelDHJOSY16,Olaf Owe
+fomac/BubelDHJOSY16,Reiner Hähnle
+fomac/BubelDHJOSY16,Richard Bubel
+fomac/LegayT16,Axel Legay
+fomac/LegayT16,Louis-Marie Traonouez
+fomac/Rensink16,Arend Rensink
+fomac/BelznerHKW16,Lenz Belzner
+fomac/BelznerHKW16,Martin Wirsing
+fomac/BelznerHKW16,Matthias M. Hölzl
+fomac/BelznerHKW16,Nora Koch
+fomac/HavelundK16,Klaus Havelund
+fomac/HavelundK16,Rahul Kumar
+fomac/Steffen16,Bernhard Steffen
+tdhms/LiuGWY14,Ching-Nung Yang
+tdhms/LiuGWY14,Chuan Kun Wu
+tdhms/LiuGWY14,Feng Liu 0001
+tdhms/LiuGWY14,Teng Guo
+tdhms/ChaK10,Byung-Ho Cha
+tdhms/ChaK10,C.-C. Jay Kuo
+tdhms/Yamaguchi14,Yasushi Yamaguchi
+tdhms/ItoK10,Hitoshi Kiya
+tdhms/ItoK10,Izumi Ito
+tdhms/LiuYLW14,Chuan Kun Wu
+tdhms/LiuYLW14,Feng Liu 0001
+tdhms/LiuYLW14,Peng Li
+tdhms/LiuYLW14,Wei Qi Yan 0001
+tdhms/MeerwaldU12,Andreas Uhl
+tdhms/MeerwaldU12,Peter Meerwald
+tdhms/XuanSCTNT09,Guorong Xuan
+tdhms/XuanSCTNT09,Jianzhong Teng
+tdhms/XuanSCTNT09,Peiqi Chai
+tdhms/XuanSCTNT09,Xuefeng Tong
+tdhms/XuanSCTNT09,Yun Q. Shi
+tdhms/XuanSCTNT09,Zhicheng Ni
+tdhms/PiperS09,Angela Piper
+tdhms/PiperS09,Reihaneh Safavi-Naini
+tdhms/EchizenYG12,Isao Echizen
+tdhms/EchizenYG12,Seiichi Gohshi
+tdhms/EchizenYG12,Takayuki Yamada
+tdhms/Vila-ForcenVKPP08,Fernando Pérez-González
+tdhms/Vila-ForcenVKPP08,José-Emilio Vila-Forcén
+tdhms/Vila-ForcenVKPP08,Oleksiy J. Koval
+tdhms/Vila-ForcenVKPP08,Sviatoslav Voloshynovskiy
+tdhms/Vila-ForcenVKPP08,Thierry Pun
+tdhms/YanWESN14,Ahmed A. Abd El-Latif
+tdhms/YanWESN14,Jianzhi Sang
+tdhms/YanWESN14,Shen Wang
+tdhms/YanWESN14,Xiamu Niu
+tdhms/YanWESN14,Xuehu Yan
+tdhms/EchizenYG15,Isao Echizen
+tdhms/EchizenYG15,Seiichi Gohshi
+tdhms/EchizenYG15,Takayuki Yamada
+tdhms/BierbrauerF08,Jessica J. Fridrich
+tdhms/BierbrauerF08,Jürgen Bierbrauer
+tdhms/JiangHT09,Anthony T. S. Ho
+tdhms/JiangHT09,Helen Treharne
+tdhms/JiangHT09,Weina Jiang
+tdhms/ZmudzinskiSB12,Martin Steinebach
+tdhms/ZmudzinskiSB12,Moazzam Butt
+tdhms/ZmudzinskiSB12,Sascha Zmudzinski
+tdhms/LiuYZG11,Hongxun Yao
+tdhms/LiuYZG11,Shaohui Liu
+tdhms/LiuYZG11,Shengping Zhang
+tdhms/LiuYZG11,Wen Gao 0001
+tdhms/LaadjelBKNY10,Ahmed Bouridane
+tdhms/LaadjelBKNY10,Fatih Kurugollu
+tdhms/LaadjelBKNY10,Moussadek Laadjel
+tdhms/LaadjelBKNY10,Omar Nibouche
+tdhms/LaadjelBKNY10,WeiQi Yan 0001
+tdhms/SubramanyamE11,A. Venkata Subramanyam
+tdhms/SubramanyamE11,Sabu Emmanuel
+tdhms/WuC12,Hao-Tian Wu
+tdhms/WuC12,Yiu-ming Cheung
+tdhms/YangJK11,Alex C. Kot
+tdhms/YangJK11,Huijuan Yang
+tdhms/YangJK11,Xudong Jiang
+tdhms/LiuT09,Tsung-Yuan Liu
+tdhms/LiuT09,Wen-Hsiang Tsai
+tdhms/Al-AssamASJ12,Ali Abboud
+tdhms/Al-AssamASJ12,Harin Sellahewa
+tdhms/Al-AssamASJ12,Hisham Al-Assam
+tdhms/Al-AssamASJ12,Sabah Jassim
+tdhms/WeirY10,Jonathan Weir
+tdhms/WeirY10,WeiQi Yan 0001
+tdhms/KraetzerD12,Christian Kraetzer
+tdhms/KraetzerD12,Jana Dittmann
+tdhms/LiuC15,Fang Liu
+tdhms/LiuC15,Lee-Ming Cheng
+tdhms/Venturini08,Ilaria Venturini
+tdhms/CimatoYW14,Chih-Cheng Wu
+tdhms/CimatoYW14,James C. N. Yang
+tdhms/CimatoYW14,Stelvio Cimato
+tdhms/YamadaEY12,Hiroshi Yoshiura
+tdhms/YamadaEY12,Isao Echizen
+tdhms/YamadaEY12,Takaaki Yamada
+tdhms/XiaZFW15,Bingbing Xia
+tdhms/XiaZFW15,Dengguo Feng
+tdhms/XiaZFW15,Mingsheng Wang
+tdhms/XiaZFW15,Xianfeng Zhao
+tdhms/SurRM12,Arijit Sur
+tdhms/SurRM12,Jayanta Mukherjee 0001
+tdhms/SurRM12,Vignesh Ramanathan
+tdhms/MakrushinSV12,Andrey Makrushin
+tdhms/MakrushinSV12,Claus Vielhauer
+tdhms/MakrushinSV12,Tobias Scheidat
+tdhms/FuY14,Bin Yu 0003
+tdhms/FuY14,Zhengxin Fu
+tdhms/NealE15,Hala ElAarag
+tdhms/NealE15,Harrison Neal
+tdhms/AycockC15,Daniel Medeiros Nunes de Castro
+tdhms/AycockC15,John Aycock
+tdhms/XiangK11,Hyoung-Joong Kim
+tdhms/XiangK11,Shijun Xiang
+tdhms/WeirY10a,Jonathan Weir
+tdhms/WeirY10a,WeiQi Yan 0001
+tdhms/MetternichWS10,Arnold W. M. Smeulders
+tdhms/MetternichWS10,Marcel Worring
+tdhms/MetternichWS10,Michael J. Metternich
+tdhms/Gloe12,Thomas Gloe
+tdhms/ZhaoSA12,Hong Zhao
+tdhms/ZhaoSA12,Nirwan Ansari
+tdhms/ZhaoSA12,Yun Q. Shi
+tdhms/QiQ09,Ji Qi
+tdhms/QiQ09,Xiaojun Qi
+tdhms/CaoK12,Alex C. Kot
+tdhms/CaoK12,Hong Cao
+tdhms/JohnsonSLGB15,Aron Laszka
+tdhms/JohnsonSLGB15,Benjamin Johnson 0001
+tdhms/JohnsonSLGB15,Jens Grossklags
+tdhms/JohnsonSLGB15,Pascal Schöttle
+tdhms/JohnsonSLGB15,Rainer Böhme
+tdhms/SutthiwanSZNS11,Hong Zhao
+tdhms/SutthiwanSZNS11,Patchara Sutthiwan
+tdhms/SutthiwanSZNS11,Tian-Tsong Ng
+tdhms/SutthiwanSZNS11,Wei Su 0001
+tdhms/SutthiwanSZNS11,Yun Q. Shi
+tdhms/KorzhikISMG08,Ekaterina Gerling
+tdhms/KorzhikISMG08,Guillermo Morales-Luna
+tdhms/KorzhikISMG08,Hideki Imai
+tdhms/KorzhikISMG08,Junji Shikata
+tdhms/KorzhikISMG08,Valery I. Korzhik
+tdhms/YampolskiyMH14,Jovan David Rebolledo Méndez
+tdhms/YampolskiyMH14,Musa Hindi
+tdhms/YampolskiyMH14,Roman V. Yampolskiy
+tdhms/JamzadK08,Mansour Jamzad
+tdhms/JamzadK08,Zahra Zahedi Kermani
+tcsb/YuanTPMWS12,Jun Pang 0001
+tcsb/YuanTPMWS12,Monique Wiesinger
+tcsb/YuanTPMWS12,Panuwat Trairatphisan
+tcsb/YuanTPMWS12,Qixia Yuan
+tcsb/YuanTPMWS12,Sjouke Mauw
+tcsb/YuanTPMWS12,Thomas Sauter
+tcsb/AndreiC12,Muffy Calder
+tcsb/AndreiC12,Oana Andrei
+tcsb/FeytmansNP05,Denis Noble
+tcsb/FeytmansNP05,Ernest Feytmans
+tcsb/FeytmansNP05,Manuel C. Peitsch
+tcsb/ForestieroMPS08,Agostino Forestiero
+tcsb/ForestieroMPS08,Carlo Mastroianni
+tcsb/ForestieroMPS08,Giandomenico Spezzano
+tcsb/ForestieroMPS08,Giuseppe Papuzzo
+tcsb/RemyR07,Elisabeth Remy
+tcsb/RemyR07,Paul Ruet
+tcsb/RuedaBN08,Alioune Ngom
+tcsb/RuedaBN08,Ataul Bari
+tcsb/RuedaBN08,Luis Rueda
+tcsb/PriamiQ05,Corrado Priami
+tcsb/PriamiQ05,Paola Quaglia
+tcsb/Ciocchetta08,Federica Ciocchetta
+tcsb/Chesi09,Graziano Chesi
+tcsb/SaffreyMHVYFBW07,Anne Warner
+tcsb/SaffreyMHVYFBW07,Anthony Finkelstein
+tcsb/SaffreyMHVYFBW07,Ian David Lockhart Bogle
+tcsb/SaffreyMHVYFBW07,James Hetherington
+tcsb/SaffreyMHVYFBW07,Marta Varela-Rey
+tcsb/SaffreyMHVYFBW07,Ofer Margoninski
+tcsb/SaffreyMHVYFBW07,Peter Saffrey
+tcsb/SaffreyMHVYFBW07,Sachie Yamaji
+tcsb/MandoiuPT05,Claudia Prajescu
+tcsb/MandoiuPT05,Dragos Trinca
+tcsb/MandoiuPT05,Ion I. Mandoiu
+tcsb/DassowM09,Jürgen Dassow
+tcsb/DassowM09,Victor Mitrana
+tcsb/ZhengL05,Wei-Mou Zheng
+tcsb/ZhengL05,Xin Liu
+tcsb/Ciocchetta09,Federica Ciocchetta
+tcsb/ZobeleyLKIK05,Anton Ishmurzin
+tcsb/ZobeleyLKIK05,Dirk Lebiedz
+tcsb/ZobeleyLKIK05,Julia Kammerer
+tcsb/ZobeleyLKIK05,Jürgen Zobeley
+tcsb/ZobeleyLKIK05,Ursula Kummer
+tcsb/BortolussiP09,Alberto Policriti
+tcsb/BortolussiP09,Luca Bortolussi
+tcsb/BeyerTLSF10,Antje Beyer
+tcsb/BeyerTLSF10,James Scott
+tcsb/BeyerTLSF10,Jasmin Fisher
+tcsb/BeyerTLSF10,Peter Thomason
+tcsb/BeyerTLSF10,Xinzhong Li
+tcsb/RadulescuSPCL11,Anne Siegel
+tcsb/RadulescuSPCL11,Clément Chatelain 0001
+tcsb/RadulescuSPCL11,Elisabeth Pécou
+tcsb/RadulescuSPCL11,Ovidiu Radulescu
+tcsb/RadulescuSPCL11,Sandrine Lagarrigue
+tcsb/XuZ05,Aidong Zhang
+tcsb/XuZ05,Xian Xu 0002
+tcsb/WangNGR08,Alioune Ngom
+tcsb/WangNGR08,Lili Wang
+tcsb/WangNGR08,Luis Rueda
+tcsb/WangNGR08,Robin Gras
+tcsb/DanosFFHK09,Jean Krivine
+tcsb/DanosFFHK09,Jérôme Feret
+tcsb/DanosFFHK09,Russell Harmer
+tcsb/DanosFFHK09,Vincent Danos
+tcsb/DanosFFHK09,Walter Fontana
+tcsb/WallaceW11,Deborah Wallace
+tcsb/WallaceW11,Rodrick Wallace
+tcsb/SongSHA05,Il-Yeol Song
+tcsb/SongSHA05,Min Song 0001
+tcsb/SongSHA05,Robert B. Allen
+tcsb/SongSHA05,Xiaohua Hu
+tcsb/HakkinenBSYR11,Andre S. Ribeiro
+tcsb/HakkinenBSYR11,Antti Häkkinen
+tcsb/HakkinenBSYR11,Fred G. Biddle
+tcsb/HakkinenBSYR11,Olli Yli-Harja
+tcsb/HakkinenBSYR11,Olli-Pekka Smolander
+tcsb/DavidBM09,Eduardo R. Mendoza
+tcsb/DavidBM09,Johnrob Y. Bantang
+tcsb/DavidBM09,Maria Pamela C. David
+tcsb/Wallace12,Rodrick Wallace
+tcsb/BrimFDS12,David Safránek
+tcsb/BrimFDS12,Jana Fabriková
+tcsb/BrimFDS12,Lubos Brim
+tcsb/BrimFDS12,Sven Drazan
+tcsb/LiuSMC05,Chunmei Liu
+tcsb/LiuSMC05,Liming Cai
+tcsb/LiuSMC05,Russell L. Malmberg
+tcsb/LiuSMC05,Yinglei Song
+tcsb/GomezAPGJV05,Alfonso Valencia
+tcsb/GomezAPGJV05,David de Juan
+tcsb/GomezAPGJV05,Florencio Pazos
+tcsb/GomezAPGJV05,Manuel Gómez
+tcsb/GomezAPGJV05,Osvaldo Graña
+tcsb/GomezAPGJV05,Ramón Alonso-Allende
+tcsb/AtakanA08,Baris Atakan
+tcsb/AtakanA08,Özgür B. Akan
+tcsb/JackP09,Andrei Paun
+tcsb/JackP09,John Jack
+tcsb/BarbutiCMM11,Andrea Maggiolo-Schettini
+tcsb/BarbutiCMM11,Giulio Caravagna
+tcsb/BarbutiCMM11,Paolo Milazzo
+tcsb/BarbutiCMM11,Roberto Barbuti
+tcsb/WallaceW08,Deborah Wallace
+tcsb/WallaceW08,Rodrick Wallace
+tcsb/MeyerSTY08,Christian F. Tschudin
+tcsb/MeyerSTY08,Daniel Schreckling
+tcsb/MeyerSTY08,Lidia Yamamoto
+tcsb/MeyerSTY08,Thomas Meyer 0004
+tcsb/WallaceW09,Deborah Wallace
+tcsb/WallaceW09,Rodrick Wallace
+tcsb/Guerriero09,Maria Luisa Guerriero
+tcsb/CalderH09,Jane Hillston
+tcsb/CalderH09,Muffy Calder
+tcsb/KolliLHPP05,Hui Liu 0008
+tcsb/KolliLHPP05,Jieyue He
+tcsb/KolliLHPP05,Michelle Hong Pan
+tcsb/KolliLHPP05,Vijaya Smitha Kolli
+tcsb/KolliLHPP05,Yi Pan 0001
+tcsb/Dressler07,Falko Dressler
+tcsb/PauleveMR11,Loïc Paulevé
+tcsb/PauleveMR11,Morgan Magnin
+tcsb/PauleveMR11,Olivier F. Roux
+tcsb/CiocchettaDHH10,Andrea Degasperi
+tcsb/CiocchettaDHH10,Federica Ciocchetta
+tcsb/CiocchettaDHH10,Jane Hillston
+tcsb/CiocchettaDHH10,John K. Heath
+tcsb/BartocciLMP12,Emanuela Merelli
+tcsb/BartocciLMP12,Ezio Bartocci
+tcsb/BartocciLMP12,Nicola Paoletti
+tcsb/BartocciLMP12,Pietro Liò
+tcsb/SegataB08,Enrico Blanzieri
+tcsb/SegataB08,Nicola Segata
+tcsb/AngiusHW12,Alessio Angius
+tcsb/AngiusHW12,András Horváth
+tcsb/AngiusHW12,Verena Wolf
+tcsb/BlinFRV05,Guillaume Blin
+tcsb/BlinFRV05,Guillaume Fertin
+tcsb/BlinFRV05,Romeo Rizzi
+tcsb/BlinFRV05,Stéphane Vialette
+tcsb/LarcherPR10,Alessandro Romanel
+tcsb/LarcherPR10,Corrado Priami
+tcsb/LarcherPR10,Roberto Larcher
+tcsb/UhrmacherDZ05,Adelinde M. Uhrmacher
+tcsb/UhrmacherDZ05,Bernard P. Zeigler
+tcsb/UhrmacherDZ05,Daniela Degenring
+tcsb/DubrovaTT08,Elena Dubrova
+tcsb/DubrovaTT08,Hannu Tenhunen
+tcsb/DubrovaTT08,Maxim Teslenko
+tcsb/SmithW08,Kay C. Wiese
+tcsb/SmithW08,Scott F. Smith 0002
+tcsb/LoeweGWMGH11,Jane Hillston
+tcsb/LoeweGWMGH11,Laurence Loewe
+tcsb/LoeweGWMGH11,Maria Luisa Guerriero
+tcsb/LoeweGWMGH11,Peter Ghazal
+tcsb/LoeweGWMGH11,Steven Watterson
+tcsb/LoeweGWMGH11,Stuart L. Moodie
+tcsb/Roux-RouquieS05,Magali Roux-Rouquié
+tcsb/Roux-RouquieS05,Michel Soto
+tcsb/BreitlingDGH10,David R. Gilbert
+tcsb/BreitlingDGH10,Monika Heiner
+tcsb/BreitlingDGH10,Rainer Breitling
+tcsb/BreitlingDGH10,Robin Donaldson
+tcsb/MizeraCP12,Andrzej Mizera
+tcsb/MizeraCP12,Eugen Czeizler
+tcsb/MizeraCP12,Ion Petre
+tcsb/ChopraB08,Andreas Bender
+tcsb/ChopraB08,Paras Chopra
+tcsb/BarbutiMMTT08,Andrea Maggiolo-Schettini
+tcsb/BarbutiMMTT08,Angelo Troina
+tcsb/BarbutiMMTT08,Paolo Milazzo
+tcsb/BarbutiMMTT08,Paolo Tiberi
+tcsb/BarbutiMMTT08,Roberto Barbuti
+tcsb/PedersenP10,Gordon D. Plotkin
+tcsb/PedersenP10,Michael Pedersen
+tcsb/LeiD05,Yang Dai
+tcsb/LeiD05,Zhengdeng Lei
+tcsb/ShenhavSLK05,Ariel Solomon
+tcsb/ShenhavSLK05,Barak Shenhav
+tcsb/ShenhavSLK05,Doron Lancet
+tcsb/ShenhavSLK05,Ran Kafri
+tcsb/HeinerLGM09,David R. Gilbert
+tcsb/HeinerLGM09,Monika Heiner
+tcsb/HeinerLGM09,Sebastian Lehrack
+tcsb/HeinerLGM09,Wolfgang Marwan
+tcsb/GhoshGBD07,Kalyan Basu
+tcsb/GhoshGBD07,Preetam Ghosh
+tcsb/GhoshGBD07,Sajal K. Das 0001
+tcsb/GhoshGBD07,Samik Ghosh
+tcsb/EhrenfeuchtKKR12,Andrzej Ehrenfeucht
+tcsb/EhrenfeuchtKKR12,Grzegorz Rozenberg
+tcsb/EhrenfeuchtKKR12,Jetty Kleijn
+tcsb/EhrenfeuchtKKR12,Maciej Koutny
+tcsb/AmanC09,Bogdan Aman
+tcsb/AmanC09,Gabriel Ciobanu
+tcsb/Priami07,Corrado Priami
+tcsb/KuttlerLN10,Cédric Lhoussaine
+tcsb/KuttlerLN10,Céline Kuttler
+tcsb/KuttlerLN10,Mirabelle Nebut
+tcsb/ZhangCS05,Francis Y. L. Chin
+tcsb/ZhangCS05,Hong Shen 0001
+tcsb/ZhangCS05,Qiangfeng Zhang
+tcsb/CoppoDDGGT11,Angelo Troina
+tcsb/CoppoDDGGT11,Elena Grassi
+tcsb/CoppoDDGGT11,Ferruccio Damiani
+tcsb/CoppoDDGGT11,Mario Coppo
+tcsb/CoppoDDGGT11,Maurizio Drocco
+tcsb/CoppoDDGGT11,Mike Guether
+tcsb/VersariZ12,Cristian Versari
+tcsb/VersariZ12,Gianluigi Zavattaro
+tcsb/AnalouiJ07,Morteza Analoui
+tcsb/AnalouiJ07,Shahram Jamali
+tcsb/NakhlehW05,Li-San Wang
+tcsb/NakhlehW05,Luay Nakhleh
+tcsb/GoldsteinW11,Gabriel A. Wainer
+tcsb/GoldsteinW11,Rhys Goldstein
+tcsb/JohnLNU10,Adelinde M. Uhrmacher
+tcsb/JohnLNU10,Cédric Lhoussaine
+tcsb/JohnLNU10,Joachim Niehren
+tcsb/JohnLNU10,Mathias John
+trs/PolkowskiS10,Lech Polkowski
+trs/PolkowskiS10,Maria Semeniuk-Polkowska
+trs/StrakowskiR08,Henryk Rybinski
+trs/StrakowskiR08,Tomasz Strakowski
+trs/Ramanna10,Sheela Ramanna
+trs/MaciochaK09,Agnieszka Maciocha
+trs/MaciochaK09,Jerzy Kisielnicki
+trs/YaoF13,Rong Fu
+trs/YaoF13,Yiyu Yao
+trs/Janicki11,Ryszard Janicki
+trs/MajiP08,Pradipta Maji
+trs/MajiP08,Sankar K. Pal
+trs/SurajG08,Piotr Grochowalski
+trs/SurajG08,Zbigniew Suraj
+trs/YamaguchiMLN10,Atsuo Murata
+trs/YamaguchiMLN10,Daisuke Yamaguchi
+trs/YamaguchiMLN10,GuoDong Li
+trs/YamaguchiMLN10,Masatake Nagai
+trs/Pancerz15,Krzysztof Pancerz
+trs/Janusz12,Andrzej Janusz
+trs/VirginiaN15,Gloria Virginia
+trs/VirginiaN15,Hung Son Nguyen
+trs/ChenLLHK08,D. Marc Kilgour
+trs/ChenLLHK08,Jason K. Levy
+trs/ChenLLHK08,Keith W. Hipel
+trs/ChenLLHK08,Kevin W. Li
+trs/ChenLLHK08,Ye Chen
+trs/HanP08,James F. Peters
+trs/HanP08,Liting Han
+trs/SinghZR14,Kavita R. Singh
+trs/SinghZR14,Mukesh A. Zaveri
+trs/SinghZR14,Mukesh M. Raghuwanshi
+trs/MarekT08,Miroslaw Truszczynski
+trs/MarekT08,Victor W. Marek
+trs/MoshkovSS08,Andrzej Skowron
+trs/MoshkovSS08,Mikhail Ju. Moshkov
+trs/MoshkovSS08,Zbigniew Suraj
+trs/YueM09,Duoqian Miao
+trs/YueM09,Xiaodong Yue
+trs/OrlowskaR08,Ewa Orlowska
+trs/OrlowskaR08,Ingrid Rewitzky
+trs/Wolski13,Marcin Wolski
+trs/KostekWS08,Bozena Kostek
+trs/KostekWS08,Jaroslaw Wójcik
+trs/KostekWS08,Piotr Szczuko
+trs/MitraMC08,Bidyut Baran Chaudhuri
+trs/MitraMC08,Mandar Mitra
+trs/MitraMC08,Sucharita Mitra
+trs/Jaworski11,Wojciech Jaworski
+trs/WuM11,Ju-Sheng Mi
+trs/WuM11,Wei-Zhi Wu
+trs/Mani19,A. Mani
+trs/MarekS14,Andrzej Skowron
+trs/MarekS14,Victor W. Marek
+trs/SunMZ10,Duoqian Miao
+trs/SunMZ10,Hongyun Zhang
+trs/SunMZ10,Lijun Sun
+trs/ChanT11,Chien-Chung Chan
+trs/ChanT11,Gwo-Hshiung Tzeng
+trs/Szczuka11,Marcin S. Szczuka
+trs/XuS10,Jiucheng Xu
+trs/XuS10,Lin Sun 0002
+trs/MoshkovSS10,Andrzej Skowron
+trs/MoshkovSS10,Mikhail Moshkov
+trs/MoshkovSS10,Zbigniew Suraj
+trs/Pal10,Sankar K. Pal
+trs/El-MonsefAM12,Emad A. Marei
+trs/El-MonsefAM12,Hassan M. Abu-Donia
+trs/El-MonsefAM12,Mohamed E. Abd El-Monsef
+trs/YuWL11,Fakuan Lan
+trs/YuWL11,Guoyin Wang
+trs/YuWL11,Hong Yu
+trs/KryszkiewiczL08,Marzena Kryszkiewicz
+trs/KryszkiewiczL08,Piotr Lasek
+trs/Wojnarski08,Marcin Wojnarski
+trs/Wolski09,Marcin Wolski
+trs/MichalakS08,Marcin Michalak
+trs/MichalakS08,Marek Sikora
+trs/HeptingSS11,Daryl H. Hepting
+trs/HeptingSS11,Dominik Slezak
+trs/HeptingSS11,Richard Spring
+trs/Pulawski11,Lukasz Pulawski
+trs/SamantaC11,Mihir K. Chakraborty
+trs/SamantaC11,Pulak Samanta
+trs/Gopaulsingh19,Alexa Gopaulsingh
+trs/WuX13,Wei-Zhi Wu
+trs/WuX13,You-Hong Xu
+trs/AzadMZ16,Beata Zielosko
+trs/AzadMZ16,Mikhail Ju. Moshkov
+trs/AzadMZ16,Mohammad Azad
+trs/Revett08,Kenneth Revett
+trs/Pagliani16,Piero Pagliani
+trs/BediC11,Punam Bedi
+trs/BediC11,Suruchi Chawla
+trs/SamantaC15,Mihir Kumar Chakraborty
+trs/SamantaC15,Pulak Samanta
+trs/GunjiH10,Taichi Haruna
+trs/GunjiH10,Yukio-Pegio Gunji
+trs/ZwanSKC08,Andrzej Czyzewski
+trs/ZwanSKC08,Bozena Kostek
+trs/ZwanSKC08,Pawel Zwan
+trs/ZwanSKC08,Piotr Szczuko
+trs/Henry12,Christopher J. Henry
+trs/MoshkovPZ08a,Beata Zielosko
+trs/MoshkovPZ08a,Marcin Piliszczuk
+trs/MoshkovPZ08a,Mikhail Ju. Moshkov
+trs/Sikora10,Marek Sikora
+trs/HenryS14,Christopher J. Henry
+trs/HenryS14,Garrett Smith
+trs/KhanB10,Md. Aquil Khan
+trs/KhanB10,Mohua Banerjee
+trs/OsmiaiowskiP10,Lech Polkowski
+trs/OsmiaiowskiP10,Pawei Osmiaiowski
+trs/Wolski08a,Marcin Wolski
+trs/LiuLL14,Decui Liang
+trs/LiuLL14,Dun Liu
+trs/LiuLL14,Tianrui Li
+trs/AzadCMZ15,Beata Zielosko
+trs/AzadCMZ15,Igor Chikalov
+trs/AzadCMZ15,Mikhail Ju. Moshkov
+trs/AzadCMZ15,Mohammad Azad
+trs/AnarakiSBE16,Javad Rahimipour Anaraki
+trs/AnarakiSBE16,Mahdi Eftekhari
+trs/AnarakiSBE16,Saeed Samet
+trs/AnarakiSBE16,Wolfgang Banzhaf
+trs/Csajbok13,Zoltán Csajbók
+trs/Ziarko08,Wojciech Ziarko
+trs/JuYDS14,Hengrong Ju
+trs/JuYDS14,Huili Dou
+trs/JuYDS14,Jingjing Song
+trs/JuYDS14,Xibei Yang
+trs/StrakowskiR10,Henryk Rybinski
+trs/StrakowskiR10,Tomasz Strakowski
+trs/SakaiIKN08,Hiroshi Sakai
+trs/SakaiIKN08,Kazuhiro Koba
+trs/SakaiIKN08,Michinori Nakata
+trs/SakaiIKN08,Ryuji Ishibashi
+trs/Gomolinska08,Anna Gomolinska
+trs/Gomolinska09,Anna Gomolinska
+trs/MalyszkoS11,Dariusz Malyszko
+trs/MalyszkoS11,Jaroslaw Stepaniuk
+trs/TianZK11,David Tian
+trs/TianZK11,John A. Keane
+trs/TianZK11,Xiao-Jun Zeng
+trs/FanLL15,Churn-Jung Liau
+trs/FanLL15,Duen-Ren Liu
+trs/FanLL15,Tuan-Fang Fan
+trs/YinDG11,Günther Gediga
+trs/YinDG11,Ivo Düntsch
+trs/YinDG11,Xiang Yin
+trs/GedigaD14,Günther Gediga
+trs/GedigaD14,Ivo Düntsch
+trs/Polkowski19a,Lech Polkowski
+trs/CattaneoC09,Davide Ciucci
+trs/CattaneoC09,Gianpiero Cattaneo
+trs/WasilewskiPR11,James F. Peters
+trs/WasilewskiPR11,Piotr Wasilewski
+trs/WasilewskiPR11,Sheela Ramanna
+trs/Mani12,A. Mani
+trs/Zielosko15,Beata Zielosko
+trs/PatraN11,Bidyut Kr. Patra
+trs/PatraN11,Sukumar Nandi
+trs/PodsiadloR14,Henryk Rybinski
+trs/PodsiadloR14,Mariusz Podsiadlo
+trs/Grzymala-Busse13,Jerzy W. Grzymala-Busse
+trs/WojnaL19,Arkadiusz Wojna
+trs/WojnaL19,Rafal Latkowski
+trs/SamantaC08,Mihir K. Chakraborty
+trs/SamantaC08,Pulak Samanta
+trs/SzczukaJ13,Andrzej Janusz
+trs/SzczukaJ13,Marcin S. Szczuka
+trs/MazumdarMM10,Debasis Mazumdar
+trs/MazumdarMM10,Soma Mitra
+trs/MazumdarMM10,Sushmita Mitra
+trs/DuntschG15,Günther Gediga
+trs/DuntschG15,Ivo Düntsch
+trs/Gomolinska10,Anna Gomolinska
+trs/DelimataMMPSS10,Andrzej Skowron
+trs/DelimataMMPSS10,Barbara Marszal-Paszek
+trs/DelimataMMPSS10,Mikhail Moshkov
+trs/DelimataMMPSS10,Pawel Delimata
+trs/DelimataMMPSS10,Piotr Paszek
+trs/DelimataMMPSS10,Zbigniew Suraj
+trs/Cyran08,Krzysztof A. Cyran
+trs/PolkowskiA08,Lech Polkowski
+trs/PolkowskiA08,Piotr Artiemjew
+trs/GanterM11,Bernhard Ganter
+trs/GanterM11,Christian Meschke
+trs/Terlecki10,Pawel Terlecki
+trs/PuriK11,Charu Puri
+trs/PuriK11,Naveen Kumar 0001
+trs/Grzymala-Busse10,Jerzy W. Grzymala-Busse
+trs/LiuSZ08,Huawen Liu
+trs/LiuSZ08,Huijie Zhang
+trs/LiuSZ08,Jigui Sun
+trs/TsangZ10,Eric C. C. Tsang
+trs/TsangZ10,Suyun Zhao
+trs/PolkowskiA08a,Lech Polkowski
+trs/PolkowskiA08a,Piotr Artiemjew
+trs/WangZHYHHSLSASCLQZXMMWWD08,Dongyi Ye
+trs/WangZHYHHSLSASCLQZXMMWWD08,Duoqian Miao
+trs/WangZHYHHSLSASCLQZXMMWWD08,Fan Min
+trs/WangZHYHHSLSASCLQZXMMWWD08,Guoyin Wang
+trs/WangZHYHHSLSASCLQZXMMWWD08,Houkuan Huang
+trs/WangZHYHHSLSASCLQZXMMWWD08,Huanglin Zeng
+trs/WangZHYHHSLSASCLQZXMMWWD08,Jianhua Dai
+trs/WangZHYHHSLSASCLQZXMMWWD08,Jiye Liang
+trs/WangZHYHHSLSASCLQZXMMWWD08,Keming Xie
+trs/WangZHYHHSLSASCLQZXMMWWD08,Keyun Qin
+trs/WangZHYHHSLSASCLQZXMMWWD08,Lin Shang
+trs/WangZHYHHSLSASCLQZXMMWWD08,Liping An
+trs/WangZHYHHSLSASCLQZXMMWWD08,Qinghua Hu
+trs/WangZHYHHSLSASCLQZXMMWWD08,Qinghua Zhang
+trs/WangZHYHHSLSASCLQZXMMWWD08,Shanben Chen
+trs/WangZHYHHSLSASCLQZXMMWWD08,Wei-Zhi Wu
+trs/WangZHYHHSLSASCLQZXMMWWD08,Xuegang Hu
+trs/WangZHYHHSLSASCLQZXMMWWD08,Ying Sai
+trs/WangZHYHHSLSASCLQZXMMWWD08,Yongli Li
+trs/WangZHYHHSLSASCLQZXMMWWD08,Zhaocong Wu
+trs/WangZHYHHSLSASCLQZXMMWWD08,Zhongzhi Shi
+trs/ZhaoWY11,S. K. Michael Wong
+trs/ZhaoWY11,Yan Zhao 0001
+trs/ZhaoWY11,Yiyu Yao
+trs/NagarajanU11,D. Umadevi
+trs/NagarajanU11,E. K. R. Nagarajan
+trs/GirishJ11,K. P. Girish
+trs/GirishJ11,Sunil Jacob John
+trs/BazanBPBSD15,Barbara Sokolowska
+trs/BazanBPBSD15,Jan G. Bazan
+trs/BazanBPBSD15,Przemyslaw Wiktor Pardel
+trs/BazanBPBSD15,Stanislawa Bazan-Socha
+trs/BazanBPBSD15,Sylwia Buregwa-Czuma
+trs/BazanBPBSD15,Sylwia Dziedzina
+trs/PrasadR14,C. Raghavendra Rao 0001
+trs/PrasadR14,P. S. V. S. Sai Prasad
+trs/Wolski08,Marcin Wolski
+trs/KobylinskiW11,Krzysztof Walczak 0002
+trs/KobylinskiW11,Lukasz Kobylinski
+trs/GrecoMS10,Benedetto Matarazzo
+trs/GrecoMS10,Roman Slowinski
+trs/GrecoMS10,Salvatore Greco
+trs/YuH19,Christopher J. Henry
+trs/YuH19,Jiajie Yu
+trs/JiaS14,Lin Shang
+trs/JiaS14,Xiuyi Jia
+trs/TrabelsiEL11,Pawan Lingras
+trs/TrabelsiEL11,Salsabil Trabelsi
+trs/TrabelsiEL11,Zied Elouedi
+trs/EklundG08,María Ángeles Galán García
+trs/EklundG08,Patrik Eklund
+trs/YaoZWH08,Jue Wang 0004
+trs/YaoZWH08,Suqing Han
+trs/YaoZWH08,Yan Zhao 0001
+trs/YaoZWH08,Yiyu Yao
+trs/BonikowskiW08,Urszula Wybraniec-Skardowska
+trs/BonikowskiW08,Zbigniew Bonikowski
+trs/Sosnowski19,Lukasz Sosnowski
+trs/XuWW14,Guoyin Wang
+trs/XuWW14,Wei-Zhi Wu
+trs/XuWW14,You-Hong Xu
+trs/JensenC11,Chris Cornelis
+trs/JensenC11,Richard Jensen
+trs/HenryR13,Christopher J. Henry
+trs/HenryR13,Sheela Ramanna
+trs/AbeT11,Hidenao Abe
+trs/AbeT11,Shusaku Tsumoto
+trs/Bazan08,Jan G. Bazan
+trs/Nguyen08,Tuan Trung Nguyen
+trs/BunderBC08,Martin W. Bunder
+trs/BunderBC08,Mihir K. Chakraborty
+trs/BunderBC08,Mohua Banerjee
+trs/NguyenN15,Hung Son Nguyen
+trs/NguyenN15,Long Giang Nguyen
+trs/Jaworski08,Wojciech Jaworski
+trs/CiucciD14,Davide Ciucci
+trs/CiucciD14,Didier Dubois
+trs/Khan16,Md. Aquil Khan
+trs/BianucciC09,Daniela Bianucci
+trs/BianucciC09,Gianpiero Cattaneo
+trs/PetersLW08,Georg Peters
+trs/PetersLW08,Martin Lampart
+trs/PetersLW08,Richard Weber
+trs/LiuMZZ14,Fan Min
+trs/LiuMZZ14,Hong Zhao
+trs/LiuMZZ14,Jiabin Liu
+trs/LiuMZZ14,William Zhu
+trs/Szczech09,Izabela Szczech
+trs/Mani08,A. Mani
+trs/Kundu15,Pradip Kundu
+trs/Cyran10,Krzysztof A. Cyran
+trs/LeJ08,Dai Tri Man Le
+trs/LeJ08,Ryszard Janicki
+trs/Mani16,A. Mani
+trs/Polkowski19,Lech Polkowski
+trs/Wakulicz-DejaN08,Agnieszka Nowak
+trs/Wakulicz-DejaN08,Alicja Wakulicz-Deja
+trs/Grzymala-BusseR08,Jerzy W. Grzymala-Busse
+trs/Grzymala-BusseR08,Wojciech Rzasa
+trs/SahaMP10,C. A. Murthy
+trs/SahaMP10,Sankar K. Pal
+trs/SahaMP10,Suman Saha
+trs/MoshkovPZ08,Beata Zielosko
+trs/MoshkovPZ08,Marcin Piliszczuk
+trs/MoshkovPZ08,Mikhail Ju. Moshkov
+trs/ElhadiZ08,Mohamed T. Elhadi
+trs/ElhadiZ08,Wojciech Ziarko
+trs/Grzymala-BusseR10,Jerzy W. Grzymala-Busse
+trs/Grzymala-BusseR10,Wojciech Rzasa
+trs/Przybyszewski08,Andrzej W. Przybyszewski
+trs/LiL13,Fan Li
+trs/LiL13,Qihe Liu
+trs/KuzelewskaS08,Jaroslaw Stepaniuk
+trs/KuzelewskaS08,Urszula Kuzelewska
+trs/Jiao11,Na Jiao
+trs/PuzioP13,James F. Peters
+trs/PuzioP13,Leszek Puzio
+trs/Janusz14,Andrzej Janusz
+trs/BlaszczynskiSS10,Jerzy Blaszczynski
+trs/BlaszczynskiSS10,Jerzy Stefanowski
+trs/BlaszczynskiSS10,Roman Slowinski
+trs/Pancerz09,Krzysztof Pancerz
+trs/YuWJ14,Hong Yu
+trs/YuWJ14,Peng Jiao
+trs/YuWJ14,Ying Wang
+tcos/KimVMG13,Alexandra V. Kim
+tcos/KimVMG13,Alfons Geiger
+tcos/KimVMG13,Nikolai N. Medvedev
+tcos/KimVMG13,Vladimir Voloshin
+tcos/ManzaliniBMM12,Antonio Manzalini
+tcos/ManzaliniBMM12,Corrado Moiso
+tcos/ManzaliniBMM12,Nermin Brgulja
+tcos/ManzaliniBMM12,Roberto Minerva
+tcos/SayedUPPR16,Carlton Reeve
+tcos/SayedUPPR16,Hassan Ugail
+tcos/SayedUPPR16,Ian J. Palmer
+tcos/SayedUPPR16,Jon Purdy
+tcos/SayedUPPR16,Zahra Sayed
+tcos/ShamsuddinULW13,Elizabeth Walters
+tcos/ShamsuddinULW13,Hassan Ugail
+tcos/ShamsuddinULW13,Syadiah Nor Wan Shamsuddin
+tcos/ShamsuddinULW13,Valerie Lesk
+tcos/BoacaB08,Ioana Boaca
+tcos/BoacaB08,Tudor Boaca
+tcos/PolasekU13,Ivan Polásek
+tcos/PolasekU13,Marek Uhlar
+tcos/JiaWWZXLZ16,Cuiting Liu
+tcos/JiaWWZXLZ16,Junli Zhao
+tcos/JiaWWZXLZ16,Kang Wang
+tcos/JiaWWZXLZ16,Mingquan Zhou
+tcos/JiaWWZXLZ16,Pengfei Xu 0005
+tcos/JiaWWZXLZ16,Taorui Jia
+tcos/JiaWWZXLZ16,Zhongke Wu
+tcos/ManousopoulosDT08,Polychronis Manousopoulos
+tcos/ManousopoulosDT08,Theoharis Theoharis
+tcos/ManousopoulosDT08,Vasileios Drakopoulos
+tcos/Jamili15,Amin Jamili
+tcos/CortesiFHZ18,Agostino Cortesi
+tcos/CortesiFHZ18,Matteo Zanioli
+tcos/CortesiFHZ18,Pietro Ferrara
+tcos/CortesiFHZ18,Raju Halder
+tcos/ArmknechtSSVW10,Ahmad-Reza Sadeghi
+tcos/ArmknechtSSVW10,Alessandra Scafuro
+tcos/ArmknechtSSVW10,Christian Wachsmann
+tcos/ArmknechtSSVW10,Frederik Armknecht
+tcos/ArmknechtSSVW10,Ivan Visconti
+tcos/LiuSZL09,Huawen Liu
+tcos/LiuSZL09,Huijie Zhang
+tcos/LiuSZL09,Jigui Sun
+tcos/LiuSZL09,Lei Liu
+tcos/BraunBWS18,Alexander Scheurer
+tcos/BraunBWS18,Matthias Wölfel
+tcos/BraunBWS18,Melinda C. Braun
+tcos/BraunBWS18,Sandra Beuck
+tcos/PrakashTC12,Arun Prakash
+tcos/PrakashTC12,Ranganai Chaparadza
+tcos/PrakashTC12,Zoltán Theisz
+tcos/SampaioVPO13,E. J. Solteiro Pires
+tcos/SampaioVPO13,João Varajão
+tcos/SampaioVPO13,Luciano Sampaio
+tcos/SampaioVPO13,Paulo B. de Moura Oliveira
+tcos/CardonaS14,Luis Cardona
+tcos/CardonaS14,Suguru Saito
+tcos/KarKC15,Amit Konar
+tcos/KarKC15,Aruna Chakraborty
+tcos/KarKC15,Reshma Kar
+tcos/FioreG10,Dario Fiore
+tcos/FioreG10,Rosario Gennaro
+tcos/Zhang09,Du Zhang
+tcos/GuptaSS15,R. K. Singh
+tcos/GuptaSS15,S. N. Sharan
+tcos/GuptaSS15,Sindhu Hak Gupta
+tcos/ChenG13,Craig Gotsman
+tcos/ChenG13,Renjie Chen 0001
+tcos/CrandallBYWOSWC09,Daniela A. S. de Oliveira
+tcos/CrandallBYWOSWC09,Frederic T. Chong
+tcos/CrandallBYWOSWC09,Gary Wassermann
+tcos/CrandallBYWOSWC09,Jedidiah R. Crandall
+tcos/CrandallBYWOSWC09,John Brevik
+tcos/CrandallBYWOSWC09,Shaozhi Ye
+tcos/CrandallBYWOSWC09,Shyhtsun Felix Wu
+tcos/CrandallBYWOSWC09,Zhendong Su
+tcos/Vathy-FogarassyKA08,Attila Kiss 0001
+tcos/Vathy-FogarassyKA08,János Abonyi
+tcos/Vathy-FogarassyKA08,Ágnes Vathy-Fogarassy
+tcos/ShrivastavaBTC13,Brijesh Kumar Chaurasia
+tcos/ShrivastavaBTC13,Geetam Singh Tomar
+tcos/ShrivastavaBTC13,Laxmi Shrivastava
+tcos/ShrivastavaBTC13,Sarita S. Bhadauraia
+tcos/HannielB10,Gill Barequet
+tcos/HannielB10,Iddo Hanniel
+tcos/HaoR10,Feng Hao
+tcos/HaoR10,Peter Ryan
+tcos/YaoZW08,Jue Wang
+tcos/YaoZW08,Yan Zhao 0001
+tcos/YaoZW08,Yiyu Yao
+tcos/LuoLCYL11,Chih-Chung Lin
+tcos/LuoLCYL11,I-Ming Chen
+tcos/LuoLCYL11,Song Huat Yeo
+tcos/LuoLCYL11,Tsai-Yen Li
+tcos/LuoLCYL11,Zhiqiang Luo
+tcos/DuttaPG10,Malay Kishore Dutta
+tcos/DuttaPG10,Phalguni Gupta
+tcos/DuttaPG10,Vinay K. Pathak
+tcos/RahmanKJMA18,Asish Mukhopadhyay
+tcos/RahmanKJMA18,Cory Jeane
+tcos/RahmanKJMA18,Md. Zamilur Rahman
+tcos/RahmanKJMA18,Udayamoorthy Navaneetha Krishnan
+tcos/RahmanKJMA18,Yash P. Aneja
+tcos/El-TawilA10a,Magdy A. El-Tawil
+tcos/El-TawilA10a,Noha A. Al-Mulla
+tcos/SourinSWG09,Alexei Sourin
+tcos/SourinSWG09,Lei Wei 0002
+tcos/SourinSWG09,Olga Sourina
+tcos/SourinSWG09,Paul Gagnon
+tcos/PirzadehDH10,Abdelwahab Hamou-Lhadj
+tcos/PirzadehDH10,Danny Dubé
+tcos/PirzadehDH10,Heidar Pirzadeh
+tcos/BlecicCT09,Arnaldo Cecchini
+tcos/BlecicCT09,Giuseppe A. Trunfio
+tcos/BlecicCT09,Ivan Blecic
+tcos/MasangoMAM18,Bokang Mangoale
+tcos/MasangoMAM18,Francois Mouton
+tcos/MasangoMAM18,Mfundo Masango
+tcos/MasangoMAM18,Palesa Antony
+tcos/RoyB18,Debotosh Bhattacharjee
+tcos/RoyB18,Hiranmoy Roy
+tcos/ChhabraS10,Siddhartha Chhabra
+tcos/ChhabraS10,Yan Solihin
+tcos/ElbazTSGBM10,Albert Martinez
+tcos/ElbazTSGBM10,Gilles Sassatelli
+tcos/ElbazTSGBM10,Lionel Torres
+tcos/ElbazTSGBM10,Michel Bardouillet
+tcos/ElbazTSGBM10,Pierre Guillemin
+tcos/ElbazTSGBM10,Reouven Elbaz
+tcos/SarkarMSS18,Anjishnu Mondal
+tcos/SarkarMSS18,Ankita Singh
+tcos/SarkarMSS18,Rajib Sarkar
+tcos/SarkarMSS18,Sanjoy Kumar Saha
+tcos/HoritaTN14,Itsuo Takanami
+tcos/HoritaTN14,Kazuhiro Nishimura
+tcos/HoritaTN14,Tadayoshi Horita
+tcos/HussainHS10,Malik Zawwar Hussain
+tcos/HussainHS10,Maria Hussain
+tcos/HussainHS10,Muhammad Sarfraz 0001
+tcos/SharmaA11,François Anton
+tcos/SharmaA11,Ojaswa Sharma
+tcos/LiuSN11,Minh Khoa Nguyen
+tcos/LiuSN11,Olga Sourina
+tcos/LiuSN11,Yisi Liu
+tcos/NichollAA10,Abbes Amira
+tcos/NichollAA10,Afandi Ahmad
+tcos/NichollAA10,Paul Raymond Nicholl
+tcos/MelloWFCB09,Davi da Silva Böger
+tcos/MelloWFCB09,Edson T. de Camargo
+tcos/MelloWFCB09,Emerson Ribeiro de Mello
+tcos/MelloWFCB09,Joni da Silva Fraga
+tcos/MelloWFCB09,Michelle S. Wangham
+tcos/HoritaTATK15,Itsuo Takanami
+tcos/HoritaTATK15,Masakazu Akiba
+tcos/HoritaTATK15,Mina Terauchi
+tcos/HoritaTATK15,Tadayoshi Horita
+tcos/HoritaTATK15,Tsuneo Kanno
+tcos/TakanamiHATK16,Itsuo Takanami
+tcos/TakanamiHATK16,Masakazu Akiba
+tcos/TakanamiHATK16,Mina Terauchi
+tcos/TakanamiHATK16,Tadayoshi Horita
+tcos/TakanamiHATK16,Tsuneo Kanno
+tcos/BarrigaRRR13,Félix Ramos
+tcos/BarrigaRRR13,Luis-Felipe Rodríguez
+tcos/BarrigaRRR13,Marco A. Ramos 0001
+tcos/BarrigaRRR13,Silviano Díaz Barriga
+tcos/MatrosovIS13,Alexey V. Ignatenko
+tcos/MatrosovIS13,Mikhail Matrosov
+tcos/MatrosovIS13,Sergey Sivovolenko
+tcos/AleksandrovPC16,Alexander Yu. Aleksandrov
+tcos/AleksandrovPC16,Alexey V. Platonov
+tcos/AleksandrovPC16,Yangzhou Chen
+tcos/AichMSM09,Arun K. Majumdar
+tcos/AichMSM09,Samrat Mondal
+tcos/AichMSM09,Shamik Sural
+tcos/AichMSM09,Subhendu Aich
+tcos/SibaiK09,Fadi N. Sibai
+tcos/SibaiK09,Hashir Karim Kidwai
+tcos/XuFTXM18,Caie Xu
+tcos/XuFTXM18,Jiayi Xu
+tcos/XuFTXM18,Masahiro Toyoura
+tcos/XuFTXM18,Shota Fushimi
+tcos/XuFTXM18,Xiaoyang Mao
+tcos/DegtyarevG16,Alexander B. Degtyarev
+tcos/DegtyarevG16,Ivan Gankevich
+tcos/ThapliyalJNA13,A. N. Nagamani
+tcos/ThapliyalJNA13,H. V. Jayashree
+tcos/ThapliyalJNA13,Hamid R. Arabnia
+tcos/ThapliyalJNA13,Himanshu Thapliyal
+tcos/TianWH09,Kai Hu
+tcos/TianWH09,Yingxu Wang
+tcos/TianWH09,Yousheng Tian
+tcos/RocheA09,Unai Arronategui
+tcos/RocheA09,Victor P. Roche
+tcos/SnaselKGA13,Ajith Abraham
+tcos/SnaselKGA13,Petr Gajdos
+tcos/SnaselKGA13,Petr Klement
+tcos/SnaselKGA13,Václav Snásel
+tcos/ElbakryEE09,Mahmoud Y. Elbakry
+tcos/ElbakryEE09,Mohammed El-Helly
+tcos/ElbakryEE09,Mostafa Y. Elbakry
+tcos/FanZT10,Jia Fan
+tcos/FanZT10,Xiaohu Tang
+tcos/FanZT10,Yuliang Zheng
+tcos/TilmanneD12,Joëlle Tilmanne
+tcos/TilmanneD12,Thierry Dutoit
+tcos/HoritaT11,Itsuo Takanami
+tcos/HoritaT11,Tadayoshi Horita
+tcos/Chakraborty18,Manali Chakraborty
+tcos/PatanaSR13,Elena Patana
+tcos/PatanaSR13,Ilia Safonov
+tcos/PatanaSR13,Michael Rychagov
+tcos/IakushkinSV16,Oleg Iakushkin
+tcos/IakushkinSV16,Olga Sedova
+tcos/IakushkinSV16,Valery Grishkin
+tcos/HonidenHSW10,Christian Sommer 0001
+tcos/HonidenHSW10,Martin Wolff
+tcos/HonidenHSW10,Michael E. Houle
+tcos/HonidenHSW10,Shinichi Honiden
+tcos/OhmoriK14,Kenji Ohmori
+tcos/OhmoriK14,Tosiyasu L. Kunii
+tcos/MenshikovaBLPZ13,Denis Zakharkin
+tcos/MenshikovaBLPZ13,Elizaveta Luniakova
+tcos/MenshikovaBLPZ13,Galina Menshikova
+tcos/MenshikovaBLPZ13,Maxim Pestun
+tcos/MenshikovaBLPZ13,Yuri Bayakovski
+tcos/IslamHH09,Choong Seon Hong
+tcos/IslamHH09,Md. Abdul Hamid
+tcos/IslamHH09,Md. Shariful Islam
+tcos/BertazzonO09,Scott Olson
+tcos/BertazzonO09,Stefania Bertazzon
+tcos/DasDT19,Rik Das
+tcos/DasDT19,Sourav De
+tcos/DasDT19,Sudeep Thepade
+tcos/TomarVT13,Geetam Singh Tomar
+tcos/TomarVT13,Ranjeet Singh Tomar
+tcos/TomarVT13,Shekhar Verma
+tcos/Prasolova-ForlandFDMH14,Anders I. Mørch
+tcos/Prasolova-ForlandFDMH14,David Hansen
+tcos/Prasolova-ForlandFDMH14,Ekaterina Prasolova-Førland
+tcos/Prasolova-ForlandFDMH14,Mikhail Fominykh
+tcos/Prasolova-ForlandFDMH14,Ramin Darisiro
+tcos/FujiiS10,Hidenori Fujii
+tcos/FujiiS10,Kokichi Sugihara
+tcos/MorozovGFS13,Alexey Gerasimov
+tcos/MorozovGFS13,Andrey Smorkalov
+tcos/MorozovGFS13,Mikhail Fominykh
+tcos/MorozovGFS13,Mikhail Morozov
+tcos/MadureiraPA13,Ajith Abraham
+tcos/MadureiraPA13,Ana Madureira
+tcos/MadureiraPA13,Ivo Pereira
+tcos/OlsenS09,Faramarz Samavati
+tcos/OlsenS09,Luke Olsen
+tcos/HopmannGTV11,Daniel Thalmann
+tcos/HopmannGTV11,Frédéric Vexo
+tcos/HopmannGTV11,Mario Gutiérrez
+tcos/HopmannGTV11,Mathieu Hopmann
+tcos/Wallgrun10,Jan Oliver Wallgrün
+tcos/ChenKCW11a,Alfred Chen
+tcos/ChenKCW11a,Chen-Yuan Kao
+tcos/ChenKCW11a,Wen-Cheng Wang
+tcos/ChenKCW11a,Ying-Hsiu Chen
+tcos/HarrisonW10,John Waldron
+tcos/HarrisonW10,Owen Harrison
+tcos/MehtaDK16,Garima Mehta
+tcos/MehtaDK16,Malay Kishore Dutta
+tcos/MehtaDK16,Pyung Soo Kim
+tcos/GoukoI10,Koji Ito
+tcos/GoukoI10,Manabu Gouko
+tcos/CabidduA17,Daniela Cabiddu
+tcos/CabidduA17,Marco Attene
+tcos/DickersonGDZ11,Matthew T. Dickerson
+tcos/DickersonGDZ11,Michael T. Goodrich
+tcos/DickersonGDZ11,Thomas D. Dickerson
+tcos/DickersonGDZ11,Ying Daisy Zhuo
+tcos/OhmoriK12,Kenji Ohmori
+tcos/OhmoriK12,Tosiyasu L. Kunii
+tcos/LimLSLKSKAW18,Dimitrios Konovessis
+tcos/LimLSLKSKAW18,Gopala Krishnan
+tcos/LimLSLKSKAW18,Hock Eng Ang
+tcos/LimLSLKSKAW18,Lipo Wang
+tcos/LimLSLKSKAW18,Olga Sourina
+tcos/LimLSLKSKAW18,Salem Chandrasekaran Harihara Subramaniam
+tcos/LimLSLKSKAW18,Serene Hui Ping Liew
+tcos/LimLSLKSKAW18,Wei Lun Lim
+tcos/LimLSLKSKAW18,Yisi Liu
+tcos/Greer09,Douglas S. Greer
+tcos/PedersenGT18,Christos Gatzidis
+tcos/PedersenGT18,Karsten Pedersen
+tcos/PedersenGT18,Wen Tang
+tcos/HarrisonC09,Christine W. Chan
+tcos/HarrisonC09,Robert Harrison
+tcos/MalekianZ10,Ali Zakerolhosseini
+tcos/MalekianZ10,Ehsan Malekian
+tcos/YildirimU16,Bahri Uzunoglu
+tcos/YildirimU16,Nurseda Yildirim
+tcos/Fridenfalk16,Mikael Fridenfalk
+tcos/HarrisonMS12,Ali Mahdavi-Amiri
+tcos/HarrisonMS12,Erika Harrison
+tcos/HarrisonMS12,Faramarz Samavati
+tcos/MoghadamTN14,Keivan Navi
+tcos/MoghadamTN14,Mariam Zomorodi Moghadam
+tcos/MoghadamTN14,Mohammad Amin Taherkhani
+tcos/MilesWLTR16,Andrew T. Wilson
+tcos/MilesWLTR16,Bernard Tiddeman
+tcos/MilesWLTR16,Frédéric Labrosse
+tcos/MilesWLTR16,Helen C. Miles
+tcos/MilesWLTR16,Jonathan C. Roberts
+tcos/Wang08b,Yingxu Wang
+tcos/Borruso09,Giuseppe Borruso
+tcos/MohamedGY13,Abdallah A. Mohamed
+tcos/MohamedGY13,Marina L. Gavrilova
+tcos/MohamedGY13,Roman V. Yampolskiy
+tcos/Kenwright13,Ben Kenwright
+tcos/TomarV11,Ranjeet Singh Tomar
+tcos/TomarV11,Shekhar Verma
+tcos/Tujillo-OlayaV10,Jaime Velasco-Medina
+tcos/Tujillo-OlayaV10,Vladimir Trujillo-Olaya
+tcos/KimWKRBK10,Chong-Min Kim
+tcos/KimWKRBK10,Chung In Won
+tcos/KimWKRBK10,Deok-Soo Kim
+tcos/KimWKRBK10,Jae-Kwan Kim
+tcos/KimWKRBK10,Jong Bhak
+tcos/KimWKRBK10,Joonghyun Ryu
+tcos/BhuvaneswariVS10,M. Agnes Saranya
+tcos/BhuvaneswariVS10,P. T. V. Bhuvaneswari
+tcos/BhuvaneswariVS10,Vijay Vaidehi
+tcos/EdelsbrunnerKHSF16,Alexei Sourin
+tcos/EdelsbrunnerKHSF16,Dieter W. Fellner
+tcos/EdelsbrunnerKHSF16,Johannes Edelsbrunner
+tcos/EdelsbrunnerKHSF16,Sven Havemann
+tcos/EdelsbrunnerKHSF16,Ulrich Krispel
+tcos/BediVT10,Geetam S. Tomar
+tcos/BediVT10,Sarabjeet Singh Bedi
+tcos/BediVT10,Shekhar Verma
+tcos/ThapliyalAS09,Hamid R. Arabnia
+tcos/ThapliyalAS09,Himanshu Thapliyal
+tcos/ThapliyalAS09,M. B. Srinivas
+tcos/SingaraveluV13,Pradheepkumar Singaravelu
+tcos/SingaraveluV13,Shekhar Verma
+tcos/BiasiKK11,Bahman Kalantari
+tcos/BiasiKK11,Iraj Kalantari
+tcos/BiasiKK11,Sergio Coutinho de Biasi
+tcos/SzymkowskiS18,Emil Saeed
+tcos/SzymkowskiS18,Maciej Szymkowski
+tcos/El-Tawil09,Magdy A. El-Tawil
+tcos/Attene17,Marco Attene
+tcos/AntonMG09,Christopher M. Gold
+tcos/AntonMG09,Darka Mioc
+tcos/AntonMG09,Francois Anton
+tcos/BandyopadhyayRD14,Chandan Bandyopadhyay
+tcos/BandyopadhyayRD14,Hafizur Rahaman 0001
+tcos/BandyopadhyayRD14,Rolf Drechsler
+tcos/MilyaevB13,Olga Barinova
+tcos/MilyaevB13,Sergey Milyaev
+tcos/Gavrilova17,Marina L. Gavrilova
+tcos/LiuS13,Olga Sourina
+tcos/LiuS13,Yisi Liu
+tcos/HuW09,Guoyin Wang
+tcos/HuW09,Jun Hu 0002
+tcos/AleshinABKKN12,Alexander Bobkov
+tcos/AleshinABKKN12,Dmitry Novgorodtsev
+tcos/AleshinABKKN12,Stanislav V. Klimenko
+tcos/AleshinABKKN12,Valery Afanasiev
+tcos/AleshinABKKN12,Vitaly Kuliev
+tcos/AleshinABKKN12,Vladimir Aleshin
+tcos/ChaurasiaS19,Brijesh Kumar Chaurasia
+tcos/ChaurasiaS19,Kapil Sharma
+tcos/SourinEGS16,Alexei Sourin
+tcos/SourinEGS16,Marina L. Gavrilova
+tcos/SourinEGS16,Olga Sourina
+tcos/SourinEGS16,Rae A. Earnshaw
+tcos/ChatterjeeGBCD15,Amlan Chakrabarti
+tcos/ChatterjeeGBCD15,Biswajit Biswas
+tcos/ChatterjeeGBCD15,Kashi Nath Dey
+tcos/ChatterjeeGBCD15,Pubali Chatterjee
+tcos/ChatterjeeGBCD15,Somoballi Ghoshal
+tcos/FranzoniG09,Osvaldo Gervasi
+tcos/FranzoniG09,Valentina Franzoni
+tcos/YenCZL10,Je Zhang
+tcos/YenCZL10,Kuo-Zhe Chiou
+tcos/YenCZL10,Po-Han Lee
+tcos/YenCZL10,Sung-Ming Yen
+tcos/Balint-KurtiBGGHNS10,Alexander V. Bogdanov
+tcos/Balint-KurtiBGGHNS10,Ashot Gevorkyan
+tcos/Balint-KurtiBGGHNS10,Gabriel G. Balint-Kurti
+tcos/Balint-KurtiBGGHNS10,Gunnar Nyman
+tcos/Balint-KurtiBGGHNS10,Irina Shoshmina
+tcos/Balint-KurtiBGGHNS10,Tigran Hakobyan
+tcos/Balint-KurtiBGGHNS10,Yuri E. Gorbachev
+tcos/PereiraMOA13,Ajith Abraham
+tcos/PereiraMOA13,Ana Madureira
+tcos/PereiraMOA13,Ivo Pereira
+tcos/PereiraMOA13,Paulo B. de Moura Oliveira
+tcos/RiffMN10,Bertrand Neveu
+tcos/RiffMN10,Elizabeth Montero
+tcos/RiffMN10,María Cristina Riff
+tcos/ZhangZZQZ08,Chengqi Zhang
+tcos/ZhangZZQZ08,Jilian Zhang
+tcos/ZhangZZQZ08,Shichao Zhang
+tcos/ZhangZZQZ08,Xiaofeng Zhu
+tcos/ZhangZZQZ08,Yongsong Qin
+tcos/SahinUGU12,Cem Safak Sahin
+tcos/SahinUGU12,Elkin Urrea
+tcos/SahinUGU12,M. Ümit Uyar
+tcos/SahinUGU12,Stephen Gundry
+tcos/TL12,Michael Lees
+tcos/TL12,Vaisagh Viswanathan T.
+tcos/RegazzoniEPGGMDPPLI09,Axel Poschmann
+tcos/RegazzoniEPGGMDPPLI09,Christof Paar
+tcos/RegazzoniEPGGMDPPLI09,Francesco Regazzoni
+tcos/RegazzoniEPGGMDPPLI09,Frank K. Gürkaynak
+tcos/RegazzoniEPGGMDPPLI09,Johann Großschädl
+tcos/RegazzoniEPGGMDPPLI09,Laura Pozzi
+tcos/RegazzoniEPGGMDPPLI09,Marco Macchetti
+tcos/RegazzoniEPGGMDPPLI09,Paolo Ienne
+tcos/RegazzoniEPGGMDPPLI09,Thomas Eisenbarth 0001
+tcos/RegazzoniEPGGMDPPLI09,Yusuf Leblebici
+tcos/RegazzoniEPGGMDPPLI09,Zeynep Toprak Deniz
+tcos/HouLLLSMW16,Lipo Wang
+tcos/HouLLLSMW16,Olga Sourina
+tcos/HouLLLSMW16,Wei Lun Lim
+tcos/HouLLLSMW16,Wolfgang Müller-Wittig
+tcos/HouLLLSMW16,Xiyuan Hou
+tcos/HouLLLSMW16,Yisi Liu
+tcos/HouLLLSMW16,Zirui Lan
+tcos/RahmanG17,Marina L. Gavrilova
+tcos/RahmanG17,Md Wasiur Rahman
+tcos/BoonmaS12,Junichi Suzuki
+tcos/BoonmaS12,Pruet Boonma
+tcos/LopezNP08,Fernando L. Pelayo
+tcos/LopezNP08,Manuel Núñez 0001
+tcos/LopezNP08,Natalia López
+tcos/SoundrapandiyanR15,P. V. S. S. R. Chandra Mouli
+tcos/SoundrapandiyanR15,Rajkumar Soundrapandiyan
+tcos/Wang08a,Yingxu Wang
+tcos/LiuS14,Olga Sourina
+tcos/LiuS14,Yisi Liu
+tcos/JiangQT11,Minghui Jiang 0001
+tcos/JiangQT11,Pedro J. Tejada
+tcos/JiangQT11,Xiaojun Qi
+tcos/HalleVCD12,Omar Cherkaoui
+tcos/HalleVCD12,Roger Villemaire
+tcos/HalleVCD12,Rudy Deca
+tcos/HalleVCD12,Sylvain Hallé
+tcos/ReganCG18,Amlan Chakrabarti
+tcos/ReganCG18,Chaowen Guan
+tcos/ReganCG18,Kenneth W. Regan
+tcos/NavratS13,Pavol Návrat
+tcos/NavratS13,Stefan Sabo
+tcos/JhaLN13,Shashi Shekhar Jha
+tcos/JhaLN13,Shivashankar B. Nair
+tcos/JhaLN13,Shrinivasa Naika C. L.
+tcos/SherstyukK14,Andrei Sherstyuk
+tcos/SherstyukK14,Kiyoshi Kiyokawa
+tcos/0002SNN12,Alexei Sourin
+tcos/0002SNN12,Lei Wei 0002
+tcos/0002SNN12,Saeid Nahavandi
+tcos/0002SNN12,Zoran Najdovski
+tcos/Wang08,Yingxu Wang
+tcos/Kalantari13,Bahman Kalantari
+tcos/HeWF13,Tingting Fu
+tcos/HeWF13,Xizhao Wang
+tcos/HeWF13,Yu-Lin He
+tcos/NescherK13,Andreas M. Kunz
+tcos/NescherK13,Thomas Nescher
+tcos/GavrilovaY11,Marina L. Gavrilova
+tcos/GavrilovaY11,Roman V. Yampolskiy
+tcos/Gleibman09,Andrew Gleibman
+tcos/ProtoABOC10,Adriano M. Cansian
+tcos/ProtoABOC10,André Proto
+tcos/ProtoABOC10,Isabela L. Oliveira
+tcos/ProtoABOC10,Leandro A. Alexandre
+tcos/ProtoABOC10,Maira L. Batista
+tcos/ZohraG18,Fatema Tuz Zohra
+tcos/ZohraG18,Marina L. Gavrilova
+tcos/SametSB16,Ghulam Sakhi Shokouh
+tcos/SametSB16,Kemal Batuhan Baskurt
+tcos/SametSB16,Refik Samet
+tcos/Vyatkina09,Kira Vyatkina
+tcos/DaneseLM09,Beniamino Murgante
+tcos/DaneseLM09,Maria Danese
+tcos/DaneseLM09,Maurizio Lazzari
+tcos/GuptaD19,Niveditha Devarajan
+tcos/GuptaD19,Sindhu Hak Gupta
+tcos/SultanaPG16,Madeena Sultana
+tcos/SultanaPG16,Marina L. Gavrilova
+tcos/SultanaPG16,Padma Polash Paul
+tcos/VassevM12,Emil Vassev
+tcos/VassevM12,Serguei A. Mokhov
+tcos/OhmoriK13,Kenji Ohmori
+tcos/OhmoriK13,Tosiyasu L. Kunii
+tcos/VoloshinMG14,Alfons Geiger
+tcos/VoloshinMG14,Nikolai N. Medvedev
+tcos/VoloshinMG14,V. P. Voloshin
+tcos/LiWWP12,Jianhuang Wu
+tcos/LiWWP12,Mingqiang Wei
+tcos/LiWWP12,Mingyong Pang
+tcos/LiWWP12,Yichen Li
+tcos/DuttaD09,Ratna Dutta
+tcos/DuttaD09,Tom Dowling
+tcos/Livesu19,Marco Livesu
+tcos/SametS17,Nermin Samet
+tcos/SametS17,Refik Samet
+tcos/LiuL08,Lan Liu
+tcos/LiuL08,Qing Liu 0011
+tcos/WeygaertVEJPPHEKBHFHECT11,Bernard J. T. Jones
+tcos/WeygaertVEJPPHEKBHFHECT11,Bob Eldering
+tcos/WeygaertVEJPPHEKBHFHECT11,Changbom Park
+tcos/WeygaertVEJPPHEKBHFHECT11,E. G. P. (Patrick) Bos
+tcos/WeygaertVEJPPHEKBHFHECT11,Eline ten Have
+tcos/WeygaertVEJPPHEKBHFHECT11,Gert Vegter
+tcos/WeygaertVEJPPHEKBHFHECT11,Herbert Edelsbrunner
+tcos/WeygaertVEJPPHEKBHFHECT11,Job Feldbrugge
+tcos/WeygaertVEJPPHEKBHFHECT11,Johan Hidding
+tcos/WeygaertVEJPPHEKBHFHECT11,Manuel Caroli
+tcos/WeygaertVEJPPHEKBHFHECT11,Matti van Engelen
+tcos/WeygaertVEJPPHEKBHFHECT11,Monique Teillaud
+tcos/WeygaertVEJPPHEKBHFHECT11,Nico Kruithof
+tcos/WeygaertVEJPPHEKBHFHECT11,Pratyush Pranav
+tcos/WeygaertVEJPPHEKBHFHECT11,Rien van de Weygaert
+tcos/WeygaertVEJPPHEKBHFHECT11,Wojciech A. Hellwing
+tcos/ItoSYM14,Carl Stone
+tcos/ItoSYM14,Masashi Yamada
+tcos/ItoSYM14,Shinya Miyazaki
+tcos/ItoSYM14,Yuichi Ito
+tcos/SamihWMKS14,Ahmad Samih
+tcos/SamihWMKS14,Christian Maciocco
+tcos/SamihWMKS14,Mazen Kharbutli
+tcos/SamihWMKS14,Ren Wang
+tcos/SamihWMKS14,Yan Solihin
+tcos/KodamaSK12,Toshio Kodama
+tcos/KodamaSK12,Tosiyasu L. Kunii
+tcos/KodamaSK12,Yoichi Seki
+tcos/LindskogB09,Anna Brunström
+tcos/LindskogB09,Stefan Lindskog
+tcos/LizarazoE09,Ivan Lizarazo
+tcos/LizarazoE09,Paul Elsner
+tcos/ArganyMKG11,Christian Gagné
+tcos/ArganyMKG11,Farid Karimipour
+tcos/ArganyMKG11,Meysam Argany
+tcos/ArganyMKG11,Mir Abolfazl Mostafavi
+tcos/DasTG17,Rik Das
+tcos/DasTG17,Saurav Ghosh
+tcos/DasTG17,Sudeep Thepade
+tcos/KasperOP10,Christof Paar
+tcos/KasperOP10,David Oswald
+tcos/KasperOP10,Timo Kasper
+tcos/NakataS08,Hiroshi Sakai
+tcos/NakataS08,Michinori Nakata
+tcos/Thapliyal16,Himanshu Thapliyal
+tcos/PilyuginMAP13,Alexander A. Pasko
+tcos/PilyuginMAP13,Eugeniya Malikova
+tcos/PilyuginMAP13,Valery Adzhiev
+tcos/PilyuginMAP13,Victor Pilyugin
+tcos/MaiaBO10,Bruno Trevizan de Oliveira
+tcos/MaiaBO10,Paulo Sérgio Licciardi Messeder Barreto
+tcos/MaiaBO10,Ricardo José Menezes Maia
+tcos/LuoZCLLS11,Kabilen Sornum
+tcos/LuoZCLLS11,Linbo Luo
+tcos/LuoZCLLS11,Malcolm Yoke-Hean Low
+tcos/LuoZCLLS11,Michael Lees
+tcos/LuoZCLLS11,Suiping Zhou
+tcos/LuoZCLLS11,Wentong Cai
+tcos/Bondarev13,Alexander E. Bondarev
+tcos/TakanamiF19,Itsuo Takanami
+tcos/TakanamiF19,Masaru Fukushi
+tcos/PorubovBB10,A. V. Porubov
+tcos/PorubovBB10,D. Bouche
+tcos/PorubovBB10,G. Bonnaud
+tcos/Kravchenko18,Andrey Kravchenko
+tcos/HaoZ09,Feng Hao
+tcos/HaoZ09,Piotr Zielinski
+tcos/SilomonR18,Jantje A. M. Silomon
+tcos/SilomonR18,Mark Patrick Roeling
+tcos/KarimipourG13,Farid Karimipour
+tcos/KarimipourG13,Mehran Ghandehari
+tcos/PerumallaY14,Kalyan S. Perumalla
+tcos/PerumallaY14,Srikanth B. Yoginath
+tcos/Nuangjumnong16,Tinnawat Nuangjumnong
+tcos/ZhangJZZ09,Jilian Zhang
+tcos/ZhangJZZ09,Shichao Zhang
+tcos/ZhangJZZ09,Xiaofeng Zhu
+tcos/ZhangJZZ09,Zhi Jin
+tcos/JarvisH11,Nghia Ho
+tcos/JarvisH11,Ray Jarvis
+tcos/FuHI13,Akihiro Hashikura
+tcos/FuHI13,Hiroshi Imai
+tcos/FuHI13,Norie Fu
+tcos/RyuM09,Seonggeun Ryu
+tcos/RyuM09,Youngsong Mun
+tcos/SiddavaatamS18,Prathap Siddavaatam
+tcos/SiddavaatamS18,Reza Sedaghat
+tcos/Dailyudenko08,Victor F. Dailyudenko
+tcos/KantiTB17,Ashish Bagwari
+tcos/KantiTB17,Geetam Singh Tomar
+tcos/KantiTB17,Jyotshana Kanti
+tcos/AliWLSWZ16,Dong Wang
+tcos/AliWLSWZ16,Mingquan Zhou
+tcos/AliWLSWZ16,Nighat Saeed
+tcos/AliWLSWZ16,Sajid Ali
+tcos/AliWLSWZ16,Xulong Li
+tcos/AliWLSWZ16,Zhongke Wu
+tcos/CastroCMD08,Antonio Rodríguez Díaz
+tcos/CastroCMD08,Juan R. Castro
+tcos/CastroCMD08,Oscar Castillo 0001
+tcos/CastroCMD08,Patricia Melin
+tcos/ZotosH13,Evangelos Zotos
+tcos/ZotosH13,Rainer Herpers
+tcos/KannanRP10,R. Pandiyarajan
+tcos/KannanRP10,S. R. Kannan
+tcos/KannanRP10,S. Ramathilagam
+tcos/MostafaviBH10,Karine Hins-Mallet
+tcos/MostafaviBH10,Leila Hashemi Beni
+tcos/MostafaviBH10,Mir Abolfazl Mostafavi
+tcos/LysenkovE13,Ilya Lysenkov
+tcos/LysenkovE13,Victor Eruhimov
+tcos/TcholtchevS14,Ina Schieferdecker
+tcos/TcholtchevS14,Nikolay Tcholtchev
+tcos/HounsellBS14,Alexandre Gonçalves Silva
+tcos/HounsellBS14,Leonardo Kandler Bittencourt
+tcos/HounsellBS14,Marcelo da Silva Hounsell
+tcos/RemolarCQGCRR11,Cristina Rebollo
+tcos/RemolarCQGCRR11,Francisco Ramos
+tcos/RemolarCQGCRR11,Inmaculada Remolar
+tcos/RemolarCQGCRR11,Jesús Gumbau
+tcos/RemolarCQGCRR11,Miguel Chover
+tcos/RemolarCQGCRR11,Pascual Castelló
+tcos/RemolarCQGCRR11,Ricardo Quirós
+tcos/XiaoLYZ14,Hong Xiao
+tcos/XiaoLYZ14,Jian-feng Yu
+tcos/XiaoLYZ14,Jie Zhang
+tcos/XiaoLYZ14,Yuan Li
+tcos/BalliuM10,Isabella Mastroeni
+tcos/BalliuM10,Musard Balliu
+tcos/XiangLTZP11,Guangxia Li
+tcos/XiangLTZP11,Jing Tong
+tcos/XiangLTZP11,Mingmin Zhang
+tcos/XiangLTZP11,Xueqin Xiang
+tcos/XiangLTZP11,Zhigeng Pan
+tcos/ChhabraSLH10,Matthew Hoekstra
+tcos/ChhabraSLH10,Reshma Lal
+tcos/ChhabraSLH10,Siddhartha Chhabra
+tcos/ChhabraSLH10,Yan Solihin
+tcos/HeadleandJWPTC16,Benjamin Williams
+tcos/HeadleandJWPTC16,Christopher James Headleand
+tcos/HeadleandJWPTC16,James Jackson
+tcos/HeadleandJWPTC16,Lee Priday
+tcos/HeadleandJWPTC16,Llyr ap Cenydd
+tcos/HeadleandJWPTC16,William John Teahan
+tcos/EisenbarthPW10,Björn Weghenkel
+tcos/EisenbarthPW10,Christof Paar
+tcos/EisenbarthPW10,Thomas Eisenbarth 0001
+tcos/HoumbRRC10,Indrajit Ray
+tcos/HoumbRRC10,Indrakshi Ray
+tcos/HoumbRRC10,Siv Hilde Houmb
+tcos/HoumbRRC10,Sudip Chakraborty
+tcos/NK13,Mohammad R. Raeesi N.
+tcos/NK13,Ziad Kobti
+tcos/MiocAGM10,Bernard Moulin
+tcos/MiocAGM10,Christopher M. Gold
+tcos/MiocAGM10,Darka Mioc
+tcos/MiocAGM10,Francois Anton
+tcos/Zhang08,Du Zhang
+tcos/CattaniS09,Carlo Cattani
+tcos/CattaniS09,Massimo Scalia
+tcos/VlasovFW13,Franz-Erich Wolter
+tcos/VlasovFW13,Karl-Ingo Friese
+tcos/VlasovFW13,Roman Vlasov
+tcos/PangSSCU11,Alexei Sourin
+tcos/PangSSCU11,Gabriela González Castro
+tcos/PangSSCU11,Hassan Ugail
+tcos/PangSSCU11,Ming-Yong Pang
+tcos/PangSSCU11,Yun Sheng
+tcos/Wang09,Yingxu Wang
+tcos/AlmasizadehA09,Jaafar Almasizadeh
+tcos/AlmasizadehA09,Mohammad Abdollahi Azgomi
+tcos/TingZH11,Nan Hu
+tcos/TingZH11,Shang-Ping Ting
+tcos/TingZH11,Suiping Zhou
+tcos/OmataKM14,Daisuke Kanuka
+tcos/OmataKM14,Masaki Omata
+tcos/OmataKM14,Xiaoyang Mao
+tcos/SepulvedaPSC10,Jiang Chau Wang
+tcos/SepulvedaPSC10,Johanna Sepúlveda
+tcos/SepulvedaPSC10,Marius Strum
+tcos/SepulvedaPSC10,Ricardo Pires
+tcos/Rao10,Shrisha Rao
+tcos/RenZ08,Fenghui Ren
+tcos/RenZ08,Minjie Zhang
+tcos/FanLZ11,Binhai Zhu
+tcos/FanLZ11,Chenglin Fan
+tcos/FanLZ11,Jun Luo
+tcos/WangWAZJSZ16,Junli Zhao
+tcos/WangWAZJSZ16,Kang Wang
+tcos/WangWAZJSZ16,Mingquan Zhou
+tcos/WangWAZJSZ16,Sajid Ali
+tcos/WangWAZJSZ16,Taorui Jia
+tcos/WangWAZJSZ16,Wuyang Shui
+tcos/WangWAZJSZ16,Zhongke Wu
+tcos/El-Tawil08,Magdy A. El-Tawil
+tcos/FuWYWZZ16,Mengdi Wang
+tcos/FuWYWZZ16,Mingquan Zhou
+tcos/FuWYWZZ16,Qian Fu
+tcos/FuWYWZZ16,Xia Zheng
+tcos/FuWYWZZ16,Xiang Ying
+tcos/FuWYWZZ16,Zhongke Wu
+tcos/YangPC12,Wenhua Chen
+tcos/YangPC12,Wenzhen Yang
+tcos/YangPC12,Zhigen Pan
+tcos/SeoKRLMK14,Antonio Mucherino
+tcos/SeoKRLMK14,Carlile Lavor
+tcos/SeoKRLMK14,Deok-Soo Kim
+tcos/SeoKRLMK14,Jae-Kwan Kim
+tcos/SeoKRLMK14,Jeongyeon Seo
+tcos/SeoKRLMK14,Joonghyun Ryu
+tcos/RitsosGBSR13,Catherine Slater
+tcos/RitsosGBSR13,Jonathan C. Roberts
+tcos/RitsosGBSR13,Panagiotis D. Ritsos
+tcos/RitsosGBSR13,Robert Gittins
+tcos/RitsosGBSR13,Sabine Braun
+tcos/Oshita14,Masaki Oshita
+tcos/Marghany09,Maged Marghany
+tcos/JayashreeTA17,H. V. Jayashree
+tcos/JayashreeTA17,Himanshu Thapliyal
+tcos/JayashreeTA17,Vinod Kumar Agrawal
+tcos/FrolovVKG13,Alexander Kharlamov
+tcos/FrolovVKG13,Konstantin Vostryakov
+tcos/FrolovVKG13,Vladimir A. Frolov
+tcos/FrolovVKG13,Vladimir A. Galaktionov
+tcos/BazazianG15,Marina L. Gavrilova
+tcos/BazazianG15,Shermin Bazazian
+tcos/AokiA16,Kyota Aoki
+tcos/AokiA16,Naoki Aoyagi
+tcos/AsanoT10,Hiroshi Tanaka
+tcos/AsanoT10,Tetsuo Asano
+tcos/LiWY10,Celia Li
+tcos/LiWY10,Cungang Yang
+tcos/LiWY10,Zhuang Wang
+tcos/ZohraG17,Fatema Tuz Zohra
+tcos/ZohraG17,Marina L. Gavrilova
+tcos/SharmaZAB11,Chandrajit L. Bajaj
+tcos/SharmaZAB11,François Anton
+tcos/SharmaZAB11,Ojaswa Sharma
+tcos/SharmaZAB11,Qin Zhang 0005
+tcos/BerkowitzKKM13,Bahman Kalantari
+tcos/BerkowitzKKM13,David Menendez
+tcos/BerkowitzKKM13,Iraj Kalantari
+tcos/BerkowitzKKM13,Ross Berkowitz
+tcos/DattaSRD14,Hafizur Rahaman 0001
+tcos/DattaSRD14,Indranil Sengupta 0001
+tcos/DattaSRD14,Kamalika Datta
+tcos/DattaSRD14,Rolf Drechsler
+tcos/WangYCL13,Huiyou Chang
+tcos/WangYCL13,Xiaoyang Wang
+tcos/WangYCL13,Yang Yi 0003
+tcos/WangYCL13,Yibin Lin
+tcos/SetterSH10,Dan Halperin
+tcos/SetterSH10,Micha Sharir
+tcos/SetterSH10,Ophir Setter
+tcos/MaidiMBO13,Laredj Benchikh
+tcos/MaidiMBO13,Madjid Maidi
+tcos/MaidiMBO13,Malik Mallem
+tcos/MaidiMBO13,Samir Otmane
+tcos/DuttaDS13,Dipankar Dutta
+tcos/DuttaDS13,Jaya Sil
+tcos/DuttaDS13,Paramartha Dutta
+tcos/ChenKCW11,Alfred Chen
+tcos/ChenKCW11,Chen-Yuan Kao
+tcos/ChenKCW11,Wen-Cheng Wang
+tcos/ChenKCW11,Ying-Hsiu Chen
+tcos/MoonsBW09,Elke Moons
+tcos/MoonsBW09,Geert Wets
+tcos/MoonsBW09,Tom Brijs
+tcos/PereiraM10,Edward D. Moreno
+tcos/PereiraM10,Fábio Dacêncio Pereira
+tcos/DaescuCP09,James D. Palmer
+tcos/DaescuCP09,Ovidiu Daescu
+tcos/DaescuCP09,Yam Ki Cheung
+tcos/TanS17,Rong Tan
+tcos/TanS17,Wen Si
+tcos/TanumaIM11,Hiroshi Imai
+tcos/TanumaIM11,Sonoko Moriyama
+tcos/TanumaIM11,Toshihiro Tanuma
+tcos/SinghS11,Kush Sharma
+tcos/SinghS11,Ramesh Singh
+tcos/TerleckiW08,Krzysztof Walczak 0002
+tcos/TerleckiW08,Pawel Terlecki
+tcos/MajewskiBMK13,Alexander Marinc
+tcos/MajewskiBMK13,Andreas Braun 0001
+tcos/MajewskiBMK13,Arjan Kuijper
+tcos/MajewskiBMK13,Martin Majewski
+tcos/Diaz-ParraRBS13,Ana Canepa Saenz
+tcos/Diaz-ParraRBS13,Jorge A. Ruiz-Vanoye
+tcos/Diaz-ParraRBS13,Ma. De los Ángeles Buenabad Arias
+tcos/Diaz-ParraRBS13,Ocotlán Díaz-Parra
+tcos/IglesiasGC16,Akemi Gálvez
+tcos/IglesiasGC16,Andrés Iglesias 0001
+tcos/IglesiasGC16,Marta Collantes
+tcos/Shumskiy13,Vladimir Shumskiy
+tcos/KhannaCG18,Aakriti Khanna
+tcos/KhannaCG18,Sindhu Hak Gupta
+tcos/KhannaCG18,Vaibhav Chaudhary
+tcos/ZhouFQFY17,Xiaohui Yang
+tcos/ZhouFQFY17,Xiaoyan Zhou
+tcos/ZhouFQFY17,Xue Fan
+tcos/ZhouFQFY17,Yu Qiao
+tcos/ZhouFQFY17,Zhiquan Feng
+tcos/GeiselmannMS10,Kenneth Matheis
+tcos/GeiselmannMS10,Rainer Steinwandt
+tcos/GeiselmannMS10,Willi Geiselmann
+tcos/ChaurasiaVTA09,Ajith Abraham
+tcos/ChaurasiaVTA09,Brijesh Kumar Chaurasia
+tcos/ChaurasiaVTA09,G. S. Tomar
+tcos/ChaurasiaVTA09,Shekhar Verma
+tcos/CortesJVV10,J. C. Cortés
+tcos/CortesJVV10,L. Villafuerte
+tcos/CortesJVV10,Lucas Jódar
+tcos/CortesJVV10,Rafael J. Villanueva
+tcos/Wang09a,Yingxu Wang
+tcos/WangZ09,Wenxiu Zhang
+tcos/WangZ09,Xia Wang
+tcos/Polkowski08,Lech Polkowski
+tcos/GoelGP13,Daya Gupta
+tcos/GoelGP13,Lavika Goel
+tcos/GoelGP13,V. K. Panchal
+tcos/SchmittV13,Dominique Schmitt
+tcos/SchmittV13,Kira Vyatkina
+tcos/YangD11,Huili Dou
+tcos/YangD11,Xibei Yang
+tcos/TsumotoH08,Shoji Hirano
+tcos/TsumotoH08,Shusaku Tsumoto
+tcos/Veenhuis13,Christian Veenhuis
+tcos/MuleyG19,Abhinav Muley
+tcos/MuleyG19,Manish Gudadhe
+tcos/VyatkinaB11,Gill Barequet
+tcos/VyatkinaB11,Kira Vyatkina
+tcos/SethiR14,Purnima Sethi
+tcos/SethiR14,Sukhdev Roy
+tcos/ThepadeDG15,Rik Das
+tcos/ThepadeDG15,Saurav Ghosh
+tcos/ThepadeDG15,Sudeep Thepade
+tcos/MahajanA09,Anjali Mahajan
+tcos/MahajanA09,M. S. Ali
+tcos/HanninenSL14,Craig S. Lent
+tcos/HanninenSL14,Gregory L. Snider
+tcos/HanninenSL14,Ismo Hänninen
+tcos/SpizhevoyE13,Alexey Spizhevoy
+tcos/SpizhevoyE13,Victor Eruhimov
+tcos/ChaurasiaVT13,Brijesh Kumar Chaurasia
+tcos/ChaurasiaVT13,Geetam Singh Tomar
+tcos/ChaurasiaVT13,Shekhar Verma
+tcos/AthanasopoulosUC11,Gabriela González Castro
+tcos/AthanasopoulosUC11,Hassan Ugail
+tcos/AthanasopoulosUC11,Michael Athanasopoulos
+tcos/TL13,Michael Lees
+tcos/TL13,Vaisagh Viswanathan T.
+tcos/MilesPWLJPMMM14,Daniel Mestre
+tcos/MilesPWLJPMMM14,Gavin P. Lawrence
+tcos/MilesPWLJPMMM14,Helen C. Miles
+tcos/MilesPWLJPMMM14,Kenton Morgan
+tcos/MilesPWLJPMMM14,Nigel W. John
+tcos/MilesPWLJPMMM14,Pierre Mallet
+tcos/MilesPWLJPMMM14,Serban R. Pop
+tcos/MilesPWLJPMMM14,Simon J. Watt
+tcos/MilesPWLJPMMM14,Vincent Perrot
+tcos/Leandre10,Rémi Léandre
+tcos/KushwahaS15,Alok Kumar Singh Kushwaha
+tcos/KushwahaS15,Rajeev Srivastava
+tcos/BessonovV10,Nikolai Bessonov
+tcos/BessonovV10,Vitaly Volpert
+tcos/Serra-SogasOCBG09,Marina L. Gavrilova
+tcos/Serra-SogasOCBG09,Norma Serra-Sogas
+tcos/Serra-SogasOCBG09,Patrick O'Hara
+tcos/Serra-SogasOCBG09,Rosaline Canessa
+tcos/Serra-SogasOCBG09,Stefania Bertazzon
+tcos/KanamoriYHMF16,Hiroki Yamada
+tcos/KanamoriYHMF16,Jun Mitani
+tcos/KanamoriYHMF16,Masaki Hirose
+tcos/KanamoriYHMF16,Yoshihiro Kanamori
+tcos/KanamoriYHMF16,Yukio Fukui
+tcos/NishiuchiT15,Nobuyuki Nishiuchi
+tcos/NishiuchiT15,Yutaka Takahashi 0003
+tcos/Veenhuis10,Christian Veenhuis
+tcos/LachmundH10,Gregor Hengst
+tcos/LachmundH10,Sven Lachmund
+tcos/KannanSTMR19,Amangeldy Turdaliev
+tcos/KannanSTMR19,Asish Mukhopadhyay
+tcos/KannanSTMR19,Kishore Kumar Varadharajan Kannan
+tcos/KannanSTMR19,Md. Zamilur Rahman
+tcos/KannanSTMR19,Pijus Kumar Sarker
+tcos/Wang13,Yongge Wang
+tcos/CompagnaKMS10,Ayda Saïdane
+tcos/CompagnaKMS10,Fabio Massacci
+tcos/CompagnaKMS10,Luca Compagna
+tcos/CompagnaKMS10,Paul El Khoury
+tcos/ClementeRT10,Christian Toinard
+tcos/ClementeRT10,Jonathan Rouzaud-Cornabas
+tcos/ClementeRT10,Patrice Clemente
+tcos/ToyouraAM17,Masahiro Toyoura
+tcos/ToyouraAM17,Noriyuki Abe
+tcos/ToyouraAM17,Xiaoyang Mao
+tcos/TranSGPK14,Addison Gronquist
+tcos/TranSGPK14,Ben Schaeffer
+tcos/TranSGPK14,Linh Tran
+tcos/TranSGPK14,Marek A. Perkowski
+tcos/TranSGPK14,Pawel Kerntopf
+tcos/BogdanovGGTY16,Alexander V. Bogdanov
+tcos/BogdanovGGTY16,Ivan Gankevich
+tcos/BogdanovGGTY16,N. V. Yuzhanin
+tcos/BogdanovGGTY16,Vladimir Gaiduchok
+tcos/BogdanovGGTY16,Yuri Tipikin
+tcos/ElbazCGLPT09,Catherine H. Gebotys
+tcos/ElbazCGLPT09,David Champagne
+tcos/ElbazCGLPT09,Lionel Torres
+tcos/ElbazCGLPT09,Nachiketh R. Potlapally
+tcos/ElbazCGLPT09,Reouven Elbaz
+tcos/ElbazCGLPT09,Ruby B. Lee
+tcos/TuiaKCK09,Antonio Da Cunha
+tcos/TuiaKCK09,Christian Kaiser
+tcos/TuiaKCK09,Devis Tuia
+tcos/TuiaKCK09,Mikhail F. Kanevski
+tcos/CostaNM10,Luiza de Macedo Mourelle
+tcos/CostaNM10,Nadia Nedjah
+tcos/CostaNM10,Sergio Oliveira Costa
+tcos/GuoLTX14,Da Xie
+tcos/GuoLTX14,Hao Tu
+tcos/GuoLTX14,Zhengbiao Guo
+tcos/GuoLTX14,Zhitang Li
+tcos/LiuHSB16,Olga Bazanova
+tcos/LiuHSB16,Olga Sourina
+tcos/LiuHSB16,Xiyuan Hou
+tcos/LiuHSB16,Yisi Liu
+tcos/HouS11,Olga Sourina
+tcos/HouS11,Xiyuan Hou
+tcos/KotiyalTR14,Himanshu Thapliyal
+tcos/KotiyalTR14,Nagarajan Ranganathan
+tcos/KotiyalTR14,Saurabh Kotiyal
+tcos/YasminS13,Alexei Sourin
+tcos/YasminS13,Shamima Yasmin
+tcos/ChaurasiaV11,Brijesh Kumar Chaurasia
+tcos/ChaurasiaV11,Shekhar Verma
+tcos/RakkayB09,Hanifa Boucheneb
+tcos/RakkayB09,Hind Rakkay
+tcos/LiuSSSCI18,Eesha Shah
+tcos/LiuSSSCI18,Joshua Chua
+tcos/LiuSSSCI18,Kirill Ivanov
+tcos/LiuSSSCI18,Olga Sourina
+tcos/LiuSSSCI18,Salem Chandrasekaran Harihara Subramaniam
+tcos/LiuSSSCI18,Yisi Liu
+tcos/WangYW08,Guoyin Wang
+tcos/WangYW08,Yingxu Wang
+tcos/WangYW08,Yiyu Yao
+tcos/Croitoru09,Arie Croitoru
+tcos/JovanovicSO09,Dusan Starcevic
+tcos/JovanovicSO09,Mladjan Jovanovic
+tcos/JovanovicSO09,Zeljko Obrenovic
+tcos/Yanagisawa09,Yutaka Yanagisawa
+tcos/Aboul-HassanRA10,Abdel-Karim Aboul-Hassan
+tcos/Aboul-HassanRA10,Ahmed A. Al-Mujahid
+tcos/Aboul-HassanRA10,Sherif I. Rabia
+tcos/LiuG10,Marina L. Gavrilova
+tcos/LiuG10,Xin Liu
+tcos/KryzhanovskyVSP13,Aleksey Vil'kin
+tcos/KryzhanovskyVSP13,Ilia Safonov
+tcos/KryzhanovskyVSP13,Konstantin Kryzhanovsky
+tcos/KryzhanovskyVSP13,Zoya Pushchina
+tcos/Phan12,Cong-Vinh Phan
+tcos/UteshevY16,Alexei Yu. Uteshev
+tcos/UteshevY16,Marina V. Yashina 0002
+tcos/KolingerovaVMF18,Andrej Ferko
+tcos/KolingerovaVMF18,Ivana Kolingerová
+tcos/KolingerovaVMF18,Martin Manak
+tcos/KolingerovaVMF18,Tomás Vomácka
+tcos/TaramelliM09,Andrea Taramelli
+tcos/TaramelliM09,Laura Melelli
+tcos/LiuWF08,Guoyin Wang
+tcos/LiuWF08,Lin Feng
+tcos/LiuWF08,Yong Liu
+tcos/BhaumikC09,Dipanwita Roy Chowdhury
+tcos/BhaumikC09,Jaydeb Bhaumik
+tcos/StorozhilovaLYS13,Alexey S. Lukin
+tcos/StorozhilovaLYS13,Dmitry V. Yurin
+tcos/StorozhilovaLYS13,Maria Storozhilova
+tcos/StorozhilovaLYS13,Valentin Sinitsyn
+tcos/Slezak09,Dominik Slezak
+tcos/DattaCS18,Khalid Saeed 0001
+tcos/DattaCS18,Nabendu Chaki
+tcos/DattaCS18,Soma Datta
+tcos/ChoudharyK18,M. P. Kurhekar
+tcos/ChoudharyK18,Prakash Choudhary
+tcos/Bezdek13,Károly Bezdek
+tcos/SeoKCM09,Hyunseung Choo
+tcos/SeoKCM09,Jaewan Seo
+tcos/SeoKCM09,Matt W. Mutka
+tcos/SeoKCM09,Moonseong Kim
+tcos/GironFU11,Jaime Ignacio Velez Upegui
+tcos/GironFU11,Nicolas Velasquez Giron
+tcos/GironFU11,Veronica Botero Fernandez
+tcos/GutierrezVR14,Félix Ramos
+tcos/GutierrezVR14,Luis F. Gutiérrez
+tcos/GutierrezVR14,Sergio Vargas
+tcos/NielsenN11,Frank Nielsen
+tcos/NielsenN11,Richard Nock
+tcos/SahaKMG13,Durbadal Mandal
+tcos/SahaKMG13,Rajib Kar
+tcos/SahaKMG13,Sakti Prasad Ghoshal
+tcos/SahaKMG13,Suman Kumar Saha
+tcos/YampolskiyCRG12,Gyuchoon Cho
+tcos/YampolskiyCRG12,Marina L. Gavrilova
+tcos/YampolskiyCRG12,Richard Rosenthal
+tcos/YampolskiyCRG12,Roman V. Yampolskiy
+tcos/El-TawilA10,Magdy A. El-Tawil
+tcos/El-TawilA10,Noha A. Al-Mulla
+tcos/KirillovMK13,Igor A. Kirillov
+tcos/KirillovMK13,Sergei A. Metcherin
+tcos/KirillovMK13,Stanislav V. Klimenko
+tcos/BanerjeeBDKMR13,Anil Maheshwari
+tcos/BanerjeeBDKMR13,Arindam Karmakar
+tcos/BanerjeeBDKMR13,Bhargab B. Bhattacharya
+tcos/BanerjeeBDKMR13,Sandip Banerjee
+tcos/BanerjeeBDKMR13,Sandip Das 0001
+tcos/BanerjeeBDKMR13,Sasanka Roy
+tcos/MatsuiS10,Haruo Sato
+tcos/MatsuiS10,Kazuhiro Matsui
+tcos/HaukePH11,Dominik Heider
+tcos/HaukePH11,Martin Pyka
+tcos/HaukePH11,Sascha Hauke
+tcos/KimCKS13,Deok-Soo Kim
+tcos/KimCKS13,Jae-Kwan Kim
+tcos/KimCKS13,Kokichi Sugihara
+tcos/KimCKS13,Youngsong Cho
+tcos/MohamedA09,Emad Eldin Mohamed
+tcos/MohamedA09,Hussein M. Abdel-Wahab
+tcos/Devai18,Ferenc Dévai
+tcos/JainBC15,Brijesh Kumar Chaurasia
+tcos/JainBC15,Gunjan Jain
+tcos/JainBC15,S. R. Biradar
+tcos/KlimenkoKKNNMT17,Andrey Klimenko
+tcos/KlimenkoKKNNMT17,Igor N. Nikitin
+tcos/KlimenkoKKNNMT17,Kira Konich
+tcos/KlimenkoKKNNMT17,Lialia Nikitina
+tcos/KlimenkoKKNNMT17,Sergey Tyul'Bashev
+tcos/KlimenkoKKNNMT17,Stanislav V. Klimenko
+tcos/KlimenkoKKNNMT17,Valery Malofeev
+tcos/BhattacharyaG13,Marina L. Gavrilova
+tcos/BhattacharyaG13,Priyadarshi Bhattacharya
+tcos/Mura12,Gianluca Mura
+tcos/RasoolS14,Alexei Sourin
+tcos/RasoolS14,Shahzad Rasool
+tcos/Cattani09,Carlo Cattani
+tcos/GanesanESV13,I. Elamvazuthi
+tcos/GanesanESV13,Ku Zilati Ku Shaari
+tcos/GanesanESV13,Pandian Vasant
+tcos/GanesanESV13,Timothy Ganesan
+tcos/PereiraO09,Edward David Moreno Ordonez
+tcos/PereiraO09,Fábio Dacêncio Pereira
+tcos/ChibaAMKM11,Eishi Chiba
+tcos/ChibaAMKM11,Ikuo Mitsuka
+tcos/ChibaAMKM11,Naoki Katoh
+tcos/ChibaAMKM11,Takeshi Miura
+tcos/ChibaAMKM11,Tetsuo Asano
+tcos/VinhB08,Jonathan P. Bowen
+tcos/VinhB08,Phan Cong Vinh
+tedu/LiZ11,Hanli Zhao
+tedu/LiZ11,Qingfeng Li
+tedu/ZhangL12b,Feng Li
+tedu/ZhangL12b,Sujing Zhang
+tedu/JiangNTLLH16,Liang Tang
+tedu/JiangNTLLH16,Ronghua Liang
+tedu/JiangNTLLH16,Wuyang Nie
+tedu/JiangNTLLH16,Xiulan Hao
+tedu/JiangNTLLH16,Yong Liu
+tedu/JiangNTLLH16,Yunliang Jiang
+tedu/LiLCD15,Haisheng Li
+tedu/LiLCD15,Junping Du
+tedu/LiLCD15,Qiang Cai
+tedu/LiLCD15,Xuan Liu
+tedu/SatoLMAI08,Jun Murayama
+tedu/SatoLMAI08,Katsuhito Akahane
+tedu/SatoLMAI08,Makoto Sato
+tedu/SatoLMAI08,Masaharu Isshiki
+tedu/SatoLMAI08,Xiangning Liu
+tedu/AiliyaSM10,Ailiya
+tedu/AiliyaSM10,Chunyan Miao
+tedu/AiliyaSM10,Zhiqi Shen
+tedu/ShaoY18,Bin Shao
+tedu/ShaoY18,Zhimin Yan
+tedu/HeLZ12,Qinping Zhao
+tedu/HeLZ12,Xiaohui Liang
+tedu/HeLZ12,Zhiying He
+tedu/LiWD08,Danli Wang
+tedu/LiWD08,Guozhong Dai
+tedu/LiWD08,Jie Li
+tedu/Shen15,Jun Shen
+tedu/HsuWH10,Chia-Cheng Hsu
+tedu/HsuWH10,Kun-Te Wang
+tedu/HsuWH10,Yueh-Min Huang
+tedu/Walton13,John Richard Walton
+tedu/ShaoY15,Bin Shao
+tedu/ShaoY15,Zhimin Yan
+tedu/MerabtiRSDMP08,Abdennour El Rhalibi
+tedu/MerabtiRSDMP08,Alcantara Melendez
+tedu/MerabtiRSDMP08,Jorge Daniel
+tedu/MerabtiRSDMP08,Madjid Merabti
+tedu/MerabtiRSDMP08,Marc Price
+tedu/MerabtiRSDMP08,Yuanyuan Shen
+tedu/HuangC12,Weiwei Chen
+tedu/HuangC12,Xianying Huang
+tedu/Cui16,Chenyang Cui
+tedu/GuerraSF13,Clovis Torres Fernandes
+tedu/GuerraSF13,Eduardo Martins Guerra
+tedu/GuerraSF13,Jerffeson Teixeira de Souza
+tedu/FangLYY12,Guihua Luo
+tedu/FangLYY12,Ju Cheng Yang
+tedu/FangLYY12,Shouyuan Yang
+tedu/FangLYY12,Zhijun Fang
+tedu/YuY15,Lifeng Yu
+tedu/YuY15,Qiong Yang
+tedu/LiuHLC11,Qiong Liu
+tedu/LiuHLC11,Yan-Jie Chai
+tedu/LiuHLC11,Yuan Hong
+tedu/LiuHLC11,Zhen Liu 0002
+tedu/TatematsuOD15,Jun Ohya
+tedu/TatematsuOD15,Larry S. Davis
+tedu/TatematsuOD15,Naotomo Tatematsu
+tedu/LuoZCWL12,Jianxin Wang
+tedu/LuoZCWL12,Lei Cheng
+tedu/LuoZCWL12,Xuchong Liu
+tedu/LuoZCWL12,Yan Zhao
+tedu/LuoZCWL12,Yong Luo
+tedu/XiaoAC13,Li Xiao
+tedu/XiaoAC13,Xiaolin Cao
+tedu/XiaoAC13,Zhiwei Ai
+tedu/HuZ18,Weijian Hu
+tedu/HuZ18,Yanyan Zheng
+tedu/ChelghoumWW17,Abderrezak Chelghoum
+tedu/ChelghoumWW17,Kang Wang
+tedu/ChelghoumWW17,Quanyu Wang
+tedu/ZhangQ15,Fan Zhang
+tedu/ZhangQ15,Xueying Qin
+tedu/KangOW09,Changgu Kang
+tedu/KangOW09,Woontack Woo
+tedu/KangOW09,Yoosoo Oh
+tedu/Xiao15,Dan Xiao
+tedu/LinL11,Yi Lin
+tedu/LinL11,Yue Liu
+tedu/ZengMYSZ15,Dongdong Ma
+tedu/ZengMYSZ15,Dongsheng Yan
+tedu/ZengMYSZ15,Lanling Zeng
+tedu/ZengMYSZ15,Xiangjun Shen
+tedu/ZengMYSZ15,Yongzhao Zhan
+tedu/NingXZL11,Huaxun Xu
+tedu/NingXZL11,Jiangfan Ning
+tedu/NingXZL11,Liang Zeng
+tedu/NingXZL11,Sikun Li
+tedu/LiuMGWL16,Feng Wu
+tedu/LiuMGWL16,Heyun Ma
+tedu/LiuMGWL16,Hongpu Liu
+tedu/LiuMGWL16,Junhua Gu
+tedu/LiuMGWL16,Junjie Lv
+tedu/ChristopoulosMAK13,Anthousis Andreadis
+tedu/ChristopoulosMAK13,Dimitrios Christopoulos
+tedu/ChristopoulosMAK13,John N. Karigiannis
+tedu/ChristopoulosMAK13,Pavlos Mavridis
+tedu/MaoLMT11,Jianfei Mao
+tedu/MaoLMT11,Keji Mao
+tedu/MaoLMT11,Qing Tian
+tedu/MaoLMT11,Ronghua Liang
+tedu/SislerB08,Cyril Brom
+tedu/SislerB08,Vít Sisler
+tedu/HungCFCTT12,Chih Ming Chiu
+tedu/HungCFCTT12,Derchian Tsaih
+tedu/HungCFCTT12,Jung-Tsung Chen
+tedu/HungCFCTT12,Jyh-Jong Tsay
+tedu/HungCFCTT12,Shao-Shin Hung
+tedu/HungCFCTT12,Tsou Tsun Fu
+tedu/ShiratuddinW12,Kok Wai Wong
+tedu/ShiratuddinW12,Mohd Fairuz Shiratuddin
+tedu/Berger012,Florian Berger
+tedu/Berger012,Wolfgang Müller 0004
+tedu/JiangYTLZH15,Jiangang Yang
+tedu/JiangYTLZH15,Liang Tang
+tedu/JiangYTLZH15,Xiaoming Zhao
+tedu/JiangYTLZH15,Xiulan Hao
+tedu/JiangYTLZH15,Yong Liu
+tedu/JiangYTLZH15,Yunliang Jiang
+tedu/LyuGS18,Desheng Lyu
+tedu/LyuGS18,Meng Guo
+tedu/LyuGS18,Yuchao Sun
+tedu/ShiCC12,Tiefeng Cai
+tedu/ShiCC12,Xianghua Chen
+tedu/ShiCC12,Xifan Shi
+tedu/RiekkiCHSK13,Iván Sánchez
+tedu/RiekkiCHSK13,Jukka Riekki
+tedu/RiekkiCHSK13,Marja Hytönen
+tedu/RiekkiCHSK13,Marta Cortés
+tedu/RiekkiCHSK13,Riitta-Liisa Korkeamäki
+tedu/WangHW09,Fenhua Wang
+tedu/WangHW09,Xiaodan Huang
+tedu/WangHW09,Zhiliang Wang
+tedu/Ratzka13,Andreas Ratzka
+tedu/SobkeCK13,Heinrich Söbke
+tedu/SobkeCK13,Javier Alejandro Corredor
+tedu/SobkeCK13,Oliver Kornadt
+tedu/ZhengG18,Songhe Gao
+tedu/ZhengG18,Yongguo Zheng
+tedu/JungKJBL08,Gi Sook Jung
+tedu/JungKJBL08,Sang Yun Kim
+tedu/JungKJBL08,Seung Deuk Byun
+tedu/JungKJBL08,Soon Ki Jung
+tedu/JungKJBL08,Yang Soo Lee
+tedu/JiZZ12,Gang Ji
+tedu/JiZZ12,Yehua Zhu
+tedu/JiZZ12,Yongzhi Zhang
+tedu/LongZGXDYZ11,Chengjiang Long
+tedu/LongZGXDYZ11,Jianhui Zhao
+tedu/LongZGXDYZ11,Ravindra S. Goonetilleke
+tedu/LongZGXDYZ11,Shuping Xiong
+tedu/LongZGXDYZ11,Yihua Ding
+tedu/LongZGXDYZ11,Yuanyuan Zhang
+tedu/LongZGXDYZ11,Zhi-Yong Yuan
+tedu/Wang18,Liying Wang
+tedu/HulusicR13,Selma Rizvic
+tedu/HulusicR13,Vedad Hulusic
+tedu/PengMZW17,Yanjun Peng
+tedu/PengMZW17,Yingran Ma
+tedu/PengMZW17,Yuanhong Wang
+tedu/PengMZW17,Yuxiang Zhu
+tedu/Brown-SimmonsKKY09,Christopher J. H. Knox
+tedu/Brown-SimmonsKKY09,Falko Kuester
+tedu/Brown-SimmonsKKY09,Gloria Brown-Simmons
+tedu/Brown-SimmonsKKY09,So Yamaoka
+tedu/Chiang12,I-Tsun Chiang
+tedu/TragazikisM09,Michael Meimaris
+tedu/TragazikisM09,Panagiotis Tragazikis
+tedu/ShaoZMX11,Bin Shao
+tedu/ShaoZMX11,Mingmin Zhang
+tedu/ShaoZMX11,Nan Xiang
+tedu/ShaoZMX11,QingFeng Mi
+tedu/ZhaoPH15,Haiying Zhao
+tedu/ZhaoPH15,Hong Chen
+tedu/ZhaoPH15,Hong Peng
+tedu/PanZ11,Jian J. Zhang 0001
+tedu/PanZ11,JunJun Pan
+tedu/AhnS09,Chung-Kon Shi
+tedu/AhnS09,Shinhyun Ahn
+tedu/HuangYWXZ11,Dongyong Yan
+tedu/HuangYWXZ11,Fuli Wu
+tedu/HuangYWXZ11,Mingmin Zhang
+tedu/HuangYWXZ11,Nan Xiang
+tedu/HuangYWXZ11,Xixi Huang
+tedu/ShiYY13,Fangtian Ying
+tedu/ShiYY13,Jinhui Yu
+tedu/ShiYY13,Yan Shi
+tedu/WangW17a,Ying Wang
+tedu/WangW17a,Yong Wang
+tedu/Yang15,Yang Yang
+tedu/MaWD17,Hao Ma
+tedu/MaWD17,Xiaolei Du
+tedu/MaWD17,Yingmei Wei
+tedu/LiuAGH12,Ichiro Hagiwara
+tedu/LiuAGH12,Shiguang Liu
+tedu/LiuAGH12,Tai An
+tedu/LiuAGH12,Zheng Gong
+tedu/VosinakisKZ13,Panagiotis Zaharias
+tedu/VosinakisKZ13,Panayiotis Koutsabasis
+tedu/VosinakisKZ13,Spyros Vosinakis
+tedu/PangQCH10,Jing Qin 0001
+tedu/PangQCH10,Pheng-Ann Heng
+tedu/PangQCH10,Wai-Man Pang
+tedu/PangQCH10,Yim-Pan Chui
+tedu/HoZWL09,Alfred Low
+tedu/HoZWL09,Dong Wei
+tedu/HoZWL09,Jeng Hong Ho
+tedu/HoZWL09,Steven Zhiying Zhou
+tedu/ErsotelosD11,Feng Dong
+tedu/ErsotelosD11,Nikolaos Ersotelos
+tedu/ChangWH08,Jia-Sheng Heh
+tedu/ChangWH08,Maiga Chang
+tedu/ChangWH08,Stis Wu
+tedu/LiuJLDZ16,Hongjun Li
+tedu/LiuJLDZ16,Jia Liu
+tedu/LiuJLDZ16,Weilong Ding
+tedu/LiuJLDZ16,Xiaopeng Zhang 0001
+tedu/LiuJLDZ16,Zhiguo Jiang
+tedu/Paiva08,Ana Paiva
+tedu/UeokaKH09,Hill Hiroki Kobayashi
+tedu/UeokaKH09,Michitaka Hirose
+tedu/UeokaKH09,Ryoko Ueoka
+tedu/ZhaoCWZ16,Haiying Zhao
+tedu/ZhaoCWZ16,Hong Chen
+tedu/ZhaoCWZ16,Jiongzhi Wang
+tedu/ZhaoCWZ16,Ruixuan Zhang
+tedu/BonneaudRCW12,Kevin Rio
+tedu/BonneaudRCW12,Pierre Chevaillier
+tedu/BonneaudRCW12,Stéphane Bonneaud
+tedu/BonneaudRCW12,William H. Warren
+tedu/ZhuZP13,Mingmin Zhang
+tedu/ZhuZP13,Pengyu Zhu
+tedu/ZhuZP13,Zhigeng Pan
+tedu/ParkW12,Jonghee Park
+tedu/ParkW12,Woontack Woo
+tedu/TangSYG11,Baocai Yin
+tedu/TangSYG11,Hengliang Tang
+tedu/TangSYG11,Yanfeng Sun
+tedu/TangSYG11,Yun Ge
+tedu/SuTWS16,Benyue Su
+tedu/SuTWS16,Guangjun Wang
+tedu/SuTWS16,Min Sheng
+tedu/SuTWS16,Qingfeng Tang
+tedu/LeeW08,Elinda Ai-Lim Lee
+tedu/LeeW08,Kok Wai Wong
+tedu/ChenZJP09,Jiming Chen
+tedu/ChenZJP09,Jingui Pan
+tedu/ChenZJP09,Shiguang Ju
+tedu/ChenZJP09,Yan Zhuang
+tedu/CheWG16,Li Wang
+tedu/CheWG16,Xiangjiu Che
+tedu/CheWG16,Xiaoxin Guo
+tedu/BufeK10,Detlef Krömker
+tedu/BufeK10,Johannes Bufe
+tedu/LuZ11,Haibo Zhao
+tedu/LuZ11,Min Lu
+tedu/PrestonM09,Briana Morrison
+tedu/PrestonM09,Jon A. Preston
+tedu/DongLB11,Lin Bian
+tedu/DongLB11,Ting Dong
+tedu/DongLB11,Yan Liu
+tedu/ZhengL17,Guping Zheng
+tedu/ZhengL17,Haihan Li
+tedu/LiuF12,Zhicheng Liu
+tedu/LiuF12,Zhijun Fang
+tedu/XieZWZ15,Hongqiang Zhou
+tedu/XieZWZ15,Jianping Xie
+tedu/XieZWZ15,Xialai Wu
+tedu/XieZWZ15,Yi Zhou
+tedu/HuangH15,Min Hu
+tedu/HuangH15,Xuwei Huang
+tedu/LiA11,Golam Ashraf
+tedu/LiA11,Mo Li
+tedu/YamaguchiISKDTSTY09,Akiko Deguchi
+tedu/YamaguchiISKDTSTY09,Etsuji Yamaguchi
+tedu/YamaguchiISKDTSTY09,Fusako Kusunoki
+tedu/YamaguchiISKDTSTY09,Masanori Sugimoto
+tedu/YamaguchiISKDTSTY09,Sanae Tachibana
+tedu/YamaguchiISKDTSTY09,Shigenori Inagaki
+tedu/YamaguchiISKDTSTY09,Takao Seki
+tedu/YamaguchiISKDTSTY09,Tomokazu Yamamoto
+tedu/YamaguchiISKDTSTY09,Yuichiro Takeuchi
+tedu/YanFY12,Guangzhi Yin
+tedu/YanFY12,He Yan
+tedu/YanFY12,Youjia Fu
+tedu/HanW10,Huagen Wan
+tedu/HanW10,Xiaoxia Han
+tedu/ZhaoS18,Guangning Sui
+tedu/ZhaoS18,Mingming Zhao
+tedu/LvWGPS13,Chen Guo
+tedu/LvWGPS13,Desheng Lv
+tedu/LvWGPS13,Haibin Shi
+tedu/LvWGPS13,Yuting Wang
+tedu/LvWGPS13,Zhigeng Pan
+tedu/NieYJ17,Qiang Jin
+tedu/NieYJ17,Ye Yu
+tedu/NieYJ17,Zhenxing Nie
+tedu/LvB17,Huiru Bai
+tedu/LvB17,Jinlai Lv
+tedu/BlasP13,Nicoletta Di Blas
+tedu/BlasP13,Paolo Paolini
+tedu/XiongLH11,Guiqing Li
+tedu/XiongLH11,Guoqiang Han
+tedu/XiongLH11,Yunhui Xiong
+tedu/LinZXW11,Dihua Xu
+tedu/LinZXW11,Qiaomin Lin
+tedu/LinZXW11,Ruchuan Wang
+tedu/LinZXW11,Zhen Zhao
+tedu/GuP18,Lingkang Gu
+tedu/GuP18,Zhigeng Pan
+tedu/LeePL11,Jehee Lee
+tedu/LeePL11,Jong Pil Park
+tedu/LeePL11,Kang Hoon Lee
+tedu/CaoLCP17,Josephine Csete
+tedu/CaoLCP17,Ming-Liang Cao
+tedu/CaoLCP17,Yi Li
+tedu/CaoLCP17,Zhigeng Pan
+tedu/LiXJS11,Cailiang Shen
+tedu/LiXJS11,Nan Xiang
+tedu/LiXJS11,Ruiying Jiang
+tedu/LiXJS11,Zheng Li
+tedu/WangJZLJ17,Haifeng Li
+tedu/WangJZLJ17,Huaichao Wang
+tedu/WangJZLJ17,Kai Jiang
+tedu/WangJZLJ17,Xin Jin
+tedu/WangJZLJ17,Xuequan Zhang
+tedu/MaoYJXW11,Hao Jiang 0013
+tedu/MaoYJXW11,Qing Ye
+tedu/MaoYJXW11,Shihong Xia
+tedu/MaoYJXW11,Tianlu Mao
+tedu/MaoYJXW11,Zhaoqi Wang
+tedu/YangWWL17,Huiyan Wang
+tedu/YangWWL17,Tao Yang
+tedu/YangWWL17,Xiaolan Li
+tedu/YangWWL17,Xun Wang
+tedu/WangH12,Liangliang Hu
+tedu/WangH12,Yong Wang
+tedu/LiangXLLZ11,Beiji Zou
+tedu/LiangXLLZ11,Lingbo Liu
+tedu/LiangXLLZ11,Shenghui Liao
+tedu/LiangXLLZ11,Ying Xu
+tedu/LiangXLLZ11,Yixiong Liang
+tedu/ZhangMLYZ11,Changle Zhou
+tedu/ZhangMLYZ11,Guohong Mao
+tedu/ZhangMLYZ11,Hongwei Lin
+tedu/ZhangMLYZ11,Jinhui Yu
+tedu/ZhangMLYZ11,Junsong Zhang
+tedu/PuXQHD15,Dan Xu
+tedu/PuXQHD15,Wenhua Qian
+tedu/PuXQHD15,Yaqun Huang
+tedu/PuXQHD15,Youyan Dan
+tedu/PuXQHD15,Yuanyuan Pu
+tedu/JamiesonS13,Helen Varley Jamieson
+tedu/JamiesonS13,Vicki Smith
+tedu/ZhangZ17,Bing Zheng
+tedu/ZhangZ17,Defa Zhang
+tedu/MathieuPP13,David Panzoli
+tedu/MathieuPP13,Philippe Mathieu
+tedu/MathieuPP13,Sébastien Picault
+tedu/WangCLZ15,Dehai Zhu
+tedu/WangCLZ15,Hong Chen
+tedu/WangCLZ15,Qing Wang 0011
+tedu/WangCLZ15,Yan Liu
+tedu/WangYXYM09,Chenglei Yang
+tedu/WangYXYM09,Chengwei Yang
+tedu/WangYXYM09,Jinyu Xu
+tedu/WangYXYM09,Rui Wang
+tedu/WangYXYM09,Xiangxu Meng
+tedu/ShaoLP09,Peiren Shao
+tedu/ShaoLP09,Weimin Liao
+tedu/ShaoLP09,Zhigeng Pan
+tedu/ChangC12,Heien-Kun Chiang
+tedu/ChangC12,Long Chyr Chang
+tedu/WangCLZ16,Dehai Zhu
+tedu/WangCLZ16,Hong Chen
+tedu/WangCLZ16,Jinfeng Li
+tedu/WangCLZ16,Qing Wang 0011
+tedu/HorvathDSS09,Cecilia Sik-Lányi
+tedu/HorvathDSS09,Csaba Dániel
+tedu/HorvathDSS09,Jacqueline Stark
+tedu/HorvathDSS09,Milán Horváth
+tedu/FloresM13,Dennis Maciuszek
+tedu/FloresM13,Huber Flores
+tedu/MirriSRG11,Gregory R. Gay
+tedu/MirriSRG11,Marco Roccetti
+tedu/MirriSRG11,Paola Salomoni
+tedu/MirriSRG11,Silvia Mirri
+tedu/YanD17,Haolun Ding
+tedu/YanD17,Zifei Yan
+tedu/GaoJPQL18,Fangzhe Qin
+tedu/GaoJPQL18,Rui Li
+tedu/GaoJPQL18,Shangbing Gao
+tedu/GaoJPQL18,Zheng Jie
+tedu/GaoJPQL18,Zhigeng Pan
+tedu/SogaKT09,Hirokazu Taki
+tedu/SogaKT09,Masato Soga
+tedu/SogaKT09,Shota Kuriyama
+tedu/Moreno-GerBCSF08,Baltasar Fernández-Manjón
+tedu/Moreno-GerBCSF08,Carl Blesius
+tedu/Moreno-GerBCSF08,José Luis Sierra
+tedu/Moreno-GerBCSF08,Pablo Moreno-Ger
+tedu/Moreno-GerBCSF08,Paul Currier
+tedu/CaoLCP18,Josephine Csete
+tedu/CaoLCP18,Ming-Liang Cao
+tedu/CaoLCP18,Yi Li 0001
+tedu/CaoLCP18,Zhigeng Pan
+tedu/YehHWC12,Jing-Liang Wang
+tedu/YehHWC12,Shih-Ching Yeh
+tedu/YehHWC12,Wu-Yuin Hwang
+tedu/YehHWC12,Yuin-Ren Chen
+tedu/HarrisonA13,Neil B. Harrison
+tedu/HarrisonA13,Paris Avgeriou
+tedu/ShengLYAZZ16,Ke-yan Liu
+tedu/ShengLYAZZ16,Rungong An
+tedu/ShengLYAZZ16,Wanxing Sheng
+tedu/ShengLYAZZ16,Xiao Zhang 0001
+tedu/ShengLYAZZ16,Xin Zhou
+tedu/ShengLYAZZ16,Yixi Yu
+tedu/HowlandGB13,Benedict du Boulay
+tedu/HowlandGB13,Judith Good
+tedu/HowlandGB13,Katherine Howland
+tedu/FengJHWZ12,Bin Hu
+tedu/FengJHWZ12,Jiagao Wu
+tedu/FengJHWZ12,Jiali Feng
+tedu/FengJHWZ12,Nan Jiang
+tedu/FengJHWZ12,Zhiqiang Zou
+tedu/SongSHP16,Guosheng Hu
+tedu/SongSHP16,Jianming Song
+tedu/SongSHP16,Jianwen Song
+tedu/SongSHP16,Zhigeng Pan
+tedu/HuangLX11,Jian Li
+tedu/HuangLX11,Jie Huang
+tedu/HuangLX11,Rui Xiao
+tedu/WangZZYX11,Changbo Wang
+tedu/WangZZYX11,Peng Yang
+tedu/WangZZYX11,Qiang Zhang
+tedu/WangZZYX11,Zhengdong Xia
+tedu/WangZZYX11,Zhuopeng Zhang
+tedu/ChenZT15,Xin Tong
+tedu/ChenZT15,Xiutian Zheng
+tedu/ChenZT15,Yongqiang Chen
+tedu/LuoNCJDH12,Guiqiang Ni
+tedu/LuoNCJDH12,Guyu Hu
+tedu/LuoNCJDH12,Jianxin Luo
+tedu/LuoNCJDH12,Jinsong Jiang
+tedu/LuoNCJDH12,Ping Cui
+tedu/LuoNCJDH12,Yifeng Duan
+tedu/LiuFCTYC12,Changchun Yuan
+tedu/LiuFCTYC12,Hanyang Tong
+tedu/LiuFCTYC12,Sheng Liu 0002
+tedu/LiuFCTYC12,Shengyong Chen
+tedu/LiuFCTYC12,Ting Fang
+tedu/LiuFCTYC12,Zichen Chen
+tedu/ZhangL12a,Jianxun Zhang
+tedu/ZhangL12a,Yu Liu
+tedu/WangZP16,Shicheng Zhang
+tedu/WangZP16,Shunting Wang
+tedu/WangZP16,Zhigeng Pan
+tedu/ZhaiQWFW12,Heyue Wei
+tedu/ZhaiQWFW12,Jintu Fan
+tedu/ZhaiQWFW12,Lili Zhai
+tedu/ZhaiQWFW12,Rui Wang
+tedu/ZhaiQWFW12,Xiaoming Qian 0002
+tedu/PanLZYCTY09,Alvin Tang
+tedu/PanLZYCTY09,Huansen Li
+tedu/PanLZYCTY09,Mingmin Zhang
+tedu/PanLZYCTY09,Ruigang Yang
+tedu/PanLZYCTY09,Xi Cheng
+tedu/PanLZYCTY09,Yibin Ye
+tedu/PanLZYCTY09,Zhigeng Pan
+tedu/HuangS16,Haichao Shi
+tedu/HuangS16,Jinhui Huang
+tedu/HuLZT11,Michael Lees
+tedu/HuLZT11,Nan Hu
+tedu/HuLZT11,Suiping Zhou
+tedu/HuLZT11,Vaisagh Viswanathan T.
+tedu/HanQ18,Qiuhong Han
+tedu/HanQ18,Shen Qing
+tedu/QianFZLR17,Hua Luan
+tedu/QianFZLR17,Lu Qian
+tedu/QianFZLR17,Mingquan Zhou
+tedu/QianFZLR17,Pu Ren
+tedu/QianFZLR17,Yachun Fan
+tedu/TolicH09,Helmut Hlavacs
+tedu/TolicH09,Stefan Tolic
+tedu/LinL09,Chun-Hung Lin
+tedu/LinL09,Eric Zhi-Feng Liu
+tedu/SampaioP09,Laura Margarita Rodríguez Peralta
+tedu/SampaioP09,Paulo Nazareno Maia Sampaio
+tedu/MartensDM08,Alke Martens
+tedu/MartensDM08,Holger Diener
+tedu/MartensDM08,Steffen Malo
+tedu/Zhang12,Li Zhang
+tedu/LehtonenT11,Klaus Lehtonen
+tedu/LehtonenT11,Tapio Takala
+tedu/FengYLTZZP12,Bo Yang 0001
+tedu/FengYLTZZP12,Haokui Tang
+tedu/FengYLTZZP12,Minming Zhang
+tedu/FengYLTZZP12,Yanwei Zheng
+tedu/FengYLTZZP12,Yi Li
+tedu/FengYLTZZP12,Zhigeng Pan
+tedu/FengYLTZZP12,Zhiquan Feng
+tedu/ShaoJS11,Bin Shao
+tedu/ShaoJS11,Qing Shen
+tedu/ShaoJS11,Yunliang Jiang
+tedu/JiangS10,Wei Jiang
+tedu/JiangS10,Zhengxing Sun
+tedu/JiaPS11,Hong-mei Sun
+tedu/JiaPS11,Ruisheng Jia
+tedu/JiaPS11,Yanjun Peng
+tedu/PaireekrengRW09,Kok Wai Wong
+tedu/PaireekrengRW09,Kowit Rapeepisarn
+tedu/PaireekrengRW09,Worapat Paireekreng
+tedu/Koppe13,Christian Köppe
+tedu/PanZG18,Shicheng Zhang
+tedu/PanZG18,Yanhua Guo
+tedu/PanZG18,Zhigeng Pan
+tedu/SourinaTW09,Jaume Torres
+tedu/SourinaTW09,Jing Wang
+tedu/SourinaTW09,Olga Sourina
+tedu/WangWZLX12,Chao Wang
+tedu/WangWZLX12,Hongbo Li
+tedu/WangWZLX12,Mingliang Xu
+tedu/WangWZLX12,Tingting Zhu
+tedu/WangWZLX12,Yu Wu
+tedu/SuhardiL09,I. Abiyasa Suhardi
+tedu/SuhardiL09,Jörn Loviscach
+tedu/YuanW11,Cuiru Wang
+tedu/YuanW11,Hejin Yuan
+tedu/KimN12,Michael Neff
+tedu/KimN12,Yejin Kim
+tedu/DuBZX15,Jiagui Bai
+tedu/DuBZX15,Xiaorong Du
+tedu/DuBZX15,Yan Xu
+tedu/DuBZX15,Yong Zhang
+tedu/ZhangJLX13,Hua Xiong
+tedu/ZhangJLX13,Kaibin Lei
+tedu/ZhangJLX13,Liangjie Zhang
+tedu/ZhangJLX13,Xiaohong Jiang
+tedu/JiaZZL10,Bing Jia
+tedu/JiaZZL10,Shaochun Zhong
+tedu/JiaZZL10,Tianyang Zheng
+tedu/JiaZZL10,Zhiyong Liu
+tedu/ChanNPQCYH10,Dong Ni
+tedu/ChanNPQCYH10,Jing Qin 0001
+tedu/ChanNPQCYH10,Pheng-Ann Heng
+tedu/ChanNPQCYH10,Simon Chun-Ho Yu
+tedu/ChanNPQCYH10,Wai-Man Pang
+tedu/ChanNPQCYH10,Wing-Yin Chan
+tedu/ChanNPQCYH10,Yim-Pan Chui
+tedu/Kutay13,Cat Kutay
+tedu/PeternierVT08,Achille Peternier
+tedu/PeternierVT08,Daniel Thalmann
+tedu/PeternierVT08,Frédéric Vexo
+tedu/LuZ12,Haibo Zhao
+tedu/LuZ12,Min Lu
+tedu/ZhaoW11,Enhua Wu
+tedu/ZhaoW11,Shujie Zhao
+tedu/ZhangP12,Liliang Zhang
+tedu/ZhangP12,Zhigeng Pan
+tedu/WangCML13,Aiping Wang
+tedu/WangCML13,Ralph R. Martin
+tedu/WangCML13,Sikun Li
+tedu/WangCML13,Zhi-Quan Cheng
+tedu/GaoHZ12,Aimin Hao
+tedu/GaoHZ12,Qinping Zhao
+tedu/GaoHZ12,Yujian Gao
+tedu/ThinP10,Alasdair G. Thin
+tedu/ThinP10,Nicola Poole
+tedu/CaiQSL12,Baoxin Qian
+tedu/CaiQSL12,Haiyan Sun
+tedu/CaiQSL12,Jinhong Li
+tedu/CaiQSL12,Xingquan Cai
+tedu/ZhangW11,Lin Zhang
+tedu/ZhangW11,Ling Wang
+tedu/AsaiKMB10,Akira Mizuki
+tedu/AsaiKMB10,Kikuo Asai
+tedu/AsaiKMB10,Mark Billinghurst
+tedu/AsaiKMB10,Tomotsugu Kondo
+tedu/BirchallG13,Christos Gatzidis
+tedu/BirchallG13,James Birchall
+tedu/PanSBLL15,Jiang Liu
+tedu/PanSBLL15,Qiaoming Pan
+tedu/PanSBLL15,Xiao Lin
+tedu/PanSBLL15,Yang Shen
+tedu/PanSBLL15,Yanxiao Bao
+tedu/CaoJLP18,Lu Jin
+tedu/CaoJLP18,Ming-Liang Cao
+tedu/CaoJLP18,Yi Li 0001
+tedu/CaoJLP18,Zhigeng Pan
+tedu/YouLW11,Fang You
+tedu/YouLW11,HuiMin Luo
+tedu/YouLW11,Jianmin Wang 0002
+tedu/WangSKH18,Dingke Kong
+tedu/WangSKH18,Jing Hua
+tedu/WangSKH18,Jingtao Wang
+tedu/WangSKH18,Yinwen Shen
+tedu/NeyGBSB10,Celso Gonçalves
+tedu/NeyGBSB10,Claudine Schwartz
+tedu/NeyGBSB10,Jean-Luc Bosson
+tedu/NeyGBSB10,Muriel Ney
+tedu/NeyGBSB10,Nicolas Balacheff
+tedu/KwakNVHF11,Bram J. J. van der Vlist
+tedu/KwakNVHF11,Gerrit Niezen
+tedu/KwakNVHF11,Jun Hu 0001
+tedu/KwakNVHF11,Loe M. G. Feijs
+tedu/KwakNVHF11,Matthijs Kwak
+tedu/SuJ15,Fei Jia
+tedu/SuJ15,Liangcheng Su
+tedu/BadaTERC12,Carlos Carrascosa
+tedu/BadaTERC12,Gustavo Aranda Bada
+tedu/BadaTERC12,Inmaculada Rodríguez
+tedu/BadaTERC12,Marc Esteva
+tedu/BadaTERC12,Tomas Trescak
+tedu/LeeWF10,Chun Che Fung
+tedu/LeeWF10,Elinda Ai-Lim Lee
+tedu/LeeWF10,Kok Wai Wong
+tedu/KhineS08,Mohamad Shalleh Bin Suja'ee
+tedu/KhineS08,Myint Swe Khine
+tedu/ZhangY09,Jianping Zhang
+tedu/ZhangY09,Yuhui Yang
+tedu/OhW08,Sejin Oh
+tedu/OhW08,Woontack Woo
+tedu/PaliokasAM13,Chistos Arapidis
+tedu/PaliokasAM13,Ioannis Paliokas
+tedu/PaliokasAM13,Michail Mpimpitsos
+tedu/HuF10,Jun Hu 0001
+tedu/HuF10,Loe M. G. Feijs
+tedu/ZhaoD15,Shuiyu Ding
+tedu/ZhaoD15,Wei Zhao
+tedu/RiedelWJSS13,Corinna Jödicke
+tedu/RiedelWJSS13,Eric Schoop
+tedu/RiedelWJSS13,Jana Riedel
+tedu/RiedelWJSS13,Ralph Sonntag
+tedu/RiedelWJSS13,Romy Wolff
+tedu/StaffansWHS09,Annika Wiklund-Engblom
+tedu/StaffansWHS09,Marc Hassenzahl
+tedu/StaffansWHS09,Simon Staffans
+tedu/StaffansWHS09,Susanne Sperring
+tedu/FanWCPS12,Bin Chan
+tedu/FanWCPS12,Bin Wang 0021
+tedu/FanWCPS12,Jean-Claude Paul
+tedu/FanWCPS12,Jiaguang Sun
+tedu/FanWCPS12,Wenshan Fan
+tedu/ChengMZ13,Keyang Cheng
+tedu/ChengMZ13,Qirong Mao
+tedu/ChengMZ13,Yongzhao Zhan
+tedu/Li13,Xunxiang Li
+tedu/GohMG08,Gangwen Mei
+tedu/GohMG08,Kok Wee Goh
+tedu/GohMG08,Shuzhi Sam Ge
+tedu/ShiHC11,Ning Hong
+tedu/ShiHC11,Tiefeng Cai
+tedu/ShiHC11,Xifan Shi
+tedu/HuaYDZ12,Guofeng Zhang 0001
+tedu/HuaYDZ12,Wei Hua
+tedu/HuaYDZ12,Wenzhuo Yang
+tedu/HuaYDZ12,Zilong Dong
+tedu/HodhodCK11,Daniel Kudenko
+tedu/HodhodCK11,Paul A. Cairns
+tedu/HodhodCK11,Rania A. Hodhod
+tedu/HuF09,Jun Hu 0001
+tedu/HuF09,Loe M. G. Feijs
+tedu/LiZWW13,Bei Wang
+tedu/LiZWW13,Naiyi Wang
+tedu/LiZWW13,Qian Li
+tedu/LiZWW13,Teng Zhang
+tedu/HePZ17,Haiying Zhao
+tedu/HePZ17,Yuyong He
+tedu/HePZ17,Zhigeng Pan
+tedu/KoenitzHFS13,Gabriele Ferri 0001
+tedu/KoenitzHFS13,Hartmut Koenitz
+tedu/KoenitzHFS13,Mads Haahr
+tedu/KoenitzHFS13,Tonguc Ibrahim Sezen
+tedu/ShenJZFL17,Jing Fan
+tedu/ShenJZFL17,Qing Shen
+tedu/ShenJZFL17,Xiongtao Zhang
+tedu/ShenJZFL17,Yong Liu
+tedu/ShenJZFL17,Yunliang Jiang
+tedu/WangC12,Li-Chun Wang 0002
+tedu/WangC12,Ming-Puu Chen
+tedu/QiuXZ15,Chengxian Xu
+tedu/QiuXZ15,Guohua Zhan
+tedu/QiuXZ15,Lin Qiu
+tedu/WeiL10,Ting Wei
+tedu/WeiL10,Yi Li
+tedu/ShenL17,Huaqing Shen
+tedu/ShenL17,Ran Liu
+tedu/YangYZZZ17,Lin Yang
+tedu/YangYZZZ17,Long Ye
+tedu/YangYZZZ17,Qin Zhang 0009
+tedu/YangYZZZ17,Wei Zhong
+tedu/YangYZZZ17,Yingying Zhang
+tedu/YuanLWL09,Dongming Lu
+tedu/YuanLWL09,Gang Liu
+tedu/YuanLWL09,Qi Wu
+tedu/YuanLWL09,Qingshu Yuan
+tedu/Ruping13,Andreas Rüping
+tedu/ZhangWYXZ17,Jingling Wang
+tedu/ZhangWYXZ17,Long Ye
+tedu/ZhangWYXZ17,Qin Zhang 0009
+tedu/ZhangWYXZ17,Xue Xue
+tedu/ZhangWYXZ17,Yingying Zhang
+tedu/LinWAS12,Katsuhito Akahane
+tedu/LinWAS12,Liping Lin
+tedu/LinWAS12,Makoto Sato
+tedu/LinWAS12,Yongtian Wang
+tedu/HuangTKWLT09,Chung-Hsien Tsai
+tedu/HuangTKWLT09,Huan-Chao Keh
+tedu/HuangTKWLT09,Ji-Jen Wu
+tedu/HuangTKWLT09,Jiung-yao Huang
+tedu/HuangTKWLT09,Kun-Hang Lee
+tedu/HuangTKWLT09,Ming-Chih Tung
+tedu/WangW17,Ying Wang
+tedu/WangW17,Yong Wang
+tedu/NaBW08,Mark Billinghurst
+tedu/NaBW08,Sewon Na
+tedu/NaBW08,Woontack Woo
+tedu/DongHYJ13,He Yan
+tedu/DongHYJ13,Qun Jiang
+tedu/DongHYJ13,Shidu Dong
+tedu/DongHYJ13,Song Huang
+tedu/Spierling08,Ulrike Spierling
+tedu/CarterRMP09,Abdennour El Rhalibi
+tedu/CarterRMP09,Chris Carter 0001
+tedu/CarterRMP09,Madjid Merabti
+tedu/CarterRMP09,Marc Price
+tedu/Wechselberger09,Ulrich Wechselberger
+tedu/SeilerS13,Raivo Sell
+tedu/SeilerS13,Sven Seiler
+tedu/Dong18,Xiaoli Dong
+tedu/Zhang10,Li Zhang
+tedu/ZhangL12,Lin Zhang
+tedu/ZhangL12,Qing Liu
+tedu/LoCTY09,Chuen-Jung Chang
+tedu/LoCTY09,Hsiao-Han Tu
+tedu/LoCTY09,Jia-Jiunn Lo
+tedu/LoCTY09,Shiou-Wen Yeh
+tedu/YanYLYZ11,Baoyun Zhang
+tedu/YanYLYZ11,Chun Liang
+tedu/YanYLYZ11,Daning Yu
+tedu/YanYLYZ11,Hui Yan
+tedu/YanYLYZ11,Ruwei Yun
+tedu/Sauve09,Louise Sauvé
+tedu/GaudyNA09,Dominique Archambault
+tedu/GaudyNA09,Stéphane Natkin
+tedu/GaudyNA09,Thomas Gaudy
+tedu/MolnarK16,Andreea Molnar
+tedu/MolnarK16,Patty Kostkova
+tedu/WangGYT17,Lida Yang
+tedu/WangGYT17,Mi Tian
+tedu/WangGYT17,Quanyu Wang
+tedu/WangGYT17,Yuan Guo
+tedu/CaiLSL12,Haiyan Sun
+tedu/CaiLSL12,Jie Li
+tedu/CaiLSL12,Jinhong Li
+tedu/CaiLSL12,Xingquan Cai
+tedu/Hu08,Wenfeng Hu
+tedu/ZhangZXD11,Huanzhen Xue
+tedu/ZhangZXD11,Jun Dong
+tedu/ZhangZXD11,Qi Zhao
+tedu/ZhangZXD11,Xian-Jun Zhang
+tedu/HuangFGH18,Jing Fan
+tedu/HuangFGH18,Shaowen Gao
+tedu/HuangFGH18,Wenjun Hu
+tedu/HuangFGH18,Xu Huang 0002
+tedu/Zhang13,Li Zhang
+tedu/Choi10,Kup-Sze Choi
+tedu/JesusRC11,Nuno Correia 0001
+tedu/JesusRC11,Rui M. Jesus
+tedu/JesusRC11,Teresa Romão
+tedu/WangS18,Meiliang Wang
+tedu/WangS18,Yang Shen
+tedu/HeCZ11,Leiting Chen
+tedu/HeCZ11,Qingxin Zhu
+tedu/HeCZ11,Xiaoxi He
+tedu/KrugerD13,Gabi Diercks-O'Brien
+tedu/KrugerD13,Marc Krüger
+tedu/ZhangW12,Jinrong Zhang
+tedu/ZhangW12,Yue Wang
+tedu/Meyer09,Bente Meyer
+tedu/ShenJSPHH15,Haoyu Peng
+tedu/ShenJSPHH15,Qing Shen
+tedu/ShenJSPHH15,Xiulan Hao
+tedu/ShenJSPHH15,Xu Huang 0002
+tedu/ShenJSPHH15,Yunliang Jiang
+tedu/ShenJSPHH15,Zhangguo Shen
+tedu/ChenPZ12,Mingmin Zhang
+tedu/ChenPZ12,Shengnan Chen
+tedu/ChenPZ12,Zhigeng Pan
+tedu/ChenZCZ17,Xingru Chen
+tedu/ChenZCZ17,Xun Zhang
+tedu/ChenZCZ17,Yi Chen
+tedu/ChenZCZ17,Yunfang Zhao
+tedu/DaiZ13,Jun Dai
+tedu/DaiZ13,Lifen Zhang
+tedu/ZhangDZCP12,Chuan Zhu
+tedu/ZhangDZCP12,Qunsheng Peng
+tedu/ZhangDZCP12,Wei Chen 0001
+tedu/ZhangDZCP12,Xin Zhang
+tedu/ZhangDZCP12,Zi'ang Ding
+tedu/Zhong18,Xiu-Yan Zhong
+tedu/KarimGMBB11,Ahmad Abdul Karim
+tedu/KarimGMBB11,Alexandre Meyer
+tedu/KarimGMBB11,Axel Buendia
+tedu/KarimGMBB11,Saïda Bouakaz
+tedu/KarimGMBB11,Thibaut Gaudin
+tedu/HungKC09,Charles K. Kinzer
+tedu/HungKC09,Cheng-Ling Alice Chen
+tedu/HungKC09,Kuo-Hsun Hung
+tedu/LinazaGTT08,Ander García
+tedu/LinazaGTT08,Isabel Torre
+tedu/LinazaGTT08,Jose Ignacio Torres
+tedu/LinazaGTT08,María Teresa Linaza
+tedu/RebholzZ13,Marc Zimmermann
+tedu/RebholzZ13,Sandra Rebholz
+tedu/Delgado-MataIGG08,Carlos Delgado-Mata
+tedu/Delgado-MataIGG08,Felipe Gómez-Caballero
+tedu/Delgado-MataIGG08,Jesús Ibáñez-Martínez
+tedu/Delgado-MataIGG08,Oscar Miguel Guillén-Hernández
+tedu/WangWH11,Huibin Wang
+tedu/WangWH11,Rong Hong
+tedu/WangWH11,Xuewen Wu
+tedu/BacklundTEJLSSPS13,Angelique Slijper
+tedu/BacklundTEJLSSPS13,Anna-Sofia Alklind Taylor
+tedu/BacklundTEJLSSPS13,Henrik Engström
+tedu/BacklundTEJLSSPS13,Jesper Poucette
+tedu/BacklundTEJLSSPS13,Karin Svensson
+tedu/BacklundTEJLSSPS13,Katharina Stibrant Sunnerhagen
+tedu/BacklundTEJLSSPS13,Mikael Johannesson
+tedu/BacklundTEJLSSPS13,Mikael Lebram
+tedu/BacklundTEJLSSPS13,Per Backlund
+tedu/KlopferO13,Eric Klopfer
+tedu/KlopferO13,Scot Osterweil
+tedu/LiuFLX16,Hui Liu
+tedu/LiuFLX16,Liwei Liang
+tedu/LiuFLX16,Zhipeng Xu
+tedu/LiuFLX16,Zhiquan Feng
+tedu/LiZ18,Defa Zhang
+tedu/LiZ18,Xiaofen Li
+tedu/KaoHL12,Fu-Chien Kao
+tedu/KaoHL12,Han-Chien Hsieh
+tedu/KaoHL12,Wei-Te Li
+tedu/LiZD17,Xiaorong Du
+tedu/LiZD17,Xuekuo Li
+tedu/LiZD17,Yong Zhang
+tedu/ChenLWSW12,Chengtao Wang
+tedu/ChenLWSW12,Guofang Shen
+tedu/ChenLWSW12,Xiaojun Chen 0003
+tedu/ChenLWSW12,Xudong Wang
+tedu/ChenLWSW12,Yanping Lin
+tedu/GeYST11,Baocai Yin
+tedu/GeYST11,Hengliang Tang
+tedu/GeYST11,Yanfeng Sun
+tedu/GeYST11,Yun Ge
+tedu/ZhouPLWL17,Jiaqi Pan
+tedu/ZhouPLWL17,Pengfei Li
+tedu/ZhouPLWL17,Wenhui Zhou
+tedu/ZhouPLWL17,Xuehui Wei
+tedu/ZhouPLWL17,Zhen Liu
+tedu/JiangC11,Lei Chen
+tedu/JiangC11,Wei Jiang
+tedu/HeZ11,Mingmin Zhang
+tedu/HeZ11,Yuyong He
+tedu/YunJL09,Ruwei Yun
+tedu/YunJL09,Yanyan Jiang 0002
+tedu/YunJL09,Yi Li
+tedu/CaiICZ08,Chandrasekaran Indhumathi
+tedu/CaiICZ08,J. M. Zheng
+tedu/CaiICZ08,W. Y. Chen
+tedu/CaiICZ08,Yiyu Cai
+tedu/DangCA13,Kim Dung Dang
+tedu/DangCA13,Michel Augeraud
+tedu/DangCA13,Ronan Champagnat
+tedu/FengFY16,Shichang Feng
+tedu/FengFY16,Xiaohui Yang
+tedu/FengFY16,Zhiquan Feng
+tedu/HuHZD13,Hong-hai Zhu
+tedu/HuHZD13,Jun Dong
+tedu/HuHZD13,Xiaojuan Hu
+tedu/HuHZD13,Zheng He
+tedu/ShinozakiIN08,Akitsugu Iwatani
+tedu/ShinozakiIN08,Kuniya Shinozaki
+tedu/ShinozakiIN08,Ryohei Nakatsu
+tedu/PengHZL09,Rong Hua
+tedu/PengHZL09,Weidong Zhao
+tedu/PengHZL09,Xinming Lu
+tedu/PengHZL09,Yanjun Peng
+tedu/YeZP16,Haiying Zhao
+tedu/YeZP16,Ruisong Ye
+tedu/YeZP16,Sun Chang Ping
+tedu/TarumiYDKITHY09,Fusako Kusunoki
+tedu/TarumiYDKITHY09,Hiroyuki Tarumi
+tedu/TarumiYDKITHY09,Keitaro Yamada
+tedu/TarumiYDKITHY09,Makiko Takenaka
+tedu/TarumiYDKITHY09,Masahiko Yano
+tedu/TarumiYDKITHY09,Shigenori Inagaki
+tedu/TarumiYDKITHY09,Takafumi Daikoku
+tedu/TarumiYDKITHY09,Toshihiro Hayashi
+tedu/Schoenau-FogBKF13,Faysal Fuad Khalil
+tedu/Schoenau-FogBKF13,Henrik Schoenau-Fog
+tedu/Schoenau-FogBKF13,Jawid Faizi
+tedu/Schoenau-FogBKF13,Luis Emilio Bruni
+tedu/ZhangPM10,Mingmin Zhang
+tedu/ZhangPM10,QingFeng Mi
+tedu/ZhangPM10,Zhigeng Pan
+tedu/WendelBHKGS10,Maxim Babarinow
+tedu/WendelBHKGS10,Ralf Steinmetz
+tedu/WendelBHKGS10,Sergej Kolmogorov
+tedu/WendelBHKGS10,Stefan Göbel 0001
+tedu/WendelBHKGS10,Tobias Hörl
+tedu/WendelBHKGS10,Viktor Wendel
+tedu/WangCNZSZW12,Jiulong Zhang
+tedu/WangCNZSZW12,Minghua Zhao
+tedu/WangCNZSZW12,Qiongfang Wang
+tedu/WangCNZSZW12,Xiaojuan Ning
+tedu/WangCNZSZW12,Xin Chang
+tedu/WangCNZSZW12,Yinghui Wang
+tedu/WangCNZSZW12,Zhenghao Shi
+tedu/DongYWLL12,Hengyang Liu
+tedu/DongYWLL12,Huaqiu Wang
+tedu/DongYWLL12,Shidu Dong
+tedu/DongYWLL12,Xiang Liu
+tedu/DongYWLL12,Xiaofan Yang
+tedu/TaylorP09,David C. Pountney
+tedu/TaylorP09,Mark John Taylor
+tedu/ZengWNML12,Bo Wu 0020
+tedu/ZengWNML12,Jiangfan Ning
+tedu/ZengWNML12,Jiawen Ma
+tedu/ZengWNML12,Liang Zeng
+tedu/ZengWNML12,Sikun Li
+tedu/LoJSYC08,Jia-Jiunn Lo
+tedu/LoJSYC08,Nai-Wei Ji
+tedu/LoJSYC08,Wan-Jyun You
+tedu/LoJSYC08,Ya-Huei Syu
+tedu/LoJSYC08,Yi-Ting Chen
+tedu/SunL10,Effie Lai-Chong Law
+tedu/SunL10,Xu Sun 0002
+tedu/HuLS17,Haohao Sun
+tedu/HuLS17,Xiong Lu
+tedu/HuLS17,Xusheng Hu
+tedu/0007YMWP18,Douli Ma
+tedu/0007YMWP18,Jing Liu 0007
+tedu/0007YMWP18,Yajie Yang
+tedu/0007YMWP18,Yinghui Wang
+tedu/0007YMWP18,Zhigeng Pan
+tedu/SzilasAR12,Monica Axelrad
+tedu/SzilasAR12,Nicolas Szilas
+tedu/SzilasAR12,Urs Richle
+tedu/SmithC13,Ann Smith
+tedu/SmithC13,Matthew Chilcott
+tedu/YangHW11,Enhua Wu
+tedu/YangHW11,Meng Yang
+tedu/YangHW11,Meng-Cheng Huang
+tedu/ChenQ12,Qiaoyun Chen
+tedu/ChenQ12,Xiaoyan Qiao
+tedu/YangXL15,Lijie Yang
+tedu/YangXL15,Tianchen Xu
+tedu/YangXL15,Xiaoshan Li
+tedu/ValentinCGL12,Eric Gouardères
+tedu/ValentinCGL12,Florent Coudret
+tedu/ValentinCGL12,Julien Valentin
+tedu/ValentinCGL12,Wilfrid Lefer
+tedu/GuoXCZ10,Shibiao Xu
+tedu/GuoXCZ10,Wujun Che
+tedu/GuoXCZ10,Xiaopeng Zhang 0001
+tedu/GuoXCZ10,Xiaoyue Guo
+tedu/MolletCB09,Luca Giulio Brayda
+tedu/MolletCB09,Nicolas Mollet
+tedu/MolletCB09,Ryad Chellali
+tedu/BilottaGST09,Assunta Tavernise
+tedu/BilottaGST09,Eleonora Bilotta
+tedu/BilottaGST09,Lorella Gabriele
+tedu/BilottaGST09,Rocco Servidio
+tedu/ZhangX12,Chuanyun Xu
+tedu/ZhangX12,Yang Zhang
+tedu/WangLHNSZZ15,Jing Liu 0007
+tedu/WangLHNSZZ15,Jiulong Zhang
+tedu/WangLHNSZZ15,Minghua Zhao
+tedu/WangLHNSZZ15,Wen Hao
+tedu/WangLHNSZZ15,Xiaojuan Ning
+tedu/WangLHNSZZ15,Yinghui Wang
+tedu/WangLHNSZZ15,Zhenghao Shi
+tedu/LiSL16,Min Li
+tedu/LiSL16,Xiaoyan Li
+tedu/LiSL16,Yun Sun
+tedu/CourgeonCTM11,Céline Clavel
+tedu/CourgeonCTM11,Jean-Claude Martin
+tedu/CourgeonCTM11,Matthieu Courgeon
+tedu/CourgeonCTM11,Ning Tan
+tedu/Garcia-MateosF09,Ginés García-Mateos
+tedu/Garcia-MateosF09,José Luis Fernández Alemán
+tedu/CaiY10,FeiLong Cai
+tedu/CaiY10,JinHui Yu
+tedu/MarchiMFLC10,Annie Luciani
+tedu/MarchiMFLC10,Florence Marchi
+tedu/MarchiMFLC10,Jean-Loup Florens
+tedu/MarchiMFLC10,Joël Chevrier
+tedu/MarchiMFLC10,Sylvain Marlière
+tedu/ChenKCH09,Jia-Sheng Heh
+tedu/ChenKCH09,Maiga Chang
+tedu/ChenKCH09,Peayton Chen
+tedu/ChenKCH09,Rita Kuo
+tedu/TorrenteLMF09,Baltasar Fernández-Manjón
+tedu/TorrenteLMF09,Javier Torrente
+tedu/TorrenteLMF09,Pablo Lavín-Mera
+tedu/TorrenteLMF09,Pablo Moreno-Ger
+taosd/Malakuti16,Somayeh Malakuti
+taosd/KouraiHC09,Hideaki Hibino
+taosd/KouraiHC09,Kenichi Kourai
+taosd/KouraiHC09,Shigeru Chiba
+taosd/BergmansHA12,Lodewijk Bergmans
+taosd/BergmansHA12,Mehmet Aksit
+taosd/BergmansHA12,Wilke Havinga
+taosd/LanduytbTJ12,Dimitri Van Landuyt
+taosd/LanduytbTJ12,Eddy Truyen
+taosd/LanduytbTJ12,Steven Op de beeck
+taosd/LanduytbTJ12,Wouter Joosen
+taosd/TeruelWDN14,Camille Teruel
+taosd/TeruelWDN14,Erwann Wernli
+taosd/TeruelWDN14,Oscar Nierstrasz
+taosd/TeruelWDN14,Stéphane Ducasse
+taosd/LanduytTJ10,Dimitri Van Landuyt
+taosd/LanduytTJ10,Eddy Truyen
+taosd/LanduytTJ10,Wouter Joosen
+taosd/KellensMT07,Andy Kellens
+taosd/KellensMT07,Kim Mens
+taosd/KellensMT07,Paolo Tonella
+taosd/KleinFJ07,Franck Fleurey
+taosd/KleinFJ07,Jacques Klein
+taosd/KleinFJ07,Jean-Marc Jézéquel
+taosd/TekinerdoganBMTA11,Bedir Tekinerdogan
+taosd/TekinerdoganBMTA11,Erdem Turançiftci
+taosd/TekinerdoganBMTA11,Levent Alkislar
+taosd/TekinerdoganBMTA11,Serap Bozbey
+taosd/TekinerdoganBMTA11,Yavuz Mester
+taosd/KaminaAMT16,Hidehiko Masuhara
+taosd/KaminaAMT16,Tetsuo Kamina
+taosd/KaminaAMT16,Tetsuo Tamai
+taosd/KaminaAMT16,Tomoyuki Aotani
+taosd/AraujoB07,Elisa L. A. Baniassad
+taosd/AraujoB07,João Araújo 0001
+taosd/AraujoB07a,Elisa L. A. Baniassad
+taosd/AraujoB07a,João Araújo 0001
+taosd/CartonDJC09,Andrew Carton
+taosd/CartonDJC09,Andrew Jackson
+taosd/CartonDJC09,Cormac Driver
+taosd/CartonDJC09,Siobhán Clarke
+taosd/BrabrandRTWB13,Claus Brabrand
+taosd/BrabrandRTWB13,Johnni Winther
+taosd/BrabrandRTWB13,Márcio Ribeiro
+taosd/BrabrandRTWB13,Paulo Borba
+taosd/BrabrandRTWB13,Társis Tolêdo
+taosd/BoerGJKW14,Andreas Kohn
+taosd/BoerGJKW14,Einar Broch Johnsen
+taosd/BoerGJKW14,Frank S. de Boer
+taosd/BoerGJKW14,Peter Y. H. Wong
+taosd/BoerGJKW14,Stijn de Gouw
+taosd/CazzolaCS07,Gunter Saake
+taosd/CazzolaCS07,Shigeru Chiba
+taosd/CazzolaCS07,Walter Cazzola
+taosd/WhiteGS09,Douglas C. Schmidt
+taosd/WhiteGS09,Jeff Gray
+taosd/WhiteGS09,Jules White
+taosd/ChitchyanPRF07,Awais Rashid
+taosd/ChitchyanPRF07,Lidia Fuentes
+taosd/ChitchyanPRF07,Mónica Pinto
+taosd/ChitchyanPRF07,Ruzanna Chitchyan
+taosd/KienzleGM10,Jörg Kienzle
+taosd/KienzleGM10,Nicolas Guelfi
+taosd/KienzleGM10,Sadaf Mustafiz
+taosd/AlvesMCVBR07,Alexandre Vasconcelos
+taosd/AlvesMCVBR07,Geber L. Ramalho
+taosd/AlvesMCVBR07,Leonardo Cole
+taosd/AlvesMCVBR07,Paulo Borba
+taosd/AlvesMCVBR07,Pedro Matos
+taosd/AlvesMCVBR07,Vander Alves
+taosd/AxelsenSKM12,Birger Møller-Pedersen
+taosd/AxelsenSKM12,Eyvind W. Axelsen
+taosd/AxelsenSKM12,Fredrik Sørensen
+taosd/AxelsenSKM12,Stein Krogdahl
+taosd/MaozS13,Shahar Maoz
+taosd/MaozS13,Yaniv Sa'ar
+taosd/Laddad11,Ramnivas Laddad
+taosd/MalakutiA14,Mehmet Aksit
+taosd/MalakutiA14,Somayeh Malakuti
+taosd/HeidenreichHJZ09,Florian Heidenreich
+taosd/HeidenreichHJZ09,Jakob Henriksson
+taosd/HeidenreichHJZ09,Jendrik Johannes
+taosd/HeidenreichHJZ09,Steffen Zschaler
+taosd/NguyenNKMT13,Grégory Nain
+taosd/NguyenNKMT13,Jacques Klein
+taosd/NguyenNKMT13,Phu Hong Nguyen
+taosd/NguyenNKMT13,Tejeddine Mouelhi
+taosd/NguyenNKMT13,Yves Le Traon
+taosd/AmalioKMG10,Christian Glodt
+taosd/AmalioKMG10,Nuno Amálio
+taosd/AmalioKMG10,Pierre Kelsen
+taosd/AmalioKMG10,Qin Ma 0002
+taosd/FilhoAB16,João Bosco Ferreira Filho
+taosd/FilhoAB16,Mathieu Acher
+taosd/FilhoAB16,Olivier Barais
+taosd/WhittleJEMA09,Ahmed M. Elkhodary
+taosd/WhittleJEMA09,Ana Moreira 0001
+taosd/WhittleJEMA09,Jon Whittle
+taosd/WhittleJEMA09,João Araújo 0001
+taosd/WhittleJEMA09,Praveen K. Jayaraman
+taosd/CiraciHABB10,Christoph Bockisch
+taosd/CiraciHABB10,Mehmet Aksit
+taosd/CiraciHABB10,Pim van den Broek
+taosd/CiraciHABB10,Selim Ciraci
+taosd/CiraciHABB10,Wilke Havinga
+taosd/NiuYGELM09,Bruno González-Baixauli
+taosd/NiuYGELM09,John Mylopoulos
+taosd/NiuYGELM09,Julio Cesar Sampaio do Prado Leite
+taosd/NiuYGELM09,Nan Niu
+taosd/NiuYGELM09,Neil A. Ernst
+taosd/NiuYGELM09,Yijun Yu
+taosd/SalvaneschiM13,Guido Salvaneschi
+taosd/SalvaneschiM13,Mira Mezini
+taosd/ChurchillMST14,Martin Churchill
+taosd/ChurchillMST14,Neil Sculthorpe
+taosd/ChurchillMST14,Paolo Torrini
+taosd/ChurchillMST14,Peter D. Mosses
+taosd/LanduytbTV11,Dimitri Van Landuyt
+taosd/LanduytbTV11,Eddy Truyen
+taosd/LanduytbTV11,Pierre Verbaeten
+taosd/LanduytbTV11,Steven Op de beeck
+taosd/HolzerZJE12,Adrian Holzer
+taosd/HolzerZJE12,K. R. Jayaram
+taosd/HolzerZJE12,Lukasz Ziarek
+taosd/HolzerZJE12,Patrick Eugster
+taosd/LiuGC07,Celina Gibbs
+taosd/LiuGC07,Chunjian Robin Liu
+taosd/LiuGC07,Yvonne Coady
+taosd/GroherV09,Iris Groher
+taosd/GroherV09,Markus Völter
+taosd/RoychoudhuryGJ11,Frédéric Jouault
+taosd/RoychoudhuryGJ11,Jeff Gray
+taosd/RoychoudhuryGJ11,Suman Roychoudhury
+taosd/KienzleDG09,Ekwa Duala-Ekoko
+taosd/KienzleDG09,Jörg Kienzle
+taosd/KienzleDG09,Samuel Gélineau
+taosd/KaminaAM16,Hidehiko Masuhara
+taosd/KaminaAM16,Tetsuo Kamina
+taosd/KaminaAM16,Tomoyuki Aotani
+taosd/MussbacherAW07,Daniel Amyot
+taosd/MussbacherAW07,Gunter Mussbacher
+taosd/MussbacherAW07,Michael Weiss 0001
+taosd/BritoVMR07,Ana Moreira 0001
+taosd/BritoVMR07,Filipe Vieira
+taosd/BritoVMR07,Isabel Sofia Brito
+taosd/BritoVMR07,Rita Almeida Ribeiro
+taosd/TigliLRFHAVR12,Christophe Vergoni
+taosd/TigliLRFHAVR12,Gaëtan Rey
+taosd/TigliLRFHAVR12,Jean-Yves Tigli
+taosd/TigliLRFHAVR12,Michel Riveill
+taosd/TigliLRFHAVR12,Nicolas Ferry 0001
+taosd/TigliLRFHAVR12,Sana Fathallah Ben Abdenneji
+taosd/TigliLRFHAVR12,Stephane Lavirotte
+taosd/TigliLRFHAVR12,Vincent Hourdin
+taosd/BergCH07,José María Conejero
+taosd/BergCH07,Juan Hernández
+taosd/BergCH07,Klaas van den Berg
+taosd/ChitchyanFKR09,Arend Rensink
+taosd/ChitchyanFKR09,Johan Fabry
+taosd/ChitchyanFKR09,Ruzanna Chitchyan
+taosd/ChitchyanFKR09,Shmuel Katz
+taosd/MolderezJ15,Dirk Janssens
+taosd/MolderezJ15,Tim Molderez
+taosd/MitschkeEMGB13,Alessandro Garcia
+taosd/MitschkeEMGB13,Isela Macia Bertran
+taosd/MitschkeEMGB13,Michael Eichberg
+taosd/MitschkeEMGB13,Mira Mezini
+taosd/MitschkeEMGB13,Ralf Mitschke
+taosd/NinoMCC09,Alejandro Crema
+taosd/NinoMCC09,Christiane Metzner
+taosd/NinoMCC09,Eliezer Correa
+taosd/NinoMCC09,Norelva Niño
+taosd/HeidenreichSSZAAFKMR10,Ana Moreira 0001
+taosd/HeidenreichSSZAAFKMR10,Awais Rashid
+taosd/HeidenreichSSZAAFKMR10,Florian Heidenreich
+taosd/HeidenreichSSZAAFKMR10,João Araújo 0001
+taosd/HeidenreichSSZAAFKMR10,João Pedro Santos
+taosd/HeidenreichSSZAAFKMR10,Lidia Fuentes
+taosd/HeidenreichSSZAAFKMR10,Mauricio Alférez
+taosd/HeidenreichSSZAAFKMR10,Pablo Sánchez
+taosd/HeidenreichSSZAAFKMR10,Steffen Zschaler
+taosd/HeidenreichSSZAAFKMR10,Uirá Kulesza
+taosd/DubslaffBK14,Christel Baier
+taosd/DubslaffBK14,Clemens Dubslaff
+taosd/DubslaffBK14,Sascha Klüppelholz
+taosd/MehnerMT09,Gabriele Taentzer
+taosd/MehnerMT09,Katharina Mehner
+taosd/MehnerMT09,Mattia Monga
+taosd/MosserBF10,Mireille Blay-Fornarino
+taosd/MosserBF10,Robert B. France
+taosd/MosserBF10,Sébastien Mosser 0001
+taosd/SilvaVM14,Luciana Lourdes Silva
+taosd/SilvaVM14,Marcelo de Almeida Maia
+taosd/SilvaVM14,Marco Tulio Valente
+taosd/FigueroaTT13,Ismael Figueroa
+taosd/FigueroaTT13,Nicolas Tabareau
+taosd/FigueroaTT13,Éric Tanter
+taosd/FuentesS09,Lidia Fuentes
+taosd/FuentesS09,Pablo Sánchez
+taosd/LohmannSHS12,Daniel Lohmann
+taosd/LohmannSHS12,Olaf Spinczyk
+taosd/LohmannSHS12,Wanja Hofer
+taosd/LohmannSHS12,Wolfgang Schröder-Preikschat
+taosd/0001RC13,Hridesh Rajan
+taosd/0001RC13,Robert Dyer 0001
+taosd/0001RC13,Yuanfang Cai
+taosd/ZhuangC13,Shigeru Chiba
+taosd/ZhuangC13,YungYu Zhuang
+taosd/Bagherzadeh0FSR16,Hridesh Rajan
+taosd/Bagherzadeh0FSR16,José Sánchez
+taosd/Bagherzadeh0FSR16,Mehdi Bagherzadeh
+taosd/Bagherzadeh0FSR16,Rex D. Fernando
+taosd/Bagherzadeh0FSR16,Robert Dyer 0001
+taosd/YinBA13,Christoph Bockisch
+taosd/YinBA13,Haihan Yin
+taosd/YinBA13,Mehmet Aksit
+taosd/McNeileR10,Ashley T. McNeile
+taosd/McNeileR10,Ella E. Roubtsova
+taosd/Kniesel09,Günter Kniesel
+taosd/AnsaloniBMV12,Alex Villazón
+taosd/AnsaloniBMV12,Danilo Ansaloni
+taosd/AnsaloniBMV12,Philippe Moret
+taosd/AnsaloniBMV12,Walter Binder
+taosd/JagadeesanPR09,Corin Pitcher
+taosd/JagadeesanPR09,James Riely
+taosd/JagadeesanPR09,Radha Jagadeesan
+taosd/SampaioRCR07,Américo Sampaio
+taosd/SampaioRCR07,Awais Rashid
+taosd/SampaioRCR07,Paul Rayson
+taosd/SampaioRCR07,Ruzanna Chitchyan
+taosd/DisenfeldK16,Cynthia Disenfeld
+taosd/DisenfeldK16,Shmuel Katz
+taosd/MostowskiU16,Mattias Ulbrich
+taosd/MostowskiU16,Wojciech Mostowski
+taosd/NiuE07,Nan Niu
+taosd/NiuE07,Steve M. Easterbrook
+taosd/MussbacherAAM10,Ana Moreira 0001
+taosd/MussbacherAAM10,Daniel Amyot
+taosd/MussbacherAAM10,Gunter Mussbacher
+taosd/MussbacherAAM10,João Araújo 0001
+taosd/SanchezFJC07,Andrew Jackson
+taosd/SanchezFJC07,Lidia Fuentes
+taosd/SanchezFJC07,Pablo Sánchez
+taosd/SanchezFJC07,Siobhán Clarke
+taosd/KienzleAFJK10,Franck Fleurey
+taosd/KienzleAFJK10,Jacques Klein
+taosd/KienzleAFJK10,Jean-Marc Jézéquel
+taosd/KienzleAFJK10,Jörg Kienzle
+taosd/KienzleAFJK10,Wisam Al Abed
+taosd/HolzlKZ10,Alexander Knapp
+taosd/HolzlKZ10,Gefei Zhang
+taosd/HolzlKZ10,Matthias M. Hölzl
+taosd/BynensTJ11,Eddy Truyen
+taosd/BynensTJ11,Maarten Bynens
+taosd/BynensTJ11,Wouter Joosen
+taosd/beeckDLJ13,Bert Lagaisse
+taosd/beeckDLJ13,Marko van Dooren
+taosd/beeckDLJ13,Steven Op de beeck
+taosd/beeckDLJ13,Wouter Joosen
+taosd/HohensteinJ11,Michael C. Jaeger
+taosd/HohensteinJ11,Uwe Hohenstein
+taosd/UrbanLS11,Daniel Lohmann
+taosd/UrbanLS11,Matthias Urban
+taosd/UrbanLS11,Olaf Spinczyk
+tcci/CegielkaDLM18,Arkadiusz Maciuk
+tcci/CegielkaDLM18,Janusz Lyko
+tcci/CegielkaDLM18,Katarzyna Cegielka
+tcci/CegielkaDLM18,Piotr Dniestrzanski
+tcci/SchiendorferASR15,Alexander Schiendorfer
+tcci/SchiendorferASR15,Gerrit Anders
+tcci/SchiendorferASR15,Jan-Philipp Steghöfer
+tcci/SchiendorferASR15,Wolfgang Reif
+tcci/Freixas18,Josep Freixas
+tcci/SinghMXSR18,Aniruddh Sharma
+tcci/SinghMXSR18,Arpan Roy
+tcci/SinghMXSR18,Fatos Xhafa
+tcci/SinghMXSR18,Sajal Mukhopadhyay
+tcci/SinghMXSR18,Vikash Kumar Singh
+tcci/MaioFLTTV15,Aurelio Tommasetti
+tcci/MaioFLTTV15,Carmen De Maio
+tcci/MaioFLTTV15,Giuseppe Fenza
+tcci/MaioFLTTV15,Massimiliano Vesci
+tcci/MaioFLTTV15,Orlando Troisi
+tcci/MaioFLTTV15,Vincenzo Loia
+tcci/Barbucha13,Dariusz Barbucha
+tcci/QinO13,B. John Oommen
+tcci/QinO13,Ke Qin
+tcci/AbdulrahmanNHRL13,D. R. W. Holton
+tcci/AbdulrahmanNHRL13,Daniel Neagu
+tcci/AbdulrahmanNHRL13,Mick J. Ridley
+tcci/AbdulrahmanNHRL13,Ruqayya Abdulrahman
+tcci/AbdulrahmanNHRL13,Yang Lan
+tcci/MercikR17,David M. Ramsey
+tcci/MercikR17,Jacek Mercik
+tcci/ChohraBM13,Amine Chohra
+tcci/ChohraBM13,Arash Bahrammirzaee
+tcci/ChohraBM13,Kurosh Madani
+tcci/NishizakiHH13,Ichiro Nishizaki
+tcci/NishizakiHH13,Noriyuki Hara
+tcci/NishizakiHH13,Tomohiro Hayashida
+tcci/PrzybyszewskiS18,Honorata Sosnowska
+tcci/PrzybyszewskiS18,Krzysztof Przybyszewski
+tcci/LorkiewiczKK12,Radoslaw Katarzyniak
+tcci/LorkiewiczKK12,Ryszard Kowalczyk
+tcci/LorkiewiczKK12,Wojciech Lorkiewicz
+tcci/OrlowskiZOKSP16b,Aleksander Orlowski
+tcci/OrlowskiZOKSP16b,Artur Ziólkowski
+tcci/OrlowskiZOKSP16b,Cezary Orlowski
+tcci/OrlowskiZOKSP16b,Pawel Kaplanski
+tcci/OrlowskiZOKSP16b,Tomasz Sitek
+tcci/OrlowskiZOKSP16b,Witold Pokrzywnicki
+tcci/Lloyd-KellyGL15,Fernand Gobet
+tcci/Lloyd-KellyGL15,Martyn Lloyd-Kelly
+tcci/Lloyd-KellyGL15,Peter C. R. Lane
+tcci/TomfordeKMBS18,Bernhard Sick
+tcci/TomfordeKMBS18,Christian Müller-Schloer
+tcci/TomfordeKMBS18,Jan Kantert
+tcci/TomfordeKMBS18,Sebastian Bödelt
+tcci/TomfordeKMBS18,Sven Tomforde
+tcci/ByrskiSS13,Aleksander Byrski
+tcci/ByrskiSS13,Maciej Smolka
+tcci/ByrskiSS13,Robert Schaefer
+tcci/CalzarossaVMNT19,Daniele Tessera
+tcci/CalzarossaVMNT19,Giuseppe Nebbione
+tcci/CalzarossaVMNT19,Luisa Massari
+tcci/CalzarossaVMNT19,Marco L. Della Vedova
+tcci/CalzarossaVMNT19,Maria Carla Calzarossa
+tcci/DinhA14,Le Thi Hoai An
+tcci/DinhA14,Tao Pham Dinh
+tcci/PiskorskiTAGZ11,Erik Van der Goot
+tcci/PiskorskiTAGZ11,Hristo Tanev
+tcci/PiskorskiTAGZ11,Jakub Piskorski
+tcci/PiskorskiTAGZ11,Martin Atkinson
+tcci/PiskorskiTAGZ11,Vanni Zavarella
+tcci/ChaoucheFIS14,Ahmed-Chawki Chaouche
+tcci/ChaoucheFIS14,Amal El Fallah-Seghrouchni
+tcci/ChaoucheFIS14,Djamel-Eddine Saïdouni
+tcci/ChaoucheFIS14,Jean-Michel Ilié
+tcci/Heudin18,Jean-Claude Heudin
+tcci/FortinoRR12,Francesco Rango
+tcci/FortinoRR12,Giancarlo Fortino
+tcci/FortinoRR12,Wilma Russo
+tcci/Nalepa11,Grzegorz J. Nalepa
+tcci/XuNTS15,Jianfeng Xu
+tcci/XuNTS15,Shigeyuki Sakazawa
+tcci/XuNTS15,Shinya Takayama
+tcci/XuNTS15,Yuki Nagai
+tcci/Rybakov11,Vladimir V. Rybakov
+tcci/SimonovaPK15,Ivana Simonova
+tcci/SimonovaPK15,Pavel Kriz
+tcci/SimonovaPK15,Petra Poulova
+tcci/Capkovic11,Frantisek Capkovic
+tcci/SzymanezykDD12,Olivier Szymanezyk
+tcci/SzymanezykDD12,Patrick Dickinson
+tcci/SzymanezykDD12,Tom Duckett
+tcci/MaleszkaN12,Marcin Maleszka
+tcci/MaleszkaN12,Ngoc Thanh Nguyen
+tcci/TianYCM11,Jing Tian
+tcci/TianYCM11,Li Chen 0011
+tcci/TianYCM11,Lihong Ma
+tcci/TianYCM11,Weiyu Yu
+tcci/KivWK12,Manuel Kolp
+tcci/KivWK12,Sodany Kiv
+tcci/KivWK12,Yves Wautelet
+tcci/Cybulka10,Jolanta Cybulka
+tcci/BehzadAHGK19,Mahmood Ashraf Khan
+tcci/BehzadAHGK19,Manal Abdullah
+tcci/BehzadAHGK19,Muhammad Talal Hassan
+tcci/BehzadAHGK19,Muzammil Behzad
+tcci/BehzadAHGK19,Yao Ge
+tcci/KacprzakKTBGLR11,Katarzyna Budzynska
+tcci/KacprzakKTBGLR11,Magdalena Kacprzak
+tcci/KacprzakKTBGLR11,Marek Lechniak
+tcci/KacprzakKTBGLR11,Pawel Garbacz
+tcci/KacprzakKTBGLR11,Pawel Rembelski
+tcci/KacprzakKTBGLR11,Piotr Kulicki
+tcci/KacprzakKTBGLR11,Robert Trypuz
+tcci/PastuszakO13,Cezary Orlowski
+tcci/PastuszakO13,Jaroslaw Pastuszak
+tcci/RamseyKB18,Anna Kowalska-Pyzalska
+tcci/RamseyKB18,David M. Ramsey
+tcci/RamseyKB18,Karolina Bienias
+tcci/CarfiDG17,Alessia Donato
+tcci/CarfiDG17,David Carfì
+tcci/CarfiDG17,Gianfranco Gambarelli
+tcci/HuangC11,Bao Rong Chang
+tcci/HuangC11,Chien-Feng Huang
+tcci/TabakovFAQ18,Krzysztof Fonal
+tcci/TabakovFAQ18,Martin Tabakov
+tcci/TabakovFAQ18,Raed A. Abd-Alhameed
+tcci/TabakovFAQ18,Rami Qahwaji
+tcci/VinhA16,Duong Tuan Anh
+tcci/VinhA16,Vo Thanh Vinh
+tcci/JonkerSTWW10,Catholijn M. Jonker
+tcci/JonkerSTWW10,Hans V. Westerhoff
+tcci/JonkerSTWW10,Jacky L. Snoep
+tcci/JonkerSTWW10,Jan Treur
+tcci/JonkerSTWW10,Wouter C. A. Wijngaards
+tcci/BennajehBSA18,Anouer Bennajeh
+tcci/BennajehBSA18,Lamjed Ben Said
+tcci/BennajehBSA18,Samir Aknine
+tcci/BennajehBSA18,Slim Bechikh
+tcci/VesyropoulosGP18,Christos K. Georgiadis
+tcci/VesyropoulosGP18,Elias Pimenidis
+tcci/VesyropoulosGP18,Nikolaos Vesyropoulos
+tcci/AdanhounmeDA12,Sèmiyou A. Adédjouma
+tcci/AdanhounmeDA12,Théophile K. Dagba
+tcci/AdanhounmeDA12,Villevo Adanhounmè
+tcci/OrlowskiZOKSP16,Aleksander Orlowski
+tcci/OrlowskiZOKSP16,Artur Ziólkowski
+tcci/OrlowskiZOKSP16,Cezary Orlowski
+tcci/OrlowskiZOKSP16,Pawel Kaplanski
+tcci/OrlowskiZOKSP16,Tomasz Sitek
+tcci/OrlowskiZOKSP16,Witold Pokrzywnicki
+tcci/JascanuJB12,Nicolae Jascanu
+tcci/JascanuJB12,Severin Bumbaru
+tcci/JascanuJB12,Veronica Jascanu
+tcci/IvanovicIVB18,Costin Badica
+tcci/IvanovicIVB18,Jovana Ivkovic
+tcci/IvanovicIVB18,Milan Vidakovic
+tcci/IvanovicIVB18,Mirjana Ivanovic
+tcci/JaffaliAJH15,Abdelmajid Ben Hamadou
+tcci/JaffaliAJH15,Hanen Ameur
+tcci/JaffaliAJH15,Salma Jamoussi
+tcci/JaffaliAJH15,Soufiene Jaffali
+tcci/Mazalov18,Vladimir V. Mazalov
+tcci/Malawski17,Marcin Malawski
+tcci/ZargayounaZ12,Besma Zeddini
+tcci/ZargayounaZ12,Mahdi Zargayouna
+tcci/EmaniSFG16,Bruno Fiés
+tcci/EmaniSFG16,Catarina Ferreira Da Silva
+tcci/EmaniSFG16,Cheikh Kacfah Emani
+tcci/EmaniSFG16,Parisa Ghodous
+tcci/CuiHLX15,Baojiang Cui
+tcci/CuiHLX15,Baolian Long
+tcci/CuiHLX15,Lingling Xu
+tcci/CuiHLX15,Tingting Hou
+tcci/LabidiCB18,Noura Labidi
+tcci/LabidiCB18,Rafik Bouaziz
+tcci/LabidiCB18,Tarak Chaari
+tcci/ZhouDC17,Alexandra I. Cristea
+tcci/ZhouDC17,Elena Demidova
+tcci/ZhouDC17,Yiwei Zhou
+tcci/PalettaH10,Maurício Paletta
+tcci/PalettaH10,Pilar Herrero
+tcci/KohanaSKO19,Akio Kobayashi
+tcci/KohanaSKO19,Hiroki Sakaji
+tcci/KohanaSKO19,Masaki Kohana
+tcci/KohanaSKO19,Shusuke Okamoto
+tcci/FridHKMMS16,Alex Frid
+tcci/FridHKMMS16,Ester Koilis
+tcci/FridHKMMS16,Gal Star
+tcci/FridHKMMS16,Hananel Hazan
+tcci/FridHKMMS16,Larry M. Manevitz
+tcci/FridHKMMS16,Maayan Merhav
+tcci/OrlowskiZOKSP16d,Aleksander Orlowski
+tcci/OrlowskiZOKSP16d,Artur Ziólkowski
+tcci/OrlowskiZOKSP16d,Cezary Orlowski
+tcci/OrlowskiZOKSP16d,Pawel Kaplanski
+tcci/OrlowskiZOKSP16d,Tomasz Sitek
+tcci/OrlowskiZOKSP16d,Witold Pokrzywnicki
+tcci/RossiCB18,Francesco Barile
+tcci/RossiCB18,Francesco Cervone
+tcci/RossiCB18,Silvia Rossi
+tcci/Otamendi13,F. Javier Otamendi
+tcci/MontazeryW18,Mojtaba Montazery
+tcci/MontazeryW18,Nic Wilson
+tcci/ZacharaMP13,Cezary Piskor-Ignatowicz
+tcci/ZacharaMP13,Ewa Majchrzyk-Zachara
+tcci/ZacharaMP13,Marek Zachara
+tcci/HofstedeJV10,Catholijn M. Jonker
+tcci/HofstedeJV10,Gert Jan Hofstede
+tcci/HofstedeJV10,Tim Verwaart
+tcci/GavalecN18,Martin Gavalec
+tcci/GavalecN18,Zuzana Nemcová
+tcci/WauteletKK11,Manuel Kolp
+tcci/WauteletKK11,Sodany Kiv
+tcci/WauteletKK11,Yves Wautelet
+tcci/KonradyST16,Barbora Tesarová
+tcci/KonradyST16,Kamila Stekerová
+tcci/KonradyST16,Tomás Konrády
+tcci/NguyenS12,Andrzej Szalas
+tcci/NguyenS12,Linh Anh Nguyen
+tcci/DabbechiNBH18,Ahlem Nabli
+tcci/DabbechiNBH18,Hichem Dabbèchi
+tcci/DabbechiNBH18,Kais Haddar
+tcci/DabbechiNBH18,Lotfi Bouzguenda
+tcci/TanLZF15,Peipei Li
+tcci/TanLZF15,Xiaoqian Zhang
+tcci/TanLZF15,Xiaoqing Tan
+tcci/TanLZF15,Zhihong Feng
+tcci/Capkovic13,Frantisek Capkovic
+tcci/ChohraM18,Amine Chohra
+tcci/ChohraM18,Kurosh Madani
+tcci/ResconiH12,Chris J. Hinde
+tcci/ResconiH12,Germano Resconi
+tcci/DawoudSR19,Ahmed Dawoud
+tcci/DawoudSR19,Chun Raun
+tcci/DawoudSR19,Seyed Shahristani
+tcci/WelshBSW14,Jon Whittle
+tcci/WelshBSW14,Kristopher Welsh
+tcci/WelshBSW14,Nelly Bencomo
+tcci/WelshBSW14,Pete Sawyer
+tcci/HorvatGB10,Gordan Gledec
+tcci/HorvatGB10,Marko Horvat
+tcci/HorvatGB10,Nikola Bogunovic
+tcci/HoangNH14,Hanh Huu Hoang
+tcci/HoangNH14,Trung Van Nguyen
+tcci/HoangNH14,Vu Minh Hoang
+tcci/IvanovicB15,Mirjana Ivanovic
+tcci/IvanovicB15,Zoran Budimac
+tcci/Hayashi18,Hisashi Hayashi
+tcci/DuolikunE019,Dilawaer Duolikun
+tcci/DuolikunE019,Makoto Takizawa 0001
+tcci/DuolikunE019,Tomoya Enokido
+tcci/CaoNS14,Andrzej Szalas
+tcci/CaoNS14,Linh Anh Nguyen
+tcci/CaoNS14,Son Thanh Cao
+tcci/LihuHL13,Andrei Lihu
+tcci/LihuHL13,Oana-Andreea Lihu
+tcci/LihuHL13,Stefan Holban
+tcci/BoryczkaJ13,Przemyslaw Juszczuk
+tcci/BoryczkaJ13,Urszula Boryczka
+tcci/IfrimKWPMC17,Claudia Ifrim
+tcci/IfrimKWPMC17,Florin Pop
+tcci/IfrimKWPMC17,Manolis Wallace
+tcci/IfrimKWPMC17,Mariana Mocanu
+tcci/IfrimKWPMC17,Valentin Cristea
+tcci/IfrimKWPMC17,Xenia Koulouri
+tcci/JbeliSA18,Naima Jbeli
+tcci/JbeliSA18,Rahma Ben Ayed
+tcci/JbeliSA18,Zohra Sbaï
+tcci/Cardoso15,Henrique Lopes Cardoso
+tcci/Godlewska12,Magdalena Godlewska
+tcci/FreixasP17,Josep Freixas
+tcci/FreixasP17,Montserrat Pons
+tcci/Chiu13,Tzu-Fu Chiu
+tcci/GladyszP17,Andrzej Pawlicki
+tcci/GladyszP17,Barbara Gladysz
+tcci/NguyenS10,Andrzej Szalas
+tcci/NguyenS10,Linh Anh Nguyen
+tcci/FujitaMFN18,Ken-ichi Fukui
+tcci/FujitaMFN18,Koichi Moriyama
+tcci/FujitaMFN18,Masayuki Numao
+tcci/FujitaMFN18,Wataru Fujita
+tcci/ChohraMK10,Amine Chohra
+tcci/ChohraMK10,Dalel Kanzari
+tcci/ChohraMK10,Kurosh Madani
+tcci/KrauseHD15,André Frank Krause
+tcci/KrauseHD15,Nalin Harischandra
+tcci/KrauseHD15,Volker Dürr
+tcci/PiGCL13,David Griol
+tcci/PiGCL13,Javier Carbó
+tcci/PiGCL13,José M. Molina López
+tcci/PiGCL13,Nayat Sánchez Pi
+tcci/ThabetHG13,Chihab Hanachi
+tcci/ThabetHG13,Inès Thabet
+tcci/ThabetHG13,Khaled Ghédira
+tcci/KacprzykNZ17,Hannu Nurmi
+tcci/KacprzykNZ17,Janusz Kacprzyk
+tcci/KacprzykNZ17,Slawomir Zadrozny
+tcci/KotulskiS12,Adam Sedziwy
+tcci/KotulskiS12,Leszek Kotulski
+tcci/BelhajjameGHY17,Daniela Grigori
+tcci/BelhajjameGHY17,Khalid Belhajjame
+tcci/BelhajjameGHY17,Manel Ben Yahia
+tcci/BelhajjameGHY17,Mariem Harmassi
+tcci/BosseT11,Jan Treur
+tcci/BosseT11,Tibor Bosse
+tcci/JaffryT13,Jan Treur
+tcci/JaffryT13,S. Waqar Jaffry
+tcci/KubalikAZB16,Eduard Alibekov
+tcci/KubalikAZB16,Jan Zegklitz
+tcci/KubalikAZB16,Jirí Kubalík
+tcci/KubalikAZB16,Robert Babuska
+tcci/UrbanoRO11,Ana Paula Rocha 0001
+tcci/UrbanoRO11,Eugénio C. Oliveira
+tcci/UrbanoRO11,Joana Urbano
+tcci/Bedkowski13,Janusz Bedkowski
+tcci/DuPN18,Hai-Dang Pham
+tcci/DuPN18,Ngoc-Hoa Nguyen
+tcci/DuPN18,Phuong-Hanh Du
+tcci/KobayashiM16,Ryosuke Matsui
+tcci/KobayashiM16,Yuichi Kobayashi
+tcci/Czarnowski11,Ireneusz Czarnowski
+tcci/Husakova18,Martina Husáková
+tcci/OrlowskiZOKSP16c,Aleksander Orlowski
+tcci/OrlowskiZOKSP16c,Artur Ziólkowski
+tcci/OrlowskiZOKSP16c,Cezary Orlowski
+tcci/OrlowskiZOKSP16c,Pawel Kaplanski
+tcci/OrlowskiZOKSP16c,Tomasz Sitek
+tcci/OrlowskiZOKSP16c,Witold Pokrzywnicki
+tcci/KaczorKN13,Grzegorz J. Nalepa
+tcci/KaczorKN13,Krzysztof Kaczor
+tcci/KaczorKN13,Krzysztof Kluza
+tcci/Kluska-NawareckaWR13,Dorota Wilk-Kolodziejczyk
+tcci/Kluska-NawareckaWR13,Krzysztof Regulski
+tcci/Kluska-NawareckaWR13,Stanislawa Kluska-Nawarecka
+tcci/FulopKS10,Jándor Fülöp
+tcci/FulopKS10,S. J. Szarek
+tcci/FulopKS10,Waldemar W. Koczkodaj
+tcci/TerzoMRCGNC13,Giuseppe Caragnano
+tcci/TerzoMRCGNC13,Klodiana Goga
+tcci/TerzoMRCGNC13,Lorenzo Mossucca
+tcci/TerzoMRCGNC13,Manuela Cucca
+tcci/TerzoMRCGNC13,Olivier Terzo
+tcci/TerzoMRCGNC13,Pietro Ruiu
+tcci/TerzoMRCGNC13,Riccardo Notarpietro
+tcci/Choros11,Kazimierz Choros
+tcci/FosznerGPMJP14,Aleksandra Gruca
+tcci/FosznerGPMJP14,Andrzej Polanski
+tcci/FosznerGPMJP14,Joanna Polanska
+tcci/FosznerGPMJP14,Michal Marczyk
+tcci/FosznerGPMJP14,Pawel Foszner
+tcci/FosznerGPMJP14,Roman Jaksik
+tcci/LeNPPN19,Duy-Phuc Pham
+tcci/LeNPPN19,Huu-Tung Nguyen
+tcci/LeNPPN19,Ngoc-Hoa Nguyen
+tcci/LeNPPN19,Van-Giap Le
+tcci/LeNPPN19,Van-On Phung
+tcci/Sosnowska17,Honorata Sosnowska
+tcci/Zakrzewska12,Danuta Zakrzewska
+tcci/BonidalTG14,Rémi Bonidal
+tcci/BonidalTG14,Samy Tindel
+tcci/BonidalTG14,Yann Guermeur
+tcci/NakamuraE019,Makoto Takizawa 0001
+tcci/NakamuraE019,Shigenari Nakamura
+tcci/NakamuraE019,Tomoya Enokido
+tcci/BergamaschiFGS16,Francesco Guerra 0001
+tcci/BergamaschiFGS16,Gianmaria Silvello
+tcci/BergamaschiFGS16,Nicola Ferro 0001
+tcci/BergamaschiFGS16,Sonia Bergamaschi
+tcci/Recio-GarciaDGS10,Belén Díaz-Agudo
+tcci/Recio-GarciaDGS10,Juan A. Recio-García
+tcci/Recio-GarciaDGS10,Lara Quijano Sánchez
+tcci/Recio-GarciaDGS10,Sergio González-Sanz
+tcci/HarelKMW14,Assaf Marron
+tcci/HarelKMW14,David Harel
+tcci/HarelKMW14,Gera Weiss
+tcci/HarelKMW14,Guy Katz
+tcci/Motylska-Kuzma18,Anna Motylska-Kuzma
+tcci/KolodziejK13,Joanna Kolodziej
+tcci/KolodziejK13,Samee Ullah Khan
+tcci/Bolon-CanedoRSA15,Amparo Alonso-Betanzos
+tcci/Bolon-CanedoRSA15,Beatriz Remeseiro
+tcci/Bolon-CanedoRSA15,Noelia Sánchez-Maroño
+tcci/Bolon-CanedoRSA15,Verónica Bolón-Canedo
+tcci/Was12,Jaroslaw Was
+tcci/Takahashi12,Hiroshi Takahashi
+tcci/StangeKN17,Andreas Nürnberger
+tcci/StangeKN17,Dominic Stange
+tcci/StangeKN17,Michael Kotzyba
+tcci/Kubik11,Tomasz Kubik
+tcci/FernandesLMCR16,Agostinho C. Rosa
+tcci/FernandesLMCR16,Carlos Cotta
+tcci/FernandesLMCR16,Carlos M. Fernandes
+tcci/FernandesLMCR16,Juan Julián Merelo Guervós
+tcci/FernandesLMCR16,Juan Luis Jiménez Laredo
+tcci/Niewiadomska-Szynkiewicz13,Ewa Niewiadomska-Szynkiewicz
+tcci/ZagarO13,Drago Zagar
+tcci/ZagarO13,Hrvoje Ocevcic
+tcci/DoT15,Hoai An Le Thi
+tcci/DoT15,Thanh Nghi Do
+tcci/LiaoWLZQ15,Bin Wang
+tcci/LiaoWLZQ15,Jingling Zhao
+tcci/LiaoWLZQ15,Qing Liao 0003
+tcci/LiaoWLZQ15,Xinyue Qiu
+tcci/LiaoWLZQ15,Yanxiang Ling
+tcci/MissaouiF15,Rim Faiz
+tcci/MissaouiF15,Sondess Missaoui
+tcci/CottaLVOMCCR16,Antonio José Fernández Leiva
+tcci/CottaLVOMCCR16,Carlos Cotta
+tcci/CottaLVOMCCR16,David Camacho
+tcci/CottaLVOMCCR16,Francisco Chávez de la O
+tcci/CottaLVOMCCR16,Francisco Fernández de Vega
+tcci/CottaLVOMCCR16,Juan Julián Merelo Guervós
+tcci/CottaLVOMCCR16,María D. R.-Moreno
+tcci/CottaLVOMCCR16,Pedro A. Castillo
+tcci/Alor-HernandezAJPRMBG10,Alberto A. Aguilar-Lasserre
+tcci/Alor-HernandezAJPRMBG10,Alejandro Rodríguez González
+tcci/Alor-HernandezAJPRMBG10,Giner Alor-Hernández
+tcci/Alor-HernandezAJPRMBG10,Guillermo Cortes Robles
+tcci/Alor-HernandezAJPRMBG10,Juan Miguel Gómez-Berbís
+tcci/Alor-HernandezAJPRMBG10,Mario Alberto Garcia Martinez
+tcci/Alor-HernandezAJPRMBG10,Rubén Posada-Gómez
+tcci/Alor-HernandezAJPRMBG10,Ulises Juárez-Martínez
+tcci/AouichaTM18,Hania Ibn Marai
+tcci/AouichaTM18,Mohamed Ali Hadj Taieb
+tcci/AouichaTM18,Mohamed Ben Aouicha
+tcci/ThorissonSW10,James M. Wissner
+tcci/ThorissonSW10,Kristinn R. Thórisson
+tcci/ThorissonSW10,Nova Spivack
+tcci/WangMMZ15,Jianfeng Ma
+tcci/WangMMZ15,Kai Zhang
+tcci/WangMMZ15,Xu An Wang
+tcci/WangMMZ15,Yinbin Miao
+tcci/SaramagoARC19,Eduardo Alchieri
+tcci/SaramagoARC19,Lásaro J. Camargos
+tcci/SaramagoARC19,Rodrigo Q. Saramago
+tcci/SaramagoARC19,Tuanir Franca Rezende
+tcci/MughazHG17,Dov M. Gabbay
+tcci/MughazHG17,Dror Mughaz
+tcci/MughazHG17,Yaakov HaCohen-Kerner
+tcci/PonomarevaC14,Anisoara Calinescu
+tcci/PonomarevaC14,Natalia Ponomareva
+tcci/KhelifaBA18,Dalila Boughaci
+tcci/KhelifaBA18,Esma Aïmeur
+tcci/KhelifaBA18,Meriem Khelifa
+tcci/GladyszMR18,Barbara Gladysz
+tcci/GladyszMR18,David M. Ramsey
+tcci/GladyszMR18,Jacek Mercik
+tcci/OommenKS16,Aron Schmidt
+tcci/OommenKS16,B. John Oommen
+tcci/OommenKS16,Richard Khoury
+tcci/BriataF17,Federica Briata
+tcci/BriataF17,Vito Fragnelli
+tcci/SzubaPSW11,Pawel Polanski
+tcci/SzubaPSW11,Pawel Schab
+tcci/SzubaPSW11,Pawel Wielicki
+tcci/SzubaPSW11,Tadeusz Szuba
+tcci/PietakK13,Kamil Pietak
+tcci/PietakK13,Marek Kisiel-Dorohinicki
+tcci/MianowskaN11,Bernadetta Mianowska
+tcci/MianowskaN11,Ngoc Thanh Nguyen
+tcci/BuratoC12,Elisa Burato
+tcci/BuratoC12,Matteo Cristani
+tcci/YahyaaDM15,Bernard Manderick
+tcci/YahyaaDM15,Madalina M. Drugan
+tcci/YahyaaDM15,Saba Q. Yahyaa
+tcci/RawatJSR18,Alok Jain
+tcci/RawatJSR18,Sammer Raghuvanshi
+tcci/RawatJSR18,Vibhakar Shrimali
+tcci/RawatJSR18,Vidhi Rawat
+tcci/KapustaMD15,Jozef Kapusta
+tcci/KapustaMD15,Martin Drlík
+tcci/KapustaMD15,Michal Munk
+tcci/StarzecSBKBL19,Aleksander Byrski
+tcci/StarzecSBKBL19,Grazyna Starzec
+tcci/StarzecSBKBL19,Juan C. Burguillo
+tcci/StarzecSBKBL19,Marek Kisiel-Dorohinicki
+tcci/StarzecSBKBL19,Mateusz Starzec
+tcci/StarzecSBKBL19,Tom Lenaerts
+tcci/Andrzej11,Andrzej Sieminski
+tcci/SaitoM10,Tokuro Matsuo
+tcci/SaitoM10,Yoshihito Saito
+tcci/CochezTE17,Michael Cochez
+tcci/CochezTE17,Vadim Ermolayev
+tcci/CochezTE17,Vagan Y. Terziyan
+tcci/Kamide12,Norihiro Kamide
+tcci/Putz-LeszczynskaP13,Andrzej Pacut
+tcci/Putz-LeszczynskaP13,Joanna Putz-Leszczynska
+tcci/MereloLFGCCRMGTCC16,Alberto Paolo Tonda
+tcci/MereloLFGCCRMGTCC16,Antonio Fernández-Ares
+tcci/MereloLFGCCRMGTCC16,Antonio Mora García
+tcci/MereloLFGCCRMGTCC16,Carlos Cotta
+tcci/MereloLFGCCRMGTCC16,Federico Liberatore
+tcci/MereloLFGCCRMGTCC16,Juan Julián Merelo Guervós
+tcci/MereloLFGCCRMGTCC16,Nuria Rico
+tcci/MereloLFGCCRMGTCC16,Pablo García-Sánchez
+tcci/MereloLFGCCRMGTCC16,Paloma de las Cuevas
+tcci/MereloLFGCCRMGTCC16,Pedro A. Castillo
+tcci/MereloLFGCCRMGTCC16,Rubén Héctor García-Ortega
+tcci/MereloLFGCCRMGTCC16,Zeineb Chelly
+tcci/MarinheiroC18,Henrique Lopes Cardoso
+tcci/MarinheiroC18,João Marinheiro
+tcci/LiuFYLX15,Chuan Fu
+tcci/LiuFYLX15,Jun Yang
+tcci/LiuFYLX15,Lingling Xu
+tcci/LiuFYLX15,Zheli Liu
+tcci/LiuFYLX15,Zhusong Liu
+tcci/TagarevTA17,Andrey Tagarev
+tcci/TagarevTA17,Laura Tolosi
+tcci/TagarevTA17,Vladimir Alexiev
+tcci/BellingerO12,B. John Oommen
+tcci/BellingerO12,Colin Bellinger
+tcci/ZiembaJW18,Jaroslaw Jankowski
+tcci/ZiembaJW18,Jaroslaw Watróbski
+tcci/ZiembaJW18,Pawel Ziemba
+tcci/ZhaoCTWYXZ15,Feng Zhang 0012
+tcci/ZhaoCTWYXZ15,Gansen Zhao
+tcci/ZhaoCTWYXZ15,Haoxiang Tan
+tcci/ZhaoCTWYXZ15,Jing Xiao 0005
+tcci/ZhaoCTWYXZ15,Kaijun Chen
+tcci/ZhaoCTWYXZ15,Meiying You
+tcci/ZhaoCTWYXZ15,Xinming Wang
+tcci/DavisV16,Adriano Veloso
+tcci/DavisV16,Alexandre Davis
+tcci/ByrskiKT17,Aleksander Byrski
+tcci/ByrskiKT17,Marek Kisiel-Dorohinicki
+tcci/ByrskiKT17,Norbert Tusinski
+tcci/Ihrig13,Martin Ihrig
+tcci/SitekW18,Jaroslaw Wikarek
+tcci/SitekW18,Pawel Sitek
+tcci/BitontoLRR12,Maria Laterza
+tcci/BitontoLRR12,Pierpaolo Di Bitonto
+tcci/BitontoLRR12,Teresa Roselli
+tcci/BitontoLRR12,Veronica Rossano
+tcci/LongoDB10,Luca Longo
+tcci/LongoDB10,Pierpaolo Dondio
+tcci/LongoDB10,Stephen Barrett
+tcci/MartinBRM19,Andrew O. Martin
+tcci/MartinBRM19,Darren R. Myatt
+tcci/MartinBRM19,Elva J. H. Robinson
+tcci/MartinBRM19,J. Mark Bishop
+tcci/Aydin10,Dogan Aydin
+tcci/Keinanen10,Helena Keinänen
+tcci/SartoriVG16,Enrico Sartori
+tcci/SartoriVG16,Francesco Guerra 0001
+tcci/SartoriVG16,Yannis Velegrakis
+tcci/KostrzewaMP16,Dariusz Plewczynski
+tcci/KostrzewaMP16,Giovanni Mazzocco
+tcci/KostrzewaMP16,Jan Kostrzewa
+tcci/TozickaJK18,Antonín Komenda
+tcci/TozickaJK18,Jan Jakubuv
+tcci/TozickaJK18,Jan Tozicka
+tcci/IchikawaU13,Minoru Uehara
+tcci/IchikawaU13,Yuuta Ichikawa
+tcci/NagataTK13,Munehiro Takimoto
+tcci/NagataTK13,Takashi Nagata
+tcci/NagataTK13,Yasushi Kambayashi
+tcci/OommenH12,B. John Oommen
+tcci/OommenH12,M. Khaled Hashem
+tcci/Treur19,Jan Treur
+tcci/BertiniBGGPS18,Cesarino Bertini
+tcci/BertiniBGGPS18,Cristina Bonzi
+tcci/BertiniBGGPS18,Gianfranco Gambarelli
+tcci/BertiniBGGPS18,Ignazio Panades
+tcci/BertiniBGGPS18,Izabella Stach
+tcci/BertiniBGGPS18,Nicola Gnocchi
+tcci/RedavidFE13,Domenico Redavid
+tcci/RedavidFE13,Floriana Esposito
+tcci/RedavidFE13,Stefano Ferilli
+tcci/FerreiraCR15,André Ferreira
+tcci/FerreiraCR15,Henrique Lopes Cardoso
+tcci/FerreiraCR15,Luís Paulo Reis
+tcci/GhiormezPPP18,Caius Panoiu
+tcci/GhiormezPPP18,Loredana Ghiormez
+tcci/GhiormezPPP18,Manuela Panoiu
+tcci/GhiormezPPP18,Octavian Prostean
+tcci/FrasheriCE18,Baran Çürüklü
+tcci/FrasheriCE18,Mikael Ekström
+tcci/FrasheriCE18,Mirgita Frasheri
+tcci/Nurmi18,Hannu Nurmi
+tcci/JedrzejowiczJ11,Joanna Jedrzejowicz
+tcci/JedrzejowiczJ11,Piotr Jedrzejowicz
+tcci/Treur12,Jan Treur
+tcci/Brodowski14,Stanislaw Brodowski
+tcci/KaminskiL12,Bogumil Kaminski
+tcci/KaminskiL12,Maciej Latek
+tcci/StankovicKOK17,Cvetana Krstev
+tcci/StankovicKOK17,Ivan Obradovic
+tcci/StankovicKOK17,Olivera Kitanovic
+tcci/StankovicKOK17,Ranka Stankovic
+tcci/JankowskaS13,Beata Jankowska
+tcci/JankowskaS13,Magdalena Szymkowiak
+tcci/Sus17,Aleksandra Sus
+tcci/MicheliF18,Chiara De Micheli
+tcci/MicheliF18,Vito Fragnelli
+tcci/Dunin-KepliczS13,Andrzej Szalas
+tcci/Dunin-KepliczS13,Barbara Dunin-Keplicz
+tcci/LathamCME12,Annabel Latham
+tcci/LathamCME12,Bruce Edmonds
+tcci/LathamCME12,David McLean
+tcci/LathamCME12,Keeley A. Crockett
+tcci/JakielaLO12,Jacek Jakiela
+tcci/JakielaLO12,Marcin Olech
+tcci/JakielaLO12,Pawel Litwin
+tcci/DeniseR14,Alain Denise
+tcci/DeniseR14,Philippe Rinaudo
+tcci/MercikS18,Izabella Stach
+tcci/MercikS18,Jacek Mercik
+tcci/MinhT14,Le Hoai Minh
+tcci/MinhT14,Minh Thuy Ta
+tcci/WalFRMB17,C. Natalie van der Wal
+tcci/WalFRMB17,Daniel Formolo
+tcci/WalFRMB17,Mark A. Robinson
+tcci/WalFRMB17,Michael Minkov
+tcci/WalFRMB17,Tibor Bosse
+tcci/HorakPS12,Ales Horák
+tcci/HorakPS12,Miroslav Prýmek
+tcci/HorakPS12,Tadeusz Sikora
+tcci/NalepaF10,Grzegorz J. Nalepa
+tcci/NalepaF10,Weronika T. Furmanska
+tcci/MariesS11,Emil Scarlat
+tcci/MariesS11,Iulia Maries
+tcci/Piech12,Henryk Piech
+tcci/Cadegnani0IRLVA17,Francesco Guerra 0001
+tcci/Cadegnani0IRLVA17,María del Carmen Rodríguez-Hernández
+tcci/Cadegnani0IRLVA17,Raquel Amaro
+tcci/Cadegnani0IRLVA17,Raquel Trillo Lado
+tcci/Cadegnani0IRLVA17,Sara Cadegnani
+tcci/Cadegnani0IRLVA17,Sergio Ilarri
+tcci/Cadegnani0IRLVA17,Yannis Velegrakis
+tcci/SmithSW14,Graeme Smith
+tcci/SmithSW14,Jeff W. Sanders
+tcci/SmithSW14,Kirsten Winter
+tcci/NouriDG18,Houssem Eddine Nouri
+tcci/NouriDG18,Khaled Ghédira
+tcci/NouriDG18,Olfa Belkahla Driss
+tcci/VrdoljakBPJK10,Gordan Jezic
+tcci/VrdoljakBPJK10,Iva Bojic
+tcci/VrdoljakBPJK10,Luka Vrdoljak
+tcci/VrdoljakBPJK10,Mario Kusek
+tcci/VrdoljakBPJK10,Vedran Podobnik
+tcci/DaneshNADMS11,Behrouz Minaei
+tcci/DaneshNADMS11,Hossein Shirgahi
+tcci/DaneshNADMS11,Mahmoud Naghibzadeh
+tcci/DaneshNADMS11,Malihe Danesh
+tcci/DaneshNADMS11,Mohaddeseh Danesh
+tcci/DaneshNADMS11,Mohammad R. Akbarzadeh-Totonchi
+tcci/OSheaBC12,James O'Shea
+tcci/OSheaBC12,Keeley A. Crockett
+tcci/OSheaBC12,Zuhair Bandar
+tcci/LiuZLDSBM14,Jin Song Dong
+tcci/LiuZLDSBM14,Jit Biswas
+tcci/LiuZLDSBM14,Jun Sun 0001
+tcci/LiuZLDSBM14,Mounir Mokhtari
+tcci/LiuZLDSBM14,Xian Zhang
+tcci/LiuZLDSBM14,Yan Liu 0012
+tcci/LiuZLDSBM14,Yang Liu 0003
+tcci/IoannouV16,Ekaterini Ioannou
+tcci/IoannouV16,Yannis Velegrakis
+tcci/BhattacharyaC19,Adrija Bhattacharya
+tcci/BhattacharyaC19,Sankhayan Choudhury
+tcci/Machova13,Kristína Machova
+tcci/OrlowskiZOKSP16e,Aleksander Orlowski
+tcci/OrlowskiZOKSP16e,Artur Ziólkowski
+tcci/OrlowskiZOKSP16e,Cezary Orlowski
+tcci/OrlowskiZOKSP16e,Pawel Kaplanski
+tcci/OrlowskiZOKSP16e,Tomasz Sitek
+tcci/OrlowskiZOKSP16e,Witold Pokrzywnicki
+tcci/OrlowskiSKK18,Arkadiusz Sarzynski
+tcci/OrlowskiSKK18,Cezary Orlowski
+tcci/OrlowskiSKK18,Kostas D. Karatzas
+tcci/OrlowskiSKK18,Nikos Katsifarakis
+tcci/ChilipireaPDPX15,Andreea-Cristina Petre
+tcci/ChilipireaPDPX15,Ciprian Dobre
+tcci/ChilipireaPDPX15,Cristian Chilipirea
+tcci/ChilipireaPDPX15,Fatos Xhafa
+tcci/ChilipireaPDPX15,Florin Pop
+tcci/SaltoA15,Carolina Salto
+tcci/SaltoA15,Enrique Alba
+tcci/PhamCT14,Duc Truong Pham
+tcci/PhamCT14,Le Thi Hoai An
+tcci/PhamCT14,Marco Castellani
+tcci/GathHV15,Max Gath
+tcci/GathHV15,Maximilian Vaske
+tcci/GathHV15,Otthein Herzog
+tcci/MemonT12,Jan Treur
+tcci/MemonT12,Zulfiqar Ali Memon
+tcci/Begier11,Barbara Begier
+tcci/Meyer-NiebergK18,Erik Kropat
+tcci/Meyer-NiebergK18,Silja Meyer-Nieberg
+tcci/Hernes15,Marcin Hernes
+tcci/ChiangAM16,Fei Chiang
+tcci/ChiangAM16,Periklis Andritsos
+tcci/ChiangAM16,Renée J. Miller
+tcci/Stach17,Izabella Stach
+tcci/JutteW18,Berend Jutte
+tcci/JutteW18,C. Natalie van der Wal
+tcci/LeeC11,Ming-Chang Lee
+tcci/LeeC11,To Chang
+tcci/ZagarRR10,Drago Zagar
+tcci/ZagarRR10,Slavko Rupcic
+tcci/ZagarRR10,Snjezana Rimac-Drlje
+tcci/GrappioloMY14,Corrado Grappiolo
+tcci/GrappioloMY14,Georgios N. Yannakakis
+tcci/GrappioloMY14,Héctor Perez Martínez
+tcci/AnT10,Le Thi Hoai An
+tcci/AnT10,Nguyen Quang Thuan
+tcci/SuchackaB13,Grazyna Suchacka
+tcci/SuchackaB13,Leszek Borzemski
+tcci/BoryczkaKS13,Jan Kozak
+tcci/BoryczkaKS13,Rafal Skinderowicz
+tcci/BoryczkaKS13,Urszula Boryczka
+tcci/HorvatVC16,Marin Vukovic
+tcci/HorvatVC16,Marko Horvat
+tcci/HorvatVC16,Zeljka Car
+tcci/HolblingPK11,Günther Hölbling
+tcci/HolblingPK11,Harald Kosch
+tcci/HolblingPK11,Wolfgang Pfnür
+tcci/KoszelewO13,Jolanta Koszelew
+tcci/KoszelewO13,Krzysztof Ostrowski
+tcci/BakCJ13,Czeslaw Jedrzejek
+tcci/BakCJ13,Jaroslaw Bak
+tcci/BakCJ13,Jolanta Cybulka
+tcci/SixtoAL18,Aitor Almeida
+tcci/SixtoAL18,Diego López-de-Ipiña
+tcci/SixtoAL18,Juan Sixto
+tcci/DzienkowskiM12,Bartlomiej Józef Dzienkowski
+tcci/DzienkowskiM12,Urszula Markowska-Kaczmar
+tcci/IliadisADS18,Konstantinos Demertzis
+tcci/IliadisADS18,Lazaros S. Iliadis
+tcci/IliadisADS18,Stefanos Spartalis
+tcci/IliadisADS18,Vardis-Dimitris Anezakis
+tcci/Le15,Nguyen-Thinh Le
+tcci/Neri12,Filippo Neri
+tcci/GarbaGR13,Daniel L. Roach
+tcci/GarbaGR13,Horacio González-Vélez
+tcci/GarbaGR13,Michael T. Garba
+tcci/RodriguesDFCOC15,Anders Lyhne Christensen
+tcci/RodriguesDFCOC15,Margarida Figueiró
+tcci/RodriguesDFCOC15,Miguel Duarte
+tcci/RodriguesDFCOC15,Sancho Moura Oliveira
+tcci/RodriguesDFCOC15,Tiago Rodrigues
+tcci/RodriguesDFCOC15,Vasco Costa
+tcci/Leon18,Florin Leon
+tcci/Hernes19,Marcin Hernes
+tcci/Ahmadi-AbkenariS13,Ali Selamat
+tcci/Ahmadi-AbkenariS13,Fatemeh Ahmadi-Abkenari
+tcci/ShahamatniaMDRF16,André Mora
+tcci/ShahamatniaMDRF16,Ehsan Shahamatnia
+tcci/ShahamatniaMDRF16,Ivan Dorotovic
+tcci/ShahamatniaMDRF16,José Manuel Fonseca
+tcci/ShahamatniaMDRF16,Rita A. Ribeiro
+tcci/AndersonBH13,Herry Herry
+tcci/AndersonBH13,Paul Anderson 0003
+tcci/AndersonBH13,Shahriar Bijani
+tcci/YamamotoYO11,Hidehiko Yamamoto
+tcci/YamamotoYO11,Katsutoshi Ootsubo
+tcci/YamamotoYO11,Takayoshi Yamada
+tcci/RekabsazBLH17,Allan Hanbury
+tcci/RekabsazBLH17,Mihai Lupu
+tcci/RekabsazBLH17,Navid Rekabsaz
+tcci/RekabsazBLH17,Ralf Bierig
+tcci/BarbuchaCJRW10,Dariusz Barbucha
+tcci/BarbuchaCJRW10,Ewa Ratajczak-Ropel
+tcci/BarbuchaCJRW10,Ireneusz Czarnowski
+tcci/BarbuchaCJRW10,Izabela Wierzbowska
+tcci/BarbuchaCJRW10,Piotr Jedrzejowicz
+tcci/LettmannBEK11,Markus Eberling
+tcci/LettmannBEK11,Michael Baumann 0002
+tcci/LettmannBEK11,Theodor Lettmann
+tcci/LettmannBEK11,Thomas Kemmerich
+tcci/JhaN15,Shashi Shekhar Jha
+tcci/JhaN15,Shivashankar B. Nair
+tcci/CegielkaDLMR17,Arkadiusz Maciuk
+tcci/CegielkaDLMR17,Janusz Lyko
+tcci/CegielkaDLMR17,Katarzyna Cegielka
+tcci/CegielkaDLMR17,Piotr Dniestrzanski
+tcci/CegielkaDLMR17,Radoslaw Rudek
+tcci/LiP13,Darshika G. Perera
+tcci/LiP13,Kin Fun Li
+tcci/Dudek13,Grzegorz Dudek
+tcci/WangMYW15,Jianfeng Ma
+tcci/WangMYW15,Xiaoyuan Yang 0002
+tcci/WangMYW15,Xu An Wang
+tcci/WangMYW15,Yuechuan Wei
+tcci/Selamat11,Ali Selamat
+tcci/ZhangZZ15,Aiyun Zhan
+tcci/ZhangZZ15,Wei Zhang
+tcci/ZhangZZ15,Yuejing Zhang
+tcci/HoogendoornTWW11,Arlette van Wissen
+tcci/HoogendoornTWW11,C. Natalie van der Wal
+tcci/HoogendoornTWW11,Jan Treur
+tcci/HoogendoornTWW11,Mark Hoogendoorn
+tcci/TozickaJDK15,Antonín Komenda
+tcci/TozickaJDK15,Jan Jakubuv
+tcci/TozickaJDK15,Jan Tozicka
+tcci/TozickaJDK15,Karel Durkota
+tcci/Kyriazis19,Dimosthenis Kyriazis
+tcci/OrlowskiZOKSP16a,Aleksander Orlowski
+tcci/OrlowskiZOKSP16a,Artur Ziólkowski
+tcci/OrlowskiZOKSP16a,Cezary Orlowski
+tcci/OrlowskiZOKSP16a,Pawel Kaplanski
+tcci/OrlowskiZOKSP16a,Tomasz Sitek
+tcci/OrlowskiZOKSP16a,Witold Pokrzywnicki
+tcci/TrandafiliB13,Evis Trandafili
+tcci/TrandafiliB13,Marenglen Biba
+tplop/PontKB09,Michael J. Pont
+tplop/PontKB09,Ricardo Bautista-Quintero
+tplop/PontKB09,Susan Kurian
+tplop/AguiarD11,Ademar Aguiar
+tplop/AguiarD11,Gabriel David
+tplop/Saridakis09,Titos Saridakis
+tplop/KolfschotenBL11,Gwendolyn L. Kolfschoten
+tplop/KolfschotenBL11,Robert O. Briggs
+tplop/KolfschotenBL11,Stephan G. Lukosch
+tplop/MahoneyE09,Mark Mahoney
+tplop/MahoneyE09,Tzilla Elrad
+tplop/Siddle09,James Siddle
+tplop/VainsencherB09,Andrew P. Black
+tplop/VainsencherB09,Daniel Vainsencher
+tplop/BallesterosKPJAC09,Fabio Kon
+tplop/BallesterosKPJAC09,Francisco J. Ballesteros
+tplop/BallesterosKPJAC09,Marta Patiño-Martínez
+tplop/BallesterosKPJAC09,Ricardo Jiménez-Peris
+tplop/BallesterosKPJAC09,Roy H. Campbell
+tplop/BallesterosKPJAC09,Sergio Arévalo
+tplop/Riehle11,Dirk Riehle
+tplop/HentrichZ09,Carsten Hentrich
+tplop/HentrichZ09,Uwe Zdun
+tplop/Hentrich09,Carsten Hentrich
+tplop/Siddle11,James Siddle
+tplop/ZimmermannRS11,Birgit Zimmermann
+tplop/ZimmermannRS11,Christoph Rensing
+tplop/ZimmermannRS11,Ralf Steinmetz
+topnoc/StahlMB09,Christian Stahl
+topnoc/StahlMB09,Jan Bretschneider
+topnoc/StahlMB09,Peter Massuthe
+topnoc/DalmasTN18,Benjamin Dalmas
+topnoc/DalmasTN18,Niek Tax
+topnoc/DalmasTN18,Sylvie Norre
+topnoc/BaldanCKS08,Andrea Corradini
+topnoc/BaldanCKS08,Barbara König 0001
+topnoc/BaldanCKS08,Paolo Baldan
+topnoc/BaldanCKS08,Stefan Schwoon
+topnoc/ChatainH14,Stefan Haar
+topnoc/ChatainH14,Thomas Chatain
+topnoc/CabacD08,Lawrence Cabac
+topnoc/CabacD08,Nicolas Denz
+topnoc/HeeVSS09,Christian Stahl
+topnoc/HeeVSS09,H. M. W. Verbeek
+topnoc/HeeVSS09,Kees M. van Hee
+topnoc/HeeVSS09,Natalia Sidorova
+topnoc/RadhouaniILR15,Akram Idani
+topnoc/RadhouaniILR15,Amira Radhouani
+topnoc/RadhouaniILR15,Narjes Ben Rajeb
+topnoc/RadhouaniILR15,Yves Ledru
+topnoc/DarondeauR12,Laurie Ricker
+topnoc/DarondeauR12,Philippe Darondeau
+topnoc/HeeKPSW08,Jan Martijn E. M. van der Werf
+topnoc/HeeKPSW08,Jeroen Keiren
+topnoc/HeeKPSW08,Kees M. van Hee
+topnoc/HeeKPSW08,Natalia Sidorova
+topnoc/HeeKPSW08,Reinier Post
+topnoc/MascheroniF12,Fabio Farina
+topnoc/MascheroniF12,Marco Mascheroni
+topnoc/BashkinL14,Irina A. Lomazova
+topnoc/BashkinL14,Vladimir A. Bashkin
+topnoc/TruongD09,Hong Linh Truong 0001
+topnoc/TruongD09,Schahram Dustdar
+topnoc/BergenthumDML09,Jörg Desel
+topnoc/BergenthumDML09,Robert Lorenz 0001
+topnoc/BergenthumDML09,Robin Bergenthum
+topnoc/BergenthumDML09,Sebastian Mauser
+topnoc/ReichertRD09,Manfred Reichert
+topnoc/ReichertRD09,Peter Dadam
+topnoc/ReichertRD09,Stefanie Rinderle-Ma
+topnoc/PhawadeL15,Kamal Lodaya
+topnoc/PhawadeL15,Ramchandra Phawade
+topnoc/HoldererCTM17,Farbod Taymouri
+topnoc/HoldererCTM17,Günter Müller
+topnoc/HoldererCTM17,Josep Carmona
+topnoc/HoldererCTM17,Julius Holderer
+topnoc/BaldanCGS13,Federica Giummolè
+topnoc/BaldanCGS13,Marta Simeoni
+topnoc/BaldanCGS13,Nicoletta Cocco
+topnoc/BaldanCGS13,Paolo Baldan
+topnoc/LiuL14,Junxian Liu
+topnoc/LiuL14,Lin Liu 0003
+topnoc/ReisigRT13,Grzegorz Rozenberg
+topnoc/ReisigRT13,P. S. Thiagarajan
+topnoc/ReisigRT13,Wolfgang Reisig
+topnoc/Brabrand08,Claus Brabrand
+topnoc/SuriadiOF12,Chun Ouyang
+topnoc/SuriadiOF12,Ernest Foo
+topnoc/SuriadiOF12,Suriadi Suriadi
+topnoc/SoleC12,Josep Carmona
+topnoc/SoleC12,Marc Solé
+topnoc/SztylerCVS16,Heiner Stuckenschmidt
+topnoc/SztylerCVS16,Johanna Völker
+topnoc/SztylerCVS16,Josep Carmona
+topnoc/SztylerCVS16,Timo Sztyler
+topnoc/AalstD13,Boudewijn F. van Dongen
+topnoc/AalstD13,Wil M. P. van der Aalst
+topnoc/MarroneMNPRV12,Nicola Mazzocca
+topnoc/MarroneMNPRV12,Roberta Presta
+topnoc/MarroneMNPRV12,Roberto Nardone
+topnoc/MarroneMNPRV12,Simon Pietro Romano
+topnoc/MarroneMNPRV12,Stefano Marrone
+topnoc/MarroneMNPRV12,Valeria Vittorini
+topnoc/BernardinelloMP13,Elisabetta Mangioni
+topnoc/BernardinelloMP13,Luca Bernardinello
+topnoc/BernardinelloMP13,Lucia Pomello
+topnoc/Wester-EbbinghausMK10,Daniel Moldt
+topnoc/Wester-EbbinghausMK10,Matthias Wester-Ebbinghaus
+topnoc/Wester-EbbinghausMK10,Michael Köhler-Bußmeier
+topnoc/NiewiadomskiP15,Artur Niewiadomski
+topnoc/NiewiadomskiP15,Wojciech Penczek
+topnoc/MontaliR17,Andrey Rivkin
+topnoc/MontaliR17,Marco Montali
+topnoc/KnapikSP10,Maciej Szreter
+topnoc/KnapikSP10,Michal Knapik
+topnoc/KnapikSP10,Wojciech Penczek
+topnoc/Wolf09,Karsten Wolf
+topnoc/KnapikP12,Michal Knapik
+topnoc/KnapikP12,Wojciech Penczek
+topnoc/JensenNOS16,Jirí Srba
+topnoc/JensenNOS16,Jonas Finnemann Jensen
+topnoc/JensenNOS16,Lars Kaerlund Oestergaard
+topnoc/JensenNOS16,Thomas Nielsen
+topnoc/KleijnKP14,Jetty Kleijn
+topnoc/KleijnKP14,Maciej Koutny
+topnoc/KleijnKP14,Marta Pietkiewicz-Koutny
+topnoc/PenczekPZ10,Agata Pólrola
+topnoc/PenczekPZ10,Andrzej Zbrzezny
+topnoc/PenczekPZ10,Wojciech Penczek
+topnoc/BruneoLP12,Antonio Puliafito
+topnoc/BruneoLP12,Dario Bruneo
+topnoc/BruneoLP12,Francesco Longo 0001
+topnoc/HeeHHPT10,Geert-Jan Houben
+topnoc/HeeHHPT10,Jan Hidders
+topnoc/HeeHHPT10,Jan Paredaens
+topnoc/HeeHHPT10,Kees M. van Hee
+topnoc/HeeHHPT10,Philippe Thiran
+topnoc/BestW13,Eike Best
+topnoc/BestW13,Harro Wimmel
+topnoc/DongenMW09,Ana Karla Alves de Medeiros
+topnoc/DongenMW09,Boudewijn F. van Dongen
+topnoc/DongenMW09,L. Wen
+topnoc/Winkowski17,Józef Winkowski
+topnoc/Aalst09,Wil M. P. van der Aalst
+topnoc/Westergaard12,Michael Westergaard
+topnoc/RibeiroC16,Joel Ribeiro
+topnoc/RibeiroC16,Josep Carmona
+topnoc/EnnaouiNT18,Farouk Toumani
+topnoc/EnnaouiNT18,Karima Ennaoui
+topnoc/EnnaouiNT18,Lhouari Nourine
+topnoc/PuraB15,Didier Buchs
+topnoc/PuraB15,Mihai-Lica Pura
+topnoc/Valmari13,Antti Valmari
+topnoc/KristensenJ08,Kurt Jensen
+topnoc/KristensenJ08,Lars Michael Kristensen
+topnoc/BarylskaBSS17,Eike Best
+topnoc/BarylskaBSS17,Kamila Barylska
+topnoc/BarylskaBSS17,Uli Schlachter
+topnoc/BarylskaBSS17,Valentin Spreckels
+topnoc/BergenthumDHM12,Andreas Harrer
+topnoc/BergenthumDHM12,Jörg Desel
+topnoc/BergenthumDHM12,Robin Bergenthum
+topnoc/BergenthumDHM12,Sebastian Mauser
+topnoc/LassenD08,Boudewijn F. van Dongen
+topnoc/LassenD08,Kristian Bisgaard Lassen
+topnoc/MokhovCB16,Andrey Mokhov
+topnoc/MokhovCB16,Jonathan Beaumont
+topnoc/MokhovCB16,Josep Carmona
+topnoc/WangKMS18,Hein Meling
+topnoc/WangKMS18,Lars Michael Kristensen
+topnoc/WangKMS18,Rui Wang
+topnoc/WangKMS18,Volker Stolz
+topnoc/AalstSW13,Christian Stahl
+topnoc/AalstSW13,Michael Westergaard
+topnoc/AalstSW13,Wil M. P. van der Aalst
+topnoc/KordonGHPJRH16,César Rodríguez
+topnoc/KordonGHPJRH16,Emmanuel Paviot-Adet
+topnoc/KordonGHPJRH16,Fabrice Kordon
+topnoc/KordonGHPJRH16,Francis Hulin-Hubard
+topnoc/KordonGHPJRH16,Hubert Garavel
+topnoc/KordonGHPJRH16,Lom-Messan Hillah
+topnoc/KordonGHPJRH16,Loïg Jezequel
+topnoc/Wester-EbbinghausK13,Matthias Wester-Ebbinghaus
+topnoc/Wester-EbbinghausK13,Michael Köhler-Bußmeier
+topnoc/CabacMW14,David Mosteller
+topnoc/CabacMW14,Lawrence Cabac
+topnoc/CabacMW14,Matthias Wester-Ebbinghaus
+topnoc/EvangelistaWK09,Lars Michael Kristensen
+topnoc/EvangelistaWK09,Michael Westergaard
+topnoc/EvangelistaWK09,Sami Evangelista
+topnoc/VerbeekPAW08,A. Johannes Pretorius
+topnoc/VerbeekPAW08,Henricus M. W. (Eric) Verbeek
+topnoc/VerbeekPAW08,Jarke J. van Wijk
+topnoc/VerbeekPAW08,Wil M. P. van der Aalst
+topnoc/BillingtonVG09,Guy Edward Gallasch
+topnoc/BillingtonVG09,Jonathan Billington
+topnoc/BillingtonVG09,Somsak Vanit-Anunchai
+topnoc/CalzolaiNLT08,Francesco Calzolai
+topnoc/CalzolaiNLT08,Francesco Tiezzi
+topnoc/CalzolaiNLT08,Michele Loreti
+topnoc/CalzolaiNLT08,Rocco De Nicola
+topnoc/ShilS15,Assia Ben Shil
+topnoc/ShilS15,Kaouther Blibech Sinaoui
+topnoc/MostellerCH16,David Mosteller
+topnoc/MostellerCH16,Lawrence Cabac
+topnoc/MostellerCH16,Michael Haustermann
+topnoc/BonnefoiCK09,Christine Choppy
+topnoc/BonnefoiCK09,Fabien Bonnefoi
+topnoc/BonnefoiCK09,Fabrice Kordon
+topnoc/HillahKLP12,Charles Lakos
+topnoc/HillahKLP12,Fabrice Kordon
+topnoc/HillahKLP12,Laure Petrucci
+topnoc/HillahKLP12,Lom-Messan Hillah
+topnoc/DongenDA12,Boudewijn F. van Dongen
+topnoc/DongenDA12,Jörg Desel
+topnoc/DongenDA12,Wil M. P. van der Aalst
+topnoc/GogolinskaMP18,Anna Gogolinska
+topnoc/GogolinskaMP18,Lukasz Mikulski
+topnoc/GogolinskaMP18,Marcin Piatkowski
+topnoc/KleijnK13,Jetty Kleijn
+topnoc/KleijnK13,Maciej Koutny
+topnoc/BrogiCSW16,Andrea Canciani
+topnoc/BrogiCSW16,Antonio Brogi
+topnoc/BrogiCSW16,Jacopo Soldani
+topnoc/BrogiCSW16,PengWei Wang
+topnoc/BernardinelloKP16,Görkem Kilinç
+topnoc/BernardinelloKP16,Luca Bernardinello
+topnoc/BernardinelloKP16,Lucia Pomello
+topnoc/RussellAH09,Arthur H. M. ter Hofstede
+topnoc/RussellAH09,Nick C. Russell
+topnoc/RussellAH09,Wil M. P. van der Aalst
+topnoc/MansRAMB10,Arnold J. Moleman
+topnoc/MansRAMB10,Nick C. Russell
+topnoc/MansRAMB10,Piet J. M. Bakker
+topnoc/MansRAMB10,Ronny Mans
+topnoc/MansRAMB10,Wil M. P. van der Aalst
+topnoc/KristensenS13,Kent Inge Fagerland Simonsen
+topnoc/KristensenS13,Lars Michael Kristensen
+topnoc/BonetHHT08,Blai Bonet
+topnoc/BonetHHT08,Patrik Haslum
+topnoc/BonetHHT08,Sarah L. Hickmott
+topnoc/BonetHHT08,Sylvie Thiébaux
+topnoc/KhomenkoG15,Vasileios Germanos
+topnoc/KhomenkoG15,Victor Khomenko
+topnoc/BergenthumS15,Joachim Schick
+topnoc/BergenthumS15,Robin Bergenthum
+topnoc/HoussayePD17,Franck Pommereau
+topnoc/HoussayePD17,Jordan de la Houssaye
+topnoc/HoussayePD17,Philippe Deniel
+topnoc/WestergaardFS13,Christian Stahl
+topnoc/WestergaardFS13,Dirk Fahland
+topnoc/WestergaardFS13,Michael Westergaard
+topnoc/Carmona12,Josep Carmona
+topnoc/Reisig13,Wolfgang Reisig
+topnoc/ShershakovKL17,Anna A. Kalenkova
+topnoc/ShershakovKL17,Irina A. Lomazova
+topnoc/ShershakovKL17,Sergey A. Shershakov
+topnoc/Klai15,Kais Klai
+topnoc/Vanit-Anunchai16,Somsak Vanit-Anunchai
+topnoc/ChoppyDEKPY12,Anna Dedova
+topnoc/ChoppyDEKPY12,Christine Choppy
+topnoc/ChoppyDEKPY12,Kais Klai
+topnoc/ChoppyDEKPY12,Laure Petrucci
+topnoc/ChoppyDEKPY12,Sami Evangelista
+topnoc/ChoppyDEKPY12,Samir Youcef
+topnoc/Verbeek17,H. M. W. Verbeek
+topnoc/DanoyBB10,Grégoire Danoy
+topnoc/DanoyBB10,Olivier Boissier
+topnoc/DanoyBB10,Pascal Bouvry
+topnoc/ZelstBD18,Alfredo Bolt
+topnoc/ZelstBD18,Boudewijn F. van Dongen
+topnoc/ZelstBD18,Sebastiaan J. van Zelst
+topnoc/0001DJ13,Gabriel Juhás
+topnoc/0001DJ13,Jörg Desel
+topnoc/0001DJ13,Robert Lorenz 0001
+topnoc/Mendling09,Jan Mendling
+topnoc/AalstHHSVVW09,Arthur H. M. ter Hofstede
+topnoc/AalstHHSVVW09,H. M. W. Verbeek
+topnoc/AalstHHSVVW09,Kees M. van Hee
+topnoc/AalstHHSVVW09,Marc Voorhoeve
+topnoc/AalstHHSVVW09,Moe Thandar Wynn
+topnoc/AalstHHSVVW09,Natalia Sidorova
+topnoc/AalstHHSVVW09,Wil M. P. van der Aalst
+topnoc/HeinerRST16,Alexey A. Tovchigrechko
+topnoc/HeinerRST16,Christian Rohr
+topnoc/HeinerRST16,Martin Schwarick
+topnoc/HeinerRST16,Monika Heiner
+topnoc/CiardoZJ12,Gianfranco Ciardo
+topnoc/CiardoZJ12,Xiaoqing Jin
+topnoc/CiardoZJ12,Yang Zhao 0011
+topnoc/BergenthumDM09,Jörg Desel
+topnoc/BergenthumDM09,Robin Bergenthum
+topnoc/BergenthumDM09,Sebastian Mauser
+topnoc/DahmaniIB08,Djaouida Dahmani
+topnoc/DahmaniIB08,Jean-Michel Ilié
+topnoc/DahmaniIB08,Malika Boukala
+topnoc/ChesaniLMMRS09,Evelina Lamma
+topnoc/ChesaniLMMRS09,Fabrizio Riguzzi
+topnoc/ChesaniLMMRS09,Federico Chesani
+topnoc/ChesaniLMMRS09,Marco Montali
+topnoc/ChesaniLMMRS09,Paola Mello
+topnoc/ChesaniLMMRS09,Sergio Storari
+topnoc/HeeSW13a,Jan Martijn E. M. van der Werf
+topnoc/HeeSW13a,Kees M. van Hee
+topnoc/HeeSW13a,Natalia Sidorova
+topnoc/Hamez16,Alexandre Hamez
+topnoc/MietznerKL09,Dimka Karastoyanova
+topnoc/MietznerKL09,Frank Leymann
+topnoc/MietznerKL09,Ralph Mietzner
+topnoc/KoutnyP12,Maciej Koutny
+topnoc/KoutnyP12,Marta Pietkiewicz-Koutny
+topnoc/MaissaKMT13,Fabrice Kordon
+topnoc/MaissaKMT13,Salma Mouline
+topnoc/MaissaKMT13,Yann Ben Maissa
+topnoc/MaissaKMT13,Yann Thierry-Mieg
+topnoc/WestergaardK12,Lars Michael Kristensen
+topnoc/WestergaardK12,Michael Westergaard
+topnoc/MollerHMS18,David Mosteller
+topnoc/MollerHMS18,Dennis Schmitz
+topnoc/MollerHMS18,Michael Haustermann
+topnoc/MollerHMS18,Pascale Möller
+topnoc/ValmariH17,Antti Valmari
+topnoc/ValmariH17,Henri Hansen
+topnoc/ArnoldB12,Jonathan Billington
+topnoc/ArnoldB12,Sonya Arnold
+topnoc/Lakos09,Charles Lakos
+topnoc/Kohler-BussmeierWM09,Daniel Moldt
+topnoc/Kohler-BussmeierWM09,Matthias Wester-Ebbinghaus
+topnoc/Kohler-BussmeierWM09,Michael Köhler-Bußmeier
+topnoc/KoninckW17,Jochen De Weerdt
+topnoc/KoninckW17,Pieter De Koninck
+topnoc/BetzCDWW14,Lawrence Cabac
+topnoc/BetzCDWW14,Matthias Wester-Ebbinghaus
+topnoc/BetzCDWW14,Michael Duvigneau
+topnoc/BetzCDWW14,Thomas Wagner 0003
+topnoc/BetzCDWW14,Tobias Betz
+topnoc/CortadellaKBCJ08,Dmitry Bufistov
+topnoc/CortadellaKBCJ08,Jordi Cortadella
+topnoc/CortadellaKBCJ08,Jorge Júlvez
+topnoc/CortadellaKBCJ08,Josep Carmona
+topnoc/CortadellaKBCJ08,Michael Kishinevsky
+topnoc/EisentrautH08,Christian Eisentraut
+topnoc/EisentrautH08,Holger Hermanns
+topnoc/RamosBHH08,Alessandro Di Bucchianico
+topnoc/RamosBHH08,Isaac Corro Ramos
+topnoc/RamosBHH08,Kees M. van Hee
+topnoc/RamosBHH08,Lusine Hakobyan
+topnoc/RoyS16,A. S. M. Sajeev
+topnoc/RoyS16,Suman Roy 0001
+topnoc/KordonGHPJHABBEJBLMSTPW18,Bernard Berthomieu
+topnoc/KordonGHPJHABBEJBLMSTPW18,Didier Le Botlan
+topnoc/KordonGHPJHABBEJBLMSTPW18,Elvio Gilberto Amparore
+topnoc/KordonGHPJHABBEJBLMSTPW18,Emmanuel Paviot-Adet
+topnoc/KordonGHPJHABBEJBLMSTPW18,Fabrice Kordon
+topnoc/KordonGHPJHABBEJBLMSTPW18,Francis Hulin-Hubard
+topnoc/KordonGHPJHABBEJBLMSTPW18,Hubert Garavel
+topnoc/KordonGHPJHABBEJBLMSTPW18,Hugues Evrard
+topnoc/KordonGHPJHABBEJBLMSTPW18,Jaco van de Pol
+topnoc/KordonGHPJHABBEJBLMSTPW18,Jeroen Meijer
+topnoc/KordonGHPJHABBEJBLMSTPW18,Jirí Srba
+topnoc/KordonGHPJHABBEJBLMSTPW18,Karsten Wolf
+topnoc/KordonGHPJHABBEJBLMSTPW18,Lom-Messan Hillah
+topnoc/KordonGHPJHABBEJBLMSTPW18,Loïg Jezequel
+topnoc/KordonGHPJHABBEJBLMSTPW18,Marco Beccuti
+topnoc/KordonGHPJHABBEJBLMSTPW18,Peter Gjøl Jensen
+topnoc/KordonGHPJHABBEJBLMSTPW18,Torsten Liebke
+topnoc/KordonGHPJHABBEJBLMSTPW18,Yann Thierry-Mieg
+topnoc/Rohr13,Christian Rohr
+topnoc/JanowskaPPZ13,Agata Janowska
+topnoc/JanowskaPPZ13,Agata Pólrola
+topnoc/JanowskaPPZ13,Andrzej Zbrzezny
+topnoc/JanowskaPPZ13,Wojciech Penczek
+topnoc/DeselE16,Javier Esparza
+topnoc/DeselE16,Jörg Desel
+topnoc/DeselM10,Agathe Merceron
+topnoc/DeselM10,Jörg Desel
+topnoc/Kindler12,Ekkart Kindler
+topnoc/BernardinelloKMP14,Elisabetta Mangioni
+topnoc/BernardinelloKMP14,Görkem Kilinç
+topnoc/BernardinelloKMP14,Luca Bernardinello
+topnoc/BernardinelloKMP14,Lucia Pomello
+topnoc/Kindler09,Ekkart Kindler
+topnoc/HongKPE12,Emmanuel Paviot-Adet
+topnoc/HongKPE12,Fabrice Kordon
+topnoc/HongKPE12,Sami Evangelista
+topnoc/HongKPE12,Silien Hong
+topnoc/LohmannVD09,Eric Verbeek 0001
+topnoc/LohmannVD09,Niels Lohmann
+topnoc/LohmannVD09,Remco M. Dijkman
+topnoc/EvangelistaK10,Lars Michael Kristensen
+topnoc/EvangelistaK10,Sami Evangelista
+topnoc/WagnerQMR12,Christine Reese
+topnoc/WagnerQMR12,Daniel Moldt
+topnoc/WagnerQMR12,José Ghislain Quenum
+topnoc/WagnerQMR12,Thomas Wagner 0003
+topnoc/AmparoreDBGM18,Andrew S. Miner
+topnoc/AmparoreDBGM18,Elvio Gilberto Amparore
+topnoc/AmparoreDBGM18,Giulio Garbi
+topnoc/AmparoreDBGM18,Marco Beccuti
+topnoc/AmparoreDBGM18,Susanna Donatelli
+topnoc/KnapikNPPSZ10,Agata Pólrola
+topnoc/KnapikNPPSZ10,Andrzej Zbrzezny
+topnoc/KnapikNPPSZ10,Artur Niewiadomski
+topnoc/KnapikNPPSZ10,Maciej Szreter
+topnoc/KnapikNPPSZ10,Michal Knapik
+topnoc/KnapikNPPSZ10,Wojciech Penczek
+topnoc/DedovaP13,Anna Dedova
+topnoc/DedovaP13,Laure Petrucci
+topnoc/BernardinelloFPA18,Adrián Puerto Aubel
+topnoc/BernardinelloFPA18,Carlo Ferigato
+topnoc/BernardinelloFPA18,Luca Bernardinello
+topnoc/BernardinelloFPA18,Lucia Pomello
+topnoc/HerajySH13,Martin Schwarick
+topnoc/HerajySH13,Monika Heiner
+topnoc/HerajySH13,Mostafa Herajy
+topnoc/BillingtonY09,Cong Yuan
+topnoc/BillingtonY09,Jonathan Billington
+topnoc/KordonLBCELLPTW12,Alban Linard
+topnoc/KordonLBCELLPTW12,Didier Buchs
+topnoc/KordonLBCELLPTW12,Emmanuel Paviot-Adet
+topnoc/KordonLBCELLPTW12,Fabrice Kordon
+topnoc/KordonLBCELLPTW12,Harro Wimmel
+topnoc/KordonLBCELLPTW12,Kai Lampka
+topnoc/KordonLBCELLPTW12,Maximilien Colange
+topnoc/KordonLBCELLPTW12,Niels Lohmann
+topnoc/KordonLBCELLPTW12,Sami Evangelista
+topnoc/KordonLBCELLPTW12,Yann Thierry-Mieg
+topnoc/PuhlmannW09,Frank Puhlmann
+topnoc/PuhlmannW09,Mathias Weske
+topnoc/Xu09,Xian Xu 0001
+topnoc/Wolf16,Karsten Wolf
+topnoc/Elhog-BenzinaHH12,Dorsaf Elhog-Benzina
+topnoc/Elhog-BenzinaHH12,Rolf Hennicker
+topnoc/Elhog-BenzinaHH12,Serge Haddad
+topnoc/RussellH09,Arthur H. M. ter Hofstede
+topnoc/RussellH09,Nick Russell
+topnoc/SedlmajerBHLBM12,Alban Linard
+topnoc/SedlmajerBHLBM12,Alexis Marechal
+topnoc/SedlmajerBHLBM12,Didier Buchs
+topnoc/SedlmajerBHLBM12,Edmundo López Bóbeda
+topnoc/SedlmajerBHLBM12,Nicolas Sedlmajer
+topnoc/SedlmajerBHLBM12,Steve Hostettler
+topnoc/MansARBMLJ09,Arnold J. Moleman
+topnoc/MansARBMLJ09,Jens Bæk Jørgensen
+topnoc/MansARBMLJ09,Kristian Bisgaard Lassen
+topnoc/MansARBMLJ09,Nick C. Russell
+topnoc/MansARBMLJ09,Piet J. M. Bakker
+topnoc/MansARBMLJ09,R. S. Mans
+topnoc/MansARBMLJ09,Wil M. P. van der Aalst
+topnoc/Lopez-GraoC12,José Manuel Colom
+topnoc/Lopez-GraoC12,Juan-Pablo López-Grao
+topnoc/BarylskaBEMP16,Eike Best
+topnoc/BarylskaBEMP16,Evgeny Erofeev
+topnoc/BarylskaBEMP16,Kamila Barylska
+topnoc/BarylskaBEMP16,Lukasz Mikulski
+topnoc/BarylskaBEMP16,Marcin Piatkowski
+topnoc/Banaji12,Murad Banaji
+topnoc/JinLC14,Gianfranco Ciardo
+topnoc/JinLC14,Xiaoqing Jin
+topnoc/JinLC14,Yousra Lembachar
+topnoc/SimonsenKK16,Ekkart Kindler
+topnoc/SimonsenKK16,Kent Inge Fagerland Simonsen
+topnoc/SimonsenKK16,Lars Michael Kristensen
+topnoc/HeeSW13,Jan Martijn E. M. van der Werf
+topnoc/HeeSW13,Kees M. van Hee
+topnoc/HeeSW13,Natalia Sidorova
+topnoc/SalemDK12,Ala-Eddine Ben Salem
+topnoc/SalemDK12,Alexandre Duret-Lutz
+topnoc/SalemDK12,Fabrice Kordon
+tlsdkcs/FengLHD13,Haitang Feng
+tlsdkcs/FengLHD13,Mohand-Said Hacid
+tlsdkcs/FengLHD13,Nicolas Lumineau
+tlsdkcs/FengLHD13,Richard Domps
+tlsdkcs/CarvalhoFGP16,Cassia de Souza Carvalho
+tlsdkcs/CarvalhoFGP16,Claudio Luis de Camargo Penteado
+tlsdkcs/CarvalhoFGP16,Denise Hideko Goya
+tlsdkcs/CarvalhoFGP16,Fabrício Olivetti de França
+tlsdkcs/SurduGSP13,Jean-Marc Petit
+tlsdkcs/SurduGSP13,Sabina Surdu
+tlsdkcs/SurduGSP13,Vasile-Marian Scuturici
+tlsdkcs/SurduGSP13,Yann Gripay
+tlsdkcs/TalebET13,Ahmad Taleb
+tlsdkcs/TalebET13,Hiba Tabbara
+tlsdkcs/TalebET13,Todd Eavis
+tlsdkcs/Ait-SadouneA13,Idir Aït-Sadoune
+tlsdkcs/Ait-SadouneA13,Yamine Aït Ameur
+tlsdkcs/ChabinAMR13,Jacques Chabin
+tlsdkcs/ChabinAMR13,Martin A. Musicante
+tlsdkcs/ChabinAMR13,Mirian Halfeld Ferrari Alves
+tlsdkcs/ChabinAMR13,Pierre Réty
+tlsdkcs/Leitao09,Paulo Leitão
+tlsdkcs/0001XI12a,Chuan Xiao
+tlsdkcs/0001XI12a,Xi Guo 0001
+tlsdkcs/0001XI12a,Yoshiharu Ishikawa
+tlsdkcs/AtkinsonBD12,Colin Atkinson 0001
+tlsdkcs/AtkinsonBD12,Dirk Draheim
+tlsdkcs/AtkinsonBD12,Philipp Bostan
+tlsdkcs/0001RA16,Alberto Abelló
+tlsdkcs/0001RA16,Oscar Romero 0001
+tlsdkcs/0001RA16,Petar Jovanovic 0001
+tlsdkcs/TruongRN17,Anh Truong
+tlsdkcs/TruongRN17,Silvio Ranise
+tlsdkcs/TruongRN17,Thanh Tung Nguyen
+tlsdkcs/MohaniaBRCG09,Himanshu Gupta
+tlsdkcs/MohaniaBRCG09,Manish Bhide
+tlsdkcs/MohaniaBRCG09,Mukesh K. Mohania
+tlsdkcs/MohaniaBRCG09,Prasan Roy
+tlsdkcs/MohaniaBRCG09,Venkatesan T. Chakaravarthy
+tlsdkcs/XieOZY16,Hong Yang
+tlsdkcs/XieOZY16,Kaan Ozbay
+tlsdkcs/XieOZY16,Kun Xie
+tlsdkcs/XieOZY16,Yuan Zhu
+tlsdkcs/MaskatPE16,Norman W. Paton
+tlsdkcs/MaskatPE16,Ruhaila Maskat
+tlsdkcs/MaskatPE16,Suzanne M. Embury
+tlsdkcs/QayumiN18,Alex Norta
+tlsdkcs/QayumiN18,Karima Qayumi
+tlsdkcs/AfsarmaneshEMC09,Ekaterina Ermilova
+tlsdkcs/AfsarmaneshEMC09,Hamideh Afsarmanesh
+tlsdkcs/AfsarmaneshEMC09,Luis M. Camarinha-Matos
+tlsdkcs/AfsarmaneshEMC09,Simon Samwel Msanjila
+tlsdkcs/HeendaliyaLH12a,Ali R. Hurson
+tlsdkcs/HeendaliyaLH12a,Dan Lin 0001
+tlsdkcs/HeendaliyaLH12a,Lasanthi Heendaliya
+tlsdkcs/CerqueusCL12,Philippe Lamarre
+tlsdkcs/CerqueusCL12,Sylvie Cazalens
+tlsdkcs/CerqueusCL12,Thomas Cerqueus
+tlsdkcs/WildWHTG15,Alexey Tschudnowsky
+tlsdkcs/WildWHTG15,Fabian Wiedemann
+tlsdkcs/WildWHTG15,Martin Gaedke
+tlsdkcs/WildWHTG15,Sebastian Heil
+tlsdkcs/WildWHTG15,Stefan Wild
+tlsdkcs/KayemVM18,Anne V. D. M. Kayem
+tlsdkcs/KayemVM18,C. T. Vester
+tlsdkcs/KayemVM18,Christoph Meinel
+tlsdkcs/LeungCJ13,Alfredo Cuzzocrea
+tlsdkcs/LeungCJ13,Carson Kai-Sang Leung
+tlsdkcs/LeungCJ13,Fan Jiang 0001
+tlsdkcs/BohmNPWZ09,Andrew Zherdin
+tlsdkcs/BohmNPWZ09,Bianca Wackersreuther
+tlsdkcs/BohmNPWZ09,Christian Böhm
+tlsdkcs/BohmNPWZ09,Claudia Plant
+tlsdkcs/BohmNPWZ09,Robert Noll
+tlsdkcs/GilFT19,A Min Tjoa
+tlsdkcs/GilFT19,Bernhard Freudenthaler
+tlsdkcs/GilFT19,Jorge Martínez Gil
+tlsdkcs/Quang-HungTS14,Nam Thoai
+tlsdkcs/Quang-HungTS14,Nguyen Quang-Hung
+tlsdkcs/Quang-HungTS14,Nguyen Thanh Son 0002
+tlsdkcs/PrzymusK14,Krzysztof Kaczmarski
+tlsdkcs/PrzymusK14,Piotr Przymus
+tlsdkcs/ScheweGIKNKKFZ15,Bernhard Freudenthaler
+tlsdkcs/ScheweGIKNKKFZ15,Christa Illibauer
+tlsdkcs/ScheweGIKNKKFZ15,Christine Natschläger-Carpella
+tlsdkcs/ScheweGIKNKKFZ15,Felix Kossak
+tlsdkcs/ScheweGIKNKKFZ15,Jan Kubovy
+tlsdkcs/ScheweGIKNKKFZ15,Klaus-Dieter Schewe
+tlsdkcs/ScheweGIKNKKFZ15,Theodorich Kopetzky
+tlsdkcs/ScheweGIKNKKFZ15,Thomas Ziebermayr
+tlsdkcs/ScheweGIKNKKFZ15,Verena Geist
+tlsdkcs/GomesS15,André Santanchè
+tlsdkcs/GomesS15,Luiz Gomes Jr.
+tlsdkcs/StefanidisNPNK13,Eirini Ntoutsi
+tlsdkcs/StefanidisNPNK13,Hans-Peter Kriegel
+tlsdkcs/StefanidisNPNK13,Kjetil Nørvåg
+tlsdkcs/StefanidisNPNK13,Kostas Stefanidis
+tlsdkcs/StefanidisNPNK13,Mihalis Petropoulos
+tlsdkcs/DangD14,Tran Khanh Dang
+tlsdkcs/DangD14,Tran Tri Dang
+tlsdkcs/ThiCL17,Nga Nguyen Thi
+tlsdkcs/ThiCL17,Nhien-An Le-Khac
+tlsdkcs/ThiCL17,Van Loi Cao
+tlsdkcs/Draheim16,Dirk Draheim
+tlsdkcs/NguyenNW13,Hai-Long Nguyen
+tlsdkcs/NguyenNW13,Wee Keong Ng
+tlsdkcs/NguyenNW13,Yew-Kwong Woon
+tlsdkcs/PutzP19,Benedikt Putz
+tlsdkcs/PutzP19,Günther Pernul
+tlsdkcs/AnHHT14,Le Hong Trang
+tlsdkcs/AnHHT14,Nguyen Ngoc Hai
+tlsdkcs/AnHHT14,Thanh An Phan
+tlsdkcs/AnHHT14,Tran Van Hoai
+tlsdkcs/FerrarottiHLMM13,Emir Muñoz
+tlsdkcs/FerrarottiHLMM13,Flavio Ferrarotti
+tlsdkcs/FerrarottiHLMM13,Mauricio Marín
+tlsdkcs/FerrarottiHLMM13,Sebastian Link
+tlsdkcs/FerrarottiHLMM13,Sven Hartmann
+tlsdkcs/PhamKMAJVL18,Anh Le
+tlsdkcs/PhamKMAJVL18,Bay Vo
+tlsdkcs/PhamKMAJVL18,Ira Assent
+tlsdkcs/PhamKMAJVL18,Jesper Kristensen
+tlsdkcs/PhamKMAJVL18,Jon Jacobsen
+tlsdkcs/PhamKMAJVL18,Son T. Mai
+tlsdkcs/PhamKMAJVL18,The Hai Pham
+tlsdkcs/MetouiBA17,Alessandro Armando
+tlsdkcs/MetouiBA17,Michele Bezzi
+tlsdkcs/MetouiBA17,Nadia Metoui
+tlsdkcs/YanJ15,Peng Yan
+tlsdkcs/YanJ15,Wei Jin 0006
+tlsdkcs/DanderHNPSB11,Andreas Dander
+tlsdkcs/DanderHNPSB11,Bernhard Pfeifer
+tlsdkcs/DanderHNPSB11,Christian Baumgartner
+tlsdkcs/DanderHNPSB11,Michael Handler
+tlsdkcs/DanderHNPSB11,Michael Netzer
+tlsdkcs/DanderHNPSB11,Michael Seger
+tlsdkcs/GuzunTC14,Gheorghi Guzun
+tlsdkcs/GuzunTC14,Guadalupe Canahuate
+tlsdkcs/GuzunTC14,Joel E. Tosado
+tlsdkcs/MichelFM19,Catherine Faron-Zucker
+tlsdkcs/MichelFM19,Franck Michel
+tlsdkcs/MichelFM19,Johan Montagnat
+tlsdkcs/Liroz-GistauAPPV13,Esther Pacitti
+tlsdkcs/Liroz-GistauAPPV13,Fábio Porto
+tlsdkcs/Liroz-GistauAPPV13,Miguel Liroz-Gistau
+tlsdkcs/Liroz-GistauAPPV13,Patrick Valduriez
+tlsdkcs/Liroz-GistauAPPV13,Reza Akbarinia
+tlsdkcs/CamaraK09,Alfred Kobsa
+tlsdkcs/CamaraK09,Javier Cámara
+tlsdkcs/JajodiaLS13,Sushil Jajodia
+tlsdkcs/JajodiaLS13,Thomas J. E. Schwarz
+tlsdkcs/JajodiaLS13,Witold Litwin
+tlsdkcs/LeDTN14,Quynh Chi Truong
+tlsdkcs/LeDTN14,Thi Ai Thao Nguyen
+tlsdkcs/LeDTN14,Thu Thi Bao Le
+tlsdkcs/LeDTN14,Tran Khanh Dang
+tlsdkcs/ChristodoulouPF15,Alvaro A. A. Fernandes
+tlsdkcs/ChristodoulouPF15,Klitos Christodoulou
+tlsdkcs/ChristodoulouPF15,Norman W. Paton
+tlsdkcs/FrankP12,Lars Frank
+tlsdkcs/FrankP12,Rasmus Ulslev Pedersen
+tlsdkcs/JaikarN16,Amol Jaikar
+tlsdkcs/JaikarN16,Seo-Young Noh
+tlsdkcs/ChenH15,Meichun Hsu
+tlsdkcs/ChenH15,Qiming Chen
+tlsdkcs/LeclercqGGS19,Annabelle Gillet
+tlsdkcs/LeclercqGGS19,Marinette Savonnet
+tlsdkcs/LeclercqGGS19,Thierry Grison
+tlsdkcs/LeclercqGGS19,Éric Leclercq
+tlsdkcs/HarshanDO16,Anwitaman Datta
+tlsdkcs/HarshanDO16,Frédérique E. Oggier
+tlsdkcs/HarshanDO16,J. Harshan
+tlsdkcs/KombiLLRB19,Nicolas Lumineau
+tlsdkcs/KombiLLRB19,Nicolo Rivetti
+tlsdkcs/KombiLLRB19,Philippe Lamarre
+tlsdkcs/KombiLLRB19,Roland Kotto Kombi
+tlsdkcs/KombiLLRB19,Yann Busnel
+tlsdkcs/KohD13,Gillian Dobbie
+tlsdkcs/KohD13,Yun Sing Koh
+tlsdkcs/ZamaniCKZM16,Angelos Charalambidis
+tlsdkcs/ZamaniCKZM16,Effrosyni Mavroudi
+tlsdkcs/ZamaniCKZM16,Katerina Zamani
+tlsdkcs/ZamaniCKZM16,Nickolas Zoulis
+tlsdkcs/ZamaniCKZM16,Stasinos Konstantopoulos
+tlsdkcs/WangZHXHG19,Guiling Wang
+tlsdkcs/WangZHXHG19,Marc Hesenius
+tlsdkcs/WangZHXHG19,Volker Gruhn
+tlsdkcs/WangZHXHG19,Xiaojiang Zuo
+tlsdkcs/WangZHXHG19,Yanbo Han
+tlsdkcs/WangZHXHG19,Yao Xu
+tlsdkcs/BenouaretL18,Dominique Lenne
+tlsdkcs/BenouaretL18,Idir Benouaret
+tlsdkcs/YefernyAB13,Amel Bouzeghoub
+tlsdkcs/YefernyAB13,Khedija Arour
+tlsdkcs/YefernyAB13,Taoufik Yeferny
+tlsdkcs/AmaviA14,Joshua Amavi
+tlsdkcs/AmaviA14,Mirian Halfeld Ferrari Alves
+tlsdkcs/DuongBGLSV18,Arnaud Giacometti
+tlsdkcs/DuongBGLSV18,Arnaud Soulet
+tlsdkcs/DuongBGLSV18,Christel Vrain
+tlsdkcs/DuongBGLSV18,Dominique Li
+tlsdkcs/DuongBGLSV18,Khanh-Chuong Duong
+tlsdkcs/DuongBGLSV18,Mostafa Bamha
+tlsdkcs/DuchateauB16,Fabien Duchateau
+tlsdkcs/DuchateauB16,Zohra Bellahsene
+tlsdkcs/HameurlainM09,Abdelkader Hameurlain
+tlsdkcs/HameurlainM09,Franck Morvan
+tlsdkcs/PhandR16,Laurent d'Orazio
+tlsdkcs/PhandR16,Philippe Rigaux
+tlsdkcs/PhandR16,Thuong-Cang Phan
+tlsdkcs/DedzoeLAV13,Patrick Valduriez
+tlsdkcs/DedzoeLAV13,Philippe Lamarre
+tlsdkcs/DedzoeLAV13,Reza Akbarinia
+tlsdkcs/DedzoeLAV13,William Kokou Dedzoe
+tlsdkcs/AmaroucheBBMA11,Djamal Benslimane
+tlsdkcs/AmaroucheBBMA11,Idir Amine Amarouche
+tlsdkcs/AmaroucheBBMA11,Mahmoud Barhamgi
+tlsdkcs/AmaroucheBBMA11,Michael Mrissa
+tlsdkcs/AmaroucheBBMA11,Zaia Alimazighi
+tlsdkcs/GaoMLHJLBZF16,An Lei
+tlsdkcs/GaoMLHJLBZF16,Gene Fuh
+tlsdkcs/GaoMLHJLBZF16,Hong Min
+tlsdkcs/GaoMLHJLBZF16,Jie Huang
+tlsdkcs/GaoMLHJLBZF16,Miao Zheng
+tlsdkcs/GaoMLHJLBZF16,Serge Bourbonnais
+tlsdkcs/GaoMLHJLBZF16,Xiao Li
+tlsdkcs/GaoMLHJLBZF16,Yi Jin
+tlsdkcs/GaoMLHJLBZF16,Zhen Gao
+tlsdkcs/DashdorjS16,Stanislav Sobolevsky
+tlsdkcs/DashdorjS16,Zolzaya Dashdorj
+tlsdkcs/CiglicEK16,Christian Koncilia
+tlsdkcs/CiglicEK16,Johann Eder
+tlsdkcs/CiglicEK16,Margareta Ciglic
+tlsdkcs/MargarisV18,Costas Vassilakis
+tlsdkcs/MargarisV18,Dionisis Margaris
+tlsdkcs/BressHSBS14,Gunter Saake
+tlsdkcs/BressHSBS14,Ladjel Bellatreche
+tlsdkcs/BressHSBS14,Max Heimel
+tlsdkcs/BressHSBS14,Norbert Siegmund
+tlsdkcs/BressHSBS14,Sebastian Breß
+tlsdkcs/JenkinsALBSSECCKKRS13,Choong-Seock Chang
+tlsdkcs/JenkinsALBSSECCKKRS13,David A. Boyuka II
+tlsdkcs/JenkinsALBSSECCKKRS13,Eric R. Schendel
+tlsdkcs/JenkinsALBSSECCKKRS13,Hemanth Kolla
+tlsdkcs/JenkinsALBSSECCKKRS13,Isha Arkatkar
+tlsdkcs/JenkinsALBSSECCKKRS13,Jackie Chen
+tlsdkcs/JenkinsALBSSECCKKRS13,John Jenkins
+tlsdkcs/JenkinsALBSSECCKKRS13,Nagiza F. Samatova
+tlsdkcs/JenkinsALBSSECCKKRS13,Neil Shah
+tlsdkcs/JenkinsALBSSECCKKRS13,Robert B. Ross
+tlsdkcs/JenkinsALBSSECCKKRS13,Scott Klasky
+tlsdkcs/JenkinsALBSSECCKKRS13,Sriram Lakshminarasimhan
+tlsdkcs/JenkinsALBSSECCKKRS13,Stéphane Ethier
+tlsdkcs/AtzeniGC09,Giorgio Gianforme
+tlsdkcs/AtzeniGC09,Paolo Atzeni
+tlsdkcs/AtzeniGC09,Paolo Cappellari
+tlsdkcs/Vidyasankar17,K. Vidyasankar
+tlsdkcs/BouadjenekHB19,Hakim Hacid
+tlsdkcs/BouadjenekHB19,Mohamed Reda Bouadjenek
+tlsdkcs/BouadjenekHB19,Mokrane Bouzeghoub
+tlsdkcs/Jamil11,Hasan M. Jamil
+tlsdkcs/AcharyaL15,Byung Suk Lee
+tlsdkcs/AcharyaL15,Saurav Acharya
+tlsdkcs/VidalCAMP16,Gabriela Montoya
+tlsdkcs/VidalCAMP16,Guillermo Palma
+tlsdkcs/VidalCAMP16,Maria-Esther Vidal
+tlsdkcs/VidalCAMP16,Maribel Acosta
+tlsdkcs/VidalCAMP16,Simón Castillo
+tlsdkcs/FernandesHP17,Edward Hermann Haeusler
+tlsdkcs/FernandesHP17,Luiz Carlos Pereira
+tlsdkcs/FernandesHP17,Ricardo Queiroz de Araujo Fernandes
+tlsdkcs/SouzaPKTS11,Ana Carolina Salgado
+tlsdkcs/SouzaPKTS11,Carlos Eduardo S. Pires
+tlsdkcs/SouzaPKTS11,Damires Souza
+tlsdkcs/SouzaPKTS11,Patricia Azevedo Tedesco
+tlsdkcs/SouzaPKTS11,Zoubida Kedad
+tlsdkcs/DongCFK18,Hanxiong Chen
+tlsdkcs/DongCFK18,Hiroyuki Kitagawa
+tlsdkcs/DongCFK18,Kazutaka Furuse
+tlsdkcs/DongCFK18,Yuyang Dong
+tlsdkcs/CruzKAK16,Hiroyuki Kitagawa
+tlsdkcs/CruzKAK16,Mateus S. H. Cruz
+tlsdkcs/CruzKAK16,Toshiyuki Amagasa
+tlsdkcs/CruzKAK16,Yusuke Kozawa
+tlsdkcs/MaamarBSRPSPBS17,Djamal Benslimane
+tlsdkcs/MaamarBSRPSPBS17,Mohamed Sellami
+tlsdkcs/MaamarBSRPSPBS17,Nayana Prakash
+tlsdkcs/MaamarBSRPSPBS17,Nelson Souto Rosa
+tlsdkcs/MaamarBSRPSPBS17,Roosevelt Silva
+tlsdkcs/MaamarBSRPSPBS17,Vanilson Arruda Burégio
+tlsdkcs/MaamarBSRPSPBS17,Zachariah Subin
+tlsdkcs/MaamarBSRPSPBS17,Zakaria Maamar
+tlsdkcs/MaamarBSRPSPBS17,Zhengshuai Peng
+tlsdkcs/MargarisV17,Costas Vassilakis
+tlsdkcs/MargarisV17,Dionisis Margaris
+tlsdkcs/KawakatsuKTA16,Akira Kinoshita
+tlsdkcs/KawakatsuKTA16,Atsuhiro Takasu
+tlsdkcs/KawakatsuKTA16,Jun Adachi
+tlsdkcs/KawakatsuKTA16,Takaya Kawakatsu
+tlsdkcs/HanCJ12a,Dawei Jiang
+tlsdkcs/HanCJ12a,Jingyu Han
+tlsdkcs/HanCJ12a,Ke-Jia Chen
+tlsdkcs/CarvalhoSR15,Fabiano Fernandes dos Santos
+tlsdkcs/CarvalhoSR15,Solange Oliveira Rezende
+tlsdkcs/CarvalhoSR15,Veronica Oliveira de Carvalho
+tlsdkcs/KosorusK14,Hilda Kosorus
+tlsdkcs/KosorusK14,Josef Küng
+tlsdkcs/KalischBR16,Alanus von Radecki
+tlsdkcs/KalischBR16,Dominik Kalisch
+tlsdkcs/KalischBR16,Steffen Braun
+tlsdkcs/BondiombouyKLV16,Boyan Kolev
+tlsdkcs/BondiombouyKLV16,Carlyna Bondiombouy
+tlsdkcs/BondiombouyKLV16,Oleksandra Levchenko
+tlsdkcs/BondiombouyKLV16,Patrick Valduriez
+tlsdkcs/Jamil11a,Hasan Jamil
+tlsdkcs/AkbariniaTPVL11,Alexandre A. B. Lima
+tlsdkcs/AkbariniaTPVL11,Esther Pacitti
+tlsdkcs/AkbariniaTPVL11,Mounir Tlili
+tlsdkcs/AkbariniaTPVL11,Patrick Valduriez
+tlsdkcs/AkbariniaTPVL11,Reza Akbarinia
+tlsdkcs/AlhadadSBL15,Nagham Alhadad
+tlsdkcs/AlhadadSBL15,Patricia Serrano-Alvarado
+tlsdkcs/AlhadadSBL15,Philippe Lamarre
+tlsdkcs/AlhadadSBL15,Yann Busnel
+tlsdkcs/ThanhD15,Anwitaman Datta
+tlsdkcs/ThanhD15,Quach Vinh Thanh
+tlsdkcs/AnceaumeBG13,Emmanuelle Anceaume
+tlsdkcs/AnceaumeBG13,Sébastien Gambs
+tlsdkcs/AnceaumeBG13,Yann Busnel
+tlsdkcs/AtzeniNP12,Paolo Atzeni
+tlsdkcs/AtzeniNP12,Pierluigi Del Nostro
+tlsdkcs/AtzeniNP12,Stefano Paolozzi
+tlsdkcs/Thalheim12a,Bernhard Thalheim
+tlsdkcs/MamiBC16,Imene Mami
+tlsdkcs/MamiBC16,Remi Coletta
+tlsdkcs/MamiBC16,Zohra Bellahsene
+tlsdkcs/DoP16,François Poulet
+tlsdkcs/DoP16,Thanh-Nghi Do
+tlsdkcs/TepandiLLRPPD17,Dirk Draheim
+tlsdkcs/TepandiLLRPPD17,Gunnar Piho
+tlsdkcs/TepandiLLRPPD17,Ingrid Pappel
+tlsdkcs/TepandiLLRPPD17,Jaak Tepandi
+tlsdkcs/TepandiLLRPPD17,Janar Linros
+tlsdkcs/TepandiLLRPPD17,Mihkel Lauk
+tlsdkcs/TepandiLLRPPD17,Priit Raspel
+tlsdkcs/TianWJNY12,Haofen Wang
+tlsdkcs/TianWJNY12,Wei Jin
+tlsdkcs/TianWJNY12,Yong Yu 0001
+tlsdkcs/TianWJNY12,Yuan Ni
+tlsdkcs/TianWJNY12,Yuan Tian
+tlsdkcs/GerlBKB18,Armin Gerl
+tlsdkcs/GerlBKB18,Harald Kosch
+tlsdkcs/GerlBKB18,Lionel Brunie
+tlsdkcs/GerlBKB18,Nadia Bennani
+tlsdkcs/EndrisGLMVA18,Ioanna Lytra
+tlsdkcs/EndrisGLMVA18,Kemele M. Endris
+tlsdkcs/EndrisGLMVA18,Maria-Esther Vidal
+tlsdkcs/EndrisGLMVA18,Mikhail Galkin
+tlsdkcs/EndrisGLMVA18,Mohamed Nadjib Mami
+tlsdkcs/EndrisGLMVA18,Sören Auer
+tlsdkcs/JaeckschL13,Bernhard Jaecksch
+tlsdkcs/JaeckschL13,Wolfgang Lehner
+tlsdkcs/AntwiV16,Daniel K. Antwi
+tlsdkcs/AntwiV16,Herna L. Viktor
+tlsdkcs/AsikiTK12a,Athanasia Asiki
+tlsdkcs/AsikiTK12a,Dimitrios Tsoumakos
+tlsdkcs/AsikiTK12a,Nectarios Koziris
+tlsdkcs/LeeKML15,Jinho Kim
+tlsdkcs/LeeKML15,Suan Lee
+tlsdkcs/LeeKML15,Wookey Lee
+tlsdkcs/LeeKML15,Yang-Sae Moon
+tlsdkcs/GrabockaS15,Josif Grabocka
+tlsdkcs/GrabockaS15,Lars Schmidt-Thieme
+tlsdkcs/BerkaniBG18,Ladjel Bellatreche
+tlsdkcs/BerkaniBG18,Laurent Guittet
+tlsdkcs/BerkaniBG18,Nabila Berkani
+tlsdkcs/Nicolae11,Bogdan Nicolae
+tlsdkcs/ZhaZLL15,Jian Lin
+tlsdkcs/ZhaZLL15,Jie Zhang
+tlsdkcs/ZhaZLL15,Li Zha
+tlsdkcs/ZhaZLL15,Wei Liu
+tlsdkcs/CaoBS12a,Huiping Cao
+tlsdkcs/CaoBS12a,Mark P. Schildhauer
+tlsdkcs/CaoBS12a,Shawn Bowers
+tlsdkcs/KritikosRK15,Dimitris Kotzinos
+tlsdkcs/KritikosRK15,Kyriakos Kritikos
+tlsdkcs/KritikosRK15,Yannis Rousakis
+tlsdkcs/CostaF15,João Pedro Costa
+tlsdkcs/CostaF15,Pedro Furtado 0001
+tlsdkcs/SalamehCC19,Haritza Camblong
+tlsdkcs/SalamehCC19,Khouloud Salameh
+tlsdkcs/SalamehCC19,Richard Chbeir
+tlsdkcs/JiangLKD16,Daniel Lowd
+tlsdkcs/JiangLKD16,Dejing Dou
+tlsdkcs/JiangLKD16,Sabin Kafle
+tlsdkcs/JiangLKD16,Shangpu Jiang
+tlsdkcs/AbdelbakiYM15,Riadh Ben Messaoud
+tlsdkcs/AbdelbakiYM15,Sadok Ben Yahia
+tlsdkcs/AbdelbakiYM15,Wiem Abdelbaki
+tlsdkcs/SessomsA14,Kemafor Anyanwu
+tlsdkcs/SessomsA14,Matthew Sessoms
+tlsdkcs/ThiD17,Que Nguyet Tran Thi
+tlsdkcs/ThiD17,Tran Khanh Dang
+tlsdkcs/ZhangCLL11,David Levy
+tlsdkcs/ZhangCLL11,Jingyu Zhang
+tlsdkcs/ZhangCLL11,Shiping Chen
+tlsdkcs/ZhangCLL11,Yongzhong Lu
+tlsdkcs/BashirR10,Andreas Rauber
+tlsdkcs/BashirR10,Shariq Bashir
+tlsdkcs/HeendaliyaLH15,Ali R. Hurson
+tlsdkcs/HeendaliyaLH15,Dan Lin 0001
+tlsdkcs/HeendaliyaLH15,Lasanthi Heendaliya
+tlsdkcs/SiksnysTP15,Christian Thomsen 0001
+tlsdkcs/SiksnysTP15,Laurynas Siksnys
+tlsdkcs/SiksnysTP15,Torben Bach Pedersen
+tlsdkcs/HartmannMV16,Hui Ma 0001
+tlsdkcs/HartmannMV16,Panrawee Vechsamutvaree
+tlsdkcs/HartmannMV16,Sven Hartmann
+tlsdkcs/CraveiroAM16,Andrés M. R. Martano
+tlsdkcs/CraveiroAM16,Gisele da Silva Craveiro
+tlsdkcs/CraveiroAM16,Jose P. Alcazar
+tlsdkcs/BacheA10,Leif Azzopardi
+tlsdkcs/BacheA10,Richard Bache
+tlsdkcs/DurandQ16,Mohamed Quafafou
+tlsdkcs/DurandQ16,Nicolas Durand 0001
+tlsdkcs/RibeiroCBN18,Alfredo Cuzzocrea
+tlsdkcs/RibeiroCBN18,Ben Hur Bahia do Nascimento
+tlsdkcs/RibeiroCBN18,Karen Aline Alves Bezerra
+tlsdkcs/RibeiroCBN18,Leonardo Andrade Ribeiro
+tlsdkcs/MaraslisCTO16,George C. Oikonomou
+tlsdkcs/MaraslisCTO16,Konstantinos Maraslis
+tlsdkcs/MaraslisCTO16,Peter Cooper
+tlsdkcs/MaraslisCTO16,Theo Tryfonas
+tlsdkcs/RoncancioVLS09,Claudia Roncancio
+tlsdkcs/RoncancioVLS09,Cyril Labbé
+tlsdkcs/RoncancioVLS09,María-Del-Pilar Villamil
+tlsdkcs/RoncancioVLS09,Patricia Serrano-Alvarado
+tlsdkcs/Kern-IsbernerBFT12a,Christoph Beierle
+tlsdkcs/Kern-IsbernerBFT12a,Gabriele Kern-Isberner
+tlsdkcs/Kern-IsbernerBFT12a,Marc Finthammer
+tlsdkcs/Kern-IsbernerBFT12a,Matthias Thimm
+tlsdkcs/VirgilioB14,Devis Bianchini
+tlsdkcs/VirgilioB14,Roberto De Virgilio
+tlsdkcs/PatelHL13,Dhaval Patel
+tlsdkcs/PatelHL13,Mong-Li Lee
+tlsdkcs/PatelHL13,Wynne Hsu
+tlsdkcs/NalepaBZ18,Filip Nalepa
+tlsdkcs/NalepaBZ18,Michal Batko
+tlsdkcs/NalepaBZ18,Pavel Zezula
+tlsdkcs/DimitrovSM15,Denis Dimitrov
+tlsdkcs/DimitrovSM15,Janet Mann
+tlsdkcs/DimitrovSM15,Lisa Singh
+tlsdkcs/YaishGF15,George Feuerlicht
+tlsdkcs/YaishGF15,Haitham Yaish
+tlsdkcs/YaishGF15,Madhu Goyal
+tlsdkcs/RautenbergSHW11,Andreas V. M. Herz
+tlsdkcs/RautenbergSHW11,Andrey Sobolev
+tlsdkcs/RautenbergSHW11,Philipp L. Rautenberg
+tlsdkcs/RautenbergSHW11,Thomas Wachtler
+tlsdkcs/MontoyaISMV14,Gabriela Montoya
+tlsdkcs/MontoyaISMV14,Hala Skaf-Molli
+tlsdkcs/MontoyaISMV14,Luis Daniel Ibáñez
+tlsdkcs/MontoyaISMV14,Maria-Esther Vidal
+tlsdkcs/MontoyaISMV14,Pascal Molli
+tlsdkcs/SabesanR12,Manivasakan Sabesan
+tlsdkcs/SabesanR12,Tore Risch
+tlsdkcs/BonifatiSPD14,Angela Bonifati
+tlsdkcs/BonifatiSPD14,Esther Pacitti
+tlsdkcs/BonifatiSPD14,Fady Draidi
+tlsdkcs/BonifatiSPD14,Gianvito Summa
+tlsdkcs/LeitaoVA09,Emmanuel Adam
+tlsdkcs/LeitaoVA09,Paul Valckenaers
+tlsdkcs/LeitaoVA09,Paulo Leitão
+tlsdkcs/ChenH13,Meichun Hsu
+tlsdkcs/ChenH13,Qiming Chen
+tlsdkcs/Khare0S14,Manish Khare
+tlsdkcs/Khare0S14,Rajneesh Kumar Srivastava
+tlsdkcs/Khare0S14,Thanh Binh Nguyen 0004
+tlsdkcs/MamiBC13,Imene Mami
+tlsdkcs/MamiBC13,Remi Coletta
+tlsdkcs/MamiBC13,Zohra Bellahsene
+tlsdkcs/BechiniG11,Alessio Bechini
+tlsdkcs/BechiniG11,Riccardo Giannini
+tlsdkcs/YoshimuraASBR16,Alexander Amini
+tlsdkcs/YoshimuraASBR16,Carlo Ratti
+tlsdkcs/YoshimuraASBR16,Josep Blat
+tlsdkcs/YoshimuraASBR16,Stanislav Sobolevsky
+tlsdkcs/YoshimuraASBR16,Yuji Yoshimura
+tlsdkcs/DraidiPK11,Bettina Kemme
+tlsdkcs/DraidiPK11,Esther Pacitti
+tlsdkcs/DraidiPK11,Fady Draidi
+tlsdkcs/KorfkampGRSKBBPA16,Alexander Beck
+tlsdkcs/KorfkampGRSKBBPA16,Alexandr Puchkovskiy
+tlsdkcs/KorfkampGRSKBBPA16,David Korfkamp
+tlsdkcs/KorfkampGRSKBBPA16,Eunice Sirri
+tlsdkcs/KorfkampGRSKBBPA16,Hans-Jürgen Appelrath
+tlsdkcs/KorfkampGRSKBBPA16,Joachim Kieschke
+tlsdkcs/KorfkampGRSKBBPA16,Kolja Blohm
+tlsdkcs/KorfkampGRSKBBPA16,Martin Rohde
+tlsdkcs/KorfkampGRSKBBPA16,Stefan Gudenkauf
+tlsdkcs/EderDSS09,Claus Dabringer
+tlsdkcs/EderDSS09,Johann Eder
+tlsdkcs/EderDSS09,Konrad Stark
+tlsdkcs/EderDSS09,Michaela Schicho
+tlsdkcs/KawamuraO14,Akihiko Ohsuga
+tlsdkcs/KawamuraO14,Takahiro Kawamura
+tlsdkcs/PoppeGRB13,Elke A. Rundensteiner
+tlsdkcs/PoppeGRB13,François Bry
+tlsdkcs/PoppeGRB13,Olga Poppe
+tlsdkcs/PoppeGRB13,Sandro Giessl
+tlsdkcs/SaririSKAG16,Dominik P. H. Kalisch
+tlsdkcs/SaririSKAG16,Michael Angelo
+tlsdkcs/SaririSKAG16,Reza Ghorbani
+tlsdkcs/SaririSKAG16,Shawyun Sariri
+tlsdkcs/SaririSKAG16,Volker Schwarzer
+tlsdkcs/Fischer-HubnerFL09,Costas Lambrinoudakis
+tlsdkcs/Fischer-HubnerFL09,Simone Fischer-Hübner
+tlsdkcs/Fischer-HubnerFL09,Steven Furnell
+tlsdkcs/HuangKD15,David Tse Jung Huang
+tlsdkcs/HuangKD15,Gillian Dobbie
+tlsdkcs/HuangKD15,Yun Sing Koh
+tlsdkcs/LiuTP13,Christian Thomsen 0001
+tlsdkcs/LiuTP13,Torben Bach Pedersen
+tlsdkcs/LiuTP13,Xiufeng Liu
+tlsdkcs/ThalheimD16,Ajantha Dahanayake
+tlsdkcs/ThalheimD16,Bernhard Thalheim
+tlsdkcs/TryfonopoulosIKR14,Christos Tryfonopoulos
+tlsdkcs/TryfonopoulosIKR14,Manolis Koubarakis
+tlsdkcs/TryfonopoulosIKR14,Paraskevi Raftopoulou
+tlsdkcs/TryfonopoulosIKR14,Stratos Idreos
+tlsdkcs/Decker17,Hendrik Decker
+tlsdkcs/WangJRMZLKPG15,Dimitrios Georgakopoulos
+tlsdkcs/WangJRMZLKPG15,Eddie Li
+tlsdkcs/WangJRMZLKPG15,Karan Mitra
+tlsdkcs/WangJRMZLKPG15,Meisong Wang
+tlsdkcs/WangJRMZLKPG15,Miranda Zhang
+tlsdkcs/WangJRMZLKPG15,Mukkaddim Pathan
+tlsdkcs/WangJRMZLKPG15,Prem Prakash Jayaraman
+tlsdkcs/WangJRMZLKPG15,Rajiv Ranjan
+tlsdkcs/WangJRMZLKPG15,Samee Ullah Khan
+tlsdkcs/Rahhal17,Charbel Rahhal
+tlsdkcs/TsangKD13,Gillian Dobbie
+tlsdkcs/TsangKD13,Sidney Tsang
+tlsdkcs/TsangKD13,Yun Sing Koh
+tlsdkcs/ChongGKL11,Mohamed Medhat Gaber
+tlsdkcs/ChongGKL11,Seng Wai Loke
+tlsdkcs/ChongGKL11,Shonali Krishnaswamy
+tlsdkcs/ChongGKL11,Suan Khai Chong
+tlsdkcs/NovakZ16,David Novak
+tlsdkcs/NovakZ16,Pavel Zezula
+tlsdkcs/MahfoudI15,Abdessamad Imine
+tlsdkcs/MahfoudI15,Houari Mahfoud
+tlsdkcs/StahlGAMLBY12,David May 0004
+tlsdkcs/StahlGAMLBY12,Frederic T. Stahl
+tlsdkcs/StahlGAMLBY12,Han Liu
+tlsdkcs/StahlGAMLBY12,Max Bramer
+tlsdkcs/StahlGAMLBY12,Mohamed Medhat Gaber
+tlsdkcs/StahlGAMLBY12,Paul Aldridge
+tlsdkcs/StahlGAMLBY12,Philip S. Yu
+tlsdkcs/BasuLCVYSB16,Debabrota Basu
+tlsdkcs/BasuLCVYSB16,Hoang Tam Vo
+tlsdkcs/BasuLCVYSB16,Pierre Senellart
+tlsdkcs/BasuLCVYSB16,Qian Lin
+tlsdkcs/BasuLCVYSB16,Stéphane Bressan
+tlsdkcs/BasuLCVYSB16,Weidong Chen 0004
+tlsdkcs/BasuLCVYSB16,Zihong Yuan
+tlsdkcs/EzeifeZ14,Christie I. Ezeife
+tlsdkcs/EzeifeZ14,Dan Zhang
+tlsdkcs/GraefeK10,Goetz Graefe
+tlsdkcs/GraefeK10,Harumi A. Kuno
+tlsdkcs/GhandeharizadehAH19,Haoyu Huang
+tlsdkcs/GhandeharizadehAH19,Marwan Almaymoni
+tlsdkcs/GhandeharizadehAH19,Shahram Ghandeharizadeh
+tlsdkcs/QuimbayaRCV11,Alexandra Pomares Quimbaya
+tlsdkcs/QuimbayaRCV11,Claudia Roncancio
+tlsdkcs/QuimbayaRCV11,María-Del-Pilar Villamil
+tlsdkcs/QuimbayaRCV11,Van-Dat Cung
+tlsdkcs/BenkridBC14,Alfredo Cuzzocrea
+tlsdkcs/BenkridBC14,Ladjel Bellatreche
+tlsdkcs/BenkridBC14,Soumia Benkrid
+tlsdkcs/BouraouiCB11,Ahmed Bouridane
+tlsdkcs/BouraouiCB11,Imen Bouraoui
+tlsdkcs/BouraouiCB11,Salim Chitroub
+tlsdkcs/VirgilioM12,Franco Milicchio
+tlsdkcs/VirgilioM12,Roberto De Virgilio
+tlsdkcs/Quang-HungST16,Nam Thoai
+tlsdkcs/Quang-HungST16,Nguyen Quang-Hung
+tlsdkcs/Quang-HungST16,Nguyen Thanh Son 0002
+tlsdkcs/BadrV15,Dan Vodislav
+tlsdkcs/BadrV15,Mehdi Badr
+tlsdkcs/RaniKH17,Dileep Kumar Koshley
+tlsdkcs/RaniKH17,Raju Halder
+tlsdkcs/RaniKH17,Sapana Rani
+tlsdkcs/Iam-onB13,Natthakan Iam-on
+tlsdkcs/Iam-onB13,Tossapon Boongoen
+tlsdkcs/PappelPTD17,Dirk Draheim
+tlsdkcs/PappelPTD17,Ingmar Pappel
+tlsdkcs/PappelPTD17,Ingrid Pappel
+tlsdkcs/PappelPTD17,Jaak Tepandi
+tlsdkcs/HarbMLBJ15,Abdallah Makhoul
+tlsdkcs/HarbMLBJ15,Ali Jaber
+tlsdkcs/HarbMLBJ15,David Laiymani
+tlsdkcs/HarbMLBJ15,Hassan Harb
+tlsdkcs/HarbMLBJ15,Oussama Bazzi
+tlsdkcs/WorksR14,Elke A. Rundensteiner
+tlsdkcs/WorksR14,Karen Works
+tlsdkcs/Kellou-MenouerK16,Kenza Kellou-Menouer
+tlsdkcs/Kellou-MenouerK16,Zoubida Kedad
+tlsdkcs/NguyenD16,Thi Ai Thao Nguyen
+tlsdkcs/NguyenD16,Tran Khanh Dang
+tlsdkcs/Besnard17,Philippe Besnard
+tlsdkcs/SakkaD12,Bruno Defude
+tlsdkcs/SakkaD12,Mohamed Amin Sakka
+tlsdkcs/ChakrabortyS12,Abhirup Chakraborty
+tlsdkcs/ChakrabortyS12,Ajit Singh
+tlsdkcs/HassanRTTZ15,Ali Hassan
+tlsdkcs/HassanRTTZ15,Franck Ravat
+tlsdkcs/HassanRTTZ15,Gilles Zurfluh
+tlsdkcs/HassanRTTZ15,Olivier Teste
+tlsdkcs/HassanRTTZ15,Ronan Tournier
+tlsdkcs/HaddadinL10,Kais Haddadin
+tlsdkcs/HaddadinL10,Tobias Lauer
+tlsdkcs/ServajeanPLAA15,Amr El Abbadi
+tlsdkcs/ServajeanPLAA15,Esther Pacitti
+tlsdkcs/ServajeanPLAA15,Maximilien Servajean
+tlsdkcs/ServajeanPLAA15,Miguel Liroz-Gistau
+tlsdkcs/ServajeanPLAA15,Sihem Amer-Yahia
+tlsdkcs/BaFD16,Mireille Ducassé
+tlsdkcs/BaFD16,Mouhamadou Ba
+tlsdkcs/BaFD16,Sébastien Ferré
+tlsdkcs/AlgergawyMSES14,Ali Eldosouky
+tlsdkcs/AlgergawyMSES14,Alsayed Algergawy
+tlsdkcs/AlgergawyMSES14,Amany M. Sarhan
+tlsdkcs/AlgergawyMSES14,Gunter Saake
+tlsdkcs/AlgergawyMSES14,Seham Moawed
+tlsdkcs/NodarakisPSTTT16,Athanasios K. Tsakalidis
+tlsdkcs/NodarakisPSTTT16,Dimitrios Tsoumakos
+tlsdkcs/NodarakisPSTTT16,Evaggelia Pitoura
+tlsdkcs/NodarakisPSTTT16,Giannis Tzimas
+tlsdkcs/NodarakisPSTTT16,Nikolaos Nodarakis
+tlsdkcs/NodarakisPSTTT16,Spyros Sioutas
+tlsdkcs/BorekSKR16,Kurt Stenzel
+tlsdkcs/BorekSKR16,Kuzman Katkalov
+tlsdkcs/BorekSKR16,Marian Borek
+tlsdkcs/BorekSKR16,Wolfgang Reif
+tlsdkcs/SilvestreBPMS15,David Buffoni
+tlsdkcs/SilvestreBPMS15,Guthemberg Silvestre
+tlsdkcs/SilvestreBPMS15,Karine Pires
+tlsdkcs/SilvestreBPMS15,Pierre Sens
+tlsdkcs/SilvestreBPMS15,Sébastien Monnet
+tlsdkcs/LeNTN16,Khuong Nguyen-An
+tlsdkcs/LeNTN16,Lam-Son Lê
+tlsdkcs/LeNTN16,Thai-Minh Truong
+tlsdkcs/LeNTN16,Trung-Viet Nguyen
+tlsdkcs/IijimaKSTO16,Akihiko Ohsuga
+tlsdkcs/IijimaKSTO16,Takahiro Kawamura
+tlsdkcs/IijimaKSTO16,Teruyuki Iijima
+tlsdkcs/IijimaKSTO16,Yasuyuki Tahara
+tlsdkcs/IijimaKSTO16,Yuichi Sei
+tlsdkcs/BianchiniCAFQT14,Alfio Ferrara
+tlsdkcs/BianchiniCAFQT14,Devis Bianchini
+tlsdkcs/BianchiniCAFQT14,Elisa Quintarelli
+tlsdkcs/BianchiniCAFQT14,Letizia Tanca
+tlsdkcs/BianchiniCAFQT14,Silvana Castano
+tlsdkcs/BianchiniCAFQT14,Valeria De Antonellis
+tlsdkcs/AljumahPD17,Feras Aljumah
+tlsdkcs/AljumahPD17,Makan Pourzandi
+tlsdkcs/AljumahPD17,Mourad Debbabi
+tlsdkcs/GuoHPF13,Alvaro A. A. Fernandes
+tlsdkcs/GuoHPF13,Chenjuan Guo
+tlsdkcs/GuoHPF13,Cornelia Hedeler
+tlsdkcs/GuoHPF13,Norman W. Paton
+tlsdkcs/FerraraGMC15,Alfio Ferrara
+tlsdkcs/FerraraGMC15,Lorenzo Genta
+tlsdkcs/FerraraGMC15,Silvana Castano
+tlsdkcs/FerraraGMC15,Stefano Montanelli
+tlsdkcs/NgD10,Manoranjan Dash
+tlsdkcs/NgD10,Willie Ng
+tlsdkcs/VenkateshKRK18,J. N. Venkatesh
+tlsdkcs/VenkateshKRK18,Masaru Kitsuregawa
+tlsdkcs/VenkateshKRK18,P. Krishna Reddy
+tlsdkcs/VenkateshKRK18,R. Uday Kiran
+tlsdkcs/TranTS09,David Taniar
+tlsdkcs/TranTS09,Maytham Safar
+tlsdkcs/TranTS09,Quoc Thai Tran
+tlsdkcs/MunozN18,Emir Muñoz
+tlsdkcs/MunozN18,Matthias Nickles
+tlsdkcs/BonfanteCGILLMMRV11,Alessia Visconti
+tlsdkcs/BonfanteCGILLMMRV11,Dino Ienco
+tlsdkcs/BonfanteCGILLMMRV11,Francesca Cordero
+tlsdkcs/BonfanteCGILLMMRV11,Giorgio Leonardi
+tlsdkcs/BonfanteCGILLMMRV11,Luca Roversi
+tlsdkcs/BonfanteCGILLMMRV11,Luisa Lanfranco
+tlsdkcs/BonfanteCGILLMMRV11,Paola Bonfante
+tlsdkcs/BonfanteCGILLMMRV11,Rosa Meo
+tlsdkcs/BonfanteCGILLMMRV11,Stefania Montani
+tlsdkcs/BonfanteCGILLMMRV11,Stefano Ghignone
+tlsdkcs/FilaliBHB11,Fabrice Huet
+tlsdkcs/FilaliBHB11,Francesco Bongiovanni
+tlsdkcs/FilaliBHB11,Françoise Baude
+tlsdkcs/FilaliBHB11,Imen Filali
+tlsdkcs/VilladsenS17,Anders Schlichtkrull
+tlsdkcs/VilladsenS17,Jørgen Villadsen
+tlsdkcs/XuHLP13,Dhaval Patel
+tlsdkcs/XuHLP13,Enliang Xu
+tlsdkcs/XuHLP13,Mong-Li Lee
+tlsdkcs/XuHLP13,Wynne Hsu
+tlsdkcs/MohammedHS17,Hadi Mohammed
+tlsdkcs/MohammedHS17,Ibrahim A. Hameed
+tlsdkcs/MohammedHS17,Razak Seidu
+tlsdkcs/MaWZ15,Anqi Wang
+tlsdkcs/MaWZ15,Hui Ma
+tlsdkcs/MaWZ15,Mengjie Zhang
+tlsdkcs/MishraM016,Samrat Mondal
+tlsdkcs/MishraM016,Sriparna Saha 0001
+tlsdkcs/MishraM016,Sumit Mishra
+tlsdkcs/BahiHHK13,Hamamache Kheddouci
+tlsdkcs/BahiHHK13,Jacques M. Bahi
+tlsdkcs/BahiHHK13,Mohammed Haddad
+tlsdkcs/BahiHHK13,Mourad Hakem
+tlsdkcs/TangASB16,Antoine Amarilli
+tlsdkcs/TangASB16,Pierre Senellart
+tlsdkcs/TangASB16,Ruiming Tang
+tlsdkcs/TangASB16,Stéphane Bressan
+tlsdkcs/MannaORAL12,Ermelinda Oro
+tlsdkcs/MannaORAL12,Marco Manna
+tlsdkcs/MannaORAL12,Mario Alviano
+tlsdkcs/MannaORAL12,Massimo Ruffolo
+tlsdkcs/MannaORAL12,Nicola Leone
+tlsdkcs/VlachouDK12,Akrivi Vlachou
+tlsdkcs/VlachouDK12,Christos Doulkeridis
+tlsdkcs/VlachouDK12,Yannis Kotidis
+tlsdkcs/BouchouAL12a,Béatrice Bouchou
+tlsdkcs/BouchouAL12a,Maria Adriana Vidigal de Lima
+tlsdkcs/BouchouAL12a,Mirian Halfeld Ferrari Alves
+tlsdkcs/CaoKXMTTB13,Baljeet Malhotra
+tlsdkcs/CaoKXMTTB13,Jianneng Cao
+tlsdkcs/CaoKXMTTB13,Kian-Lee Tan
+tlsdkcs/CaoKXMTTB13,Shili Xiang
+tlsdkcs/CaoKXMTTB13,Stéphane Bressan
+tlsdkcs/CaoKXMTTB13,Thomas Kister
+tlsdkcs/CaoKXMTTB13,Wee-Juan Tan
+tlsdkcs/MahboubiAV19,Patrick Valduriez
+tlsdkcs/MahboubiAV19,Reza Akbarinia
+tlsdkcs/MahboubiAV19,Sakina Mahboubi
+tlsdkcs/StahlMMBG15,David May 0004
+tlsdkcs/StahlMMBG15,Frederic T. Stahl
+tlsdkcs/StahlMMBG15,Hugo Mills
+tlsdkcs/StahlMMBG15,Max Bramer
+tlsdkcs/StahlMMBG15,Mohamed Medhat Gaber
+tlsdkcs/EgamiKSTO16,Akihiko Ohsuga
+tlsdkcs/EgamiKSTO16,Shusaku Egami
+tlsdkcs/EgamiKSTO16,Takahiro Kawamura
+tlsdkcs/EgamiKSTO16,Yasuyuki Tahara
+tlsdkcs/EgamiKSTO16,Yuichi Sei
+tlsdkcs/LahiriAM13,Bibudh Lahiri
+tlsdkcs/LahiriAM13,Fabian Moerchen
+tlsdkcs/LahiriAM13,Ioannis Akrotirianakis
+tlsdkcs/BarahmandG16,Shahram Ghandeharizadeh
+tlsdkcs/BarahmandG16,Sumita Barahmand
+tlsdkcs/MansourCA18,Elio Mansour
+tlsdkcs/MansourCA18,Philippe Arnould
+tlsdkcs/MansourCA18,Richard Chbeir
+tlsdkcs/BouadiCQ13,Marie-Odile Cordier
+tlsdkcs/BouadiCQ13,René Quiniou
+tlsdkcs/BouadiCQ13,Tassadit Bouadi
+tlsdkcs/CuzzocreaJLLPT15,Aaron M. Peddle
+tlsdkcs/CuzzocreaJLLPT15,Alfredo Cuzzocrea
+tlsdkcs/CuzzocreaJLLPT15,Carson Kai-Sang Leung
+tlsdkcs/CuzzocreaJLLPT15,Dacheng Liu
+tlsdkcs/CuzzocreaJLLPT15,Fan Jiang 0001
+tlsdkcs/CuzzocreaJLLPT15,Syed Khairuzzaman Tanbeer
+tlsdkcs/Fegaras18,Leonidas Fegaras
+tlsdkcs/AbdullahiCM16,Fatimah Binta Abdullahi
+tlsdkcs/AbdullahiCM16,Frans Coenen
+tlsdkcs/AbdullahiCM16,Russell Martin
+tlsdkcs/AlharbiAS17,Anthony S. Atkins
+tlsdkcs/AlharbiAS17,Clare Stanier
+tlsdkcs/AlharbiAS17,Fawaz Alharbi
+tlsdkcs/HedelerBMGALPFE12,Alvaro A. A. Fernandes
+tlsdkcs/HedelerBMGALPFE12,Bernadette Farias Lóscio
+tlsdkcs/HedelerBMGALPFE12,Chenjuan Guo
+tlsdkcs/HedelerBMGALPFE12,Cornelia Hedeler
+tlsdkcs/HedelerBMGALPFE12,Ian Arundale
+tlsdkcs/HedelerBMGALPFE12,Khalid Belhajjame
+tlsdkcs/HedelerBMGALPFE12,Lu Mao
+tlsdkcs/HedelerBMGALPFE12,Norman W. Paton
+tlsdkcs/HedelerBMGALPFE12,Suzanne M. Embury
+tlsdkcs/ZamiteSCS11,Fabrício A. B. da Silva
+tlsdkcs/ZamiteSCS11,Francisco M. Couto
+tlsdkcs/ZamiteSCS11,João Zamite
+tlsdkcs/ZamiteSCS11,Mário J. Silva
+tlsdkcs/AttardOA16,Fabrizio Orlandi
+tlsdkcs/AttardOA16,Judie Attard
+tlsdkcs/AttardOA16,Sören Auer
+tlsdkcs/MinhT17,Michel Toulouse
+tlsdkcs/MinhT17,Quang Tran Minh 0001
+tlsdkcs/BollweinW18,Ferdinand Bollwein
+tlsdkcs/BollweinW18,Lena Wiese
+tlsdkcs/Seki15,Kazuhiro Seki
+tlsdkcs/MatuleviciusNUN17,Alex Norta
+tlsdkcs/MatuleviciusNUN17,Chibuzor Udokwu
+tlsdkcs/MatuleviciusNUN17,Raimundas Matulevicius
+tlsdkcs/MatuleviciusNUN17,Rein Nõukas
+tlsdkcs/AlghamdiR16,Abdullah Alghamdi
+tlsdkcs/AlghamdiR16,Md. Mahbubur Rahim
+tlsdkcs/BoukadiGMBV09,Chirine Ghedira
+tlsdkcs/BoukadiGMBV09,Djamal Benslimane
+tlsdkcs/BoukadiGMBV09,Khouloud Boukadi
+tlsdkcs/BoukadiGMBV09,Lucien Vincent
+tlsdkcs/BoukadiGMBV09,Zakaria Maamar
+tlsdkcs/ChristodoulouSFP18,Alvaro A. A. Fernandes
+tlsdkcs/ChristodoulouSFP18,Fernando Rene Sanchez Serrano
+tlsdkcs/ChristodoulouSFP18,Klitos Christodoulou
+tlsdkcs/ChristodoulouSFP18,Norman W. Paton
+tlsdkcs/HartogDGL15,Jessica Hartog
+tlsdkcs/HartogDGL15,Madhusudhan Govindaraju
+tlsdkcs/HartogDGL15,Michael J. Lewis
+tlsdkcs/HartogDGL15,Renan Delvalle
+tlsdkcs/Draheim09,Dirk Draheim
+tlsdkcs/SassiTO12,Habib Ounelli
+tlsdkcs/SassiTO12,Minyar Sassi
+tlsdkcs/SassiTO12,Oussama Tlili
+tlsdkcs/Bench-CaponAW15,Adam Z. Wyner
+tlsdkcs/Bench-CaponAW15,Katie Atkinson
+tlsdkcs/Bench-CaponAW15,Trevor J. M. Bench-Capon
+tlsdkcs/TranNLV16,Ha Manh Tran
+tlsdkcs/TranNLV16,Quy Tran Vu
+tlsdkcs/TranNLV16,Sinh Van Nguyen
+tlsdkcs/TranNLV16,Son Thanh Le
+tlsdkcs/MarquesuzaaELNL16,Christophe Marquesuzaà
+tlsdkcs/MarquesuzaaELNL16,Patrick Etcheverry
+tlsdkcs/MarquesuzaaELNL16,Sébastien Laborie
+tlsdkcs/MarquesuzaaELNL16,The Nhan Luong
+tlsdkcs/MarquesuzaaELNL16,Thierry Nodenot
+tlsdkcs/SongBD15,Gillian Dobbie
+tlsdkcs/SongBD15,Stéphane Bressan
+tlsdkcs/SongBD15,Yi Song
+tlsdkcs/RamampiaroL11,Chen Li 0001
+tlsdkcs/RamampiaroL11,Heri Ramampiaro

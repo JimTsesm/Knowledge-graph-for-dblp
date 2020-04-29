@@ -1,0 +1,1842 @@
+key,keyword1,keyword2,keyword3
+thipeac/GolanderW09,data storage,indexing,indexing
+thipeac/ChoiPD09,indexing,keyword3,big data
+thipeac/SarkarT11,data processing,keyword4,keyword1
+thipeac/AnsariLKJKW11,keyword2,keyword4,data processing
+thipeac/Waliullah11,keyword1,data processing,keyword1
+thipeac/OBoyleBC07,keyword3,data management,indexing
+thipeac/CopeCLH11,data processing,data management,keyword2
+thipeac/LiaoJS11,data management,keyword1,big data
+thipeac/KhanK11,data storage,computer vision,keyword1
+thipeac/WuYWHRGZ11,keyword4,keyword2,indexing
+thipeac/VandeputteE11a,keyword4,keyword2,keyword2
+thipeac/AnsariLKJKW11a,keyword3,keyword3,keyword4
+thipeac/HuJK09,indexing,indexing,keyword1
+thipeac/SusuMAAM07,keyword2,data modeling,keyword2
+thipeac/BuytaertVEB07,data querying,data management,data processing
+thipeac/GoudarziIN11,keyword1,data modeling,data management
+thipeac/VandeputteE11,keyword2,data querying,data modeling
+thipeac/LatorreMGCG11,computer vision,keyword2,keyword1
+thipeac/GeigerMT07,keyword4,data storage,keyword3
+thipeac/MolnosCHE07,keyword2,big data,big data
+thipeac/YuanYF11,computer vision,keyword4,keyword1
+thipeac/FursinCOT07,computer vision,big data,keyword1
+thipeac/BeiuMKM11,keyword3,keyword3,data storage
+thipeac/KlugOWT11,keyword3,data querying,data processing
+thipeac/LinC11,data storage,computer vision,data querying
+thipeac/JonesOAG11,data querying,computer vision,data storage
+thipeac/RyooURKFH07,keyword3,data management,keyword2
+thipeac/KhatibBPBJBKHNJ07,keyword1,indexing,indexing
+thipeac/VandierendonckS09,keyword1,indexing,keyword4
+thipeac/AzevedoJMTHARV11,data processing,keyword2,data management
+thipeac/SonK07,indexing,keyword2,big data
+thipeac/Wilkes07,indexing,keyword1,data modeling
+thipeac/Stenstrom07,data storage,keyword3,computer vision
+thipeac/McKee07,indexing,keyword2,data storage
+thipeac/HenryN11,data querying,keyword1,data management
+thipeac/OsborneLCM11,keyword4,computer vision,keyword2
+thipeac/SaidaniLFTB11,data modeling,keyword3,data storage
+thipeac/BlumrichSG11,indexing,big data,data modeling
+thipeac/NethercoteBM07,keyword1,computer vision,data management
+thipeac/PlishkerSKB11,big data,data querying,keyword4
+thipeac/LlorenteKWH11,keyword1,data modeling,data processing
+thipeac/ChenK07,data querying,keyword1,keyword1
+thipeac/MuralidharaK11,keyword2,keyword2,keyword4
+thipeac/MoretoCRV11,computer vision,data modeling,data modeling
+thipeac/KoteraAETK11,computer vision,keyword2,big data
+thipeac/KeramidasXK09,keyword1,big data,keyword2
+thipeac/KluyskensE09,data management,data querying,keyword2
+thipeac/PinterW07,data storage,data management,keyword4
+thipeac/OliverFCA07,data processing,data management,big data
+thipeac/AhnP09,data processing,big data,data modeling
+thipeac/JahreN11,data querying,data modeling,data processing
+thipeac/BartoliniFP11,data modeling,computer vision,data processing
+thipeac/DevosCVS11,data processing,big data,data modeling
+thipeac/JaddoeTP11,data modeling,keyword4,data processing
+thipeac/IbrahimN09,data processing,data processing,keyword3
+thipeac/SazeidesMCK11,data modeling,data modeling,data management
+thipeac/MahoneySBP09,indexing,data processing,keyword3
+thipeac/RullmannM11,computer vision,data querying,computer vision
+thipeac/NingK07,keyword4,indexing,data processing
+thipeac/WadaHMSNSKK11,big data,keyword1,big data
+thipeac/StenstromW09,data querying,data storage,data management
+thipeac/RochangeS09,data processing,keyword4,big data
+thipeac/BhadauriaMST09,keyword3,keyword1,keyword1
+thipeac/NagarajanGK09,keyword1,data processing,keyword3
+thipeac/HoogerbruggeT11,keyword4,keyword1,keyword2
+thipeac/FakhreddineAAJ07,computer vision,data management,keyword2
+thipeac/CanedoAS09,keyword4,indexing,data processing
+thipeac/WelcS11,keyword3,data modeling,big data
+thipeac/BosschereLMNOPRSSST07,indexing,keyword1,keyword4
+thipeac/ShiLL07,data storage,data processing,computer vision
+thipeac/ChanetCMNB09,data processing,keyword3,computer vision
+thipeac/DevosBCCDS07,keyword1,indexing,data processing
+thipeac/Aggarwal09,data querying,keyword1,data modeling
+jgtools/Frisvad12,computer vision,keyword2,big data
+jgtools/SeoA12,data modeling,computer vision,indexing
+jgtools/SchretterKD12,keyword3,data storage,big data
+jgtools/AnjyoTL12,big data,big data,data modeling
+jgtools/ManoharanR13,data querying,data querying,big data
+jgtools/LeBlancSAB12,data querying,data modeling,data processing
+jgtools/IwanickiS12,data processing,data processing,data querying
+jgtools/Tarini12,computer vision,keyword2,keyword1
+jgtools/ChampagnatS12,data management,data modeling,indexing
+jgtools/Pfeifle12,keyword2,data processing,data modeling
+jgtools/UpchurchD12,computer vision,computer vision,keyword2
+jgtools/McEwanSRG12,keyword4,data querying,data management
+jgtools/Pobegailo13,big data,keyword3,computer vision
+jgtools/MousasNA13,data storage,keyword2,keyword1
+jgtools/Jacobson13,data processing,data modeling,indexing
+jgtools/Ray12,data querying,data management,data modeling
+jgtools/YuanNS12,data management,indexing,big data
+jgtools/NunesVRFT12,keyword3,data storage,keyword1
+jgtools/FrogleyJ13,indexing,computer vision,keyword4
+jgtools/Kenwright12,data storage,keyword4,keyword4
+jgtools/VoSSP12,keyword3,data modeling,keyword2
+jods/SaboudM08,data processing,data modeling,big data
+jods/PerniciS03,data querying,big data,big data
+jods/WuLCX11,data management,data querying,data storage
+jods/RoserB08,keyword4,data processing,keyword4
+jods/SimperlS07,keyword1,keyword1,computer vision
+jods/GeorgeS06,indexing,keyword4,data processing
+jods/MeoQTU07,data storage,data querying,data modeling
+jods/YangK03,data storage,keyword2,data processing
+jods/BettiniWJ05,data modeling,data processing,keyword4
+jods/DasiopoulouKS09,data storage,data storage,data processing
+jods/Piprani08,data management,computer vision,data querying
+jods/JarrarDM03,computer vision,indexing,data storage
+jods/VolzSM05,keyword3,keyword3,data management
+jods/RinderleR07,indexing,computer vision,keyword2
+jods/CleveMH11,computer vision,computer vision,keyword3
+jods/KarabatisCJLALF09,keyword1,data querying,big data
+jods/ChungM05,big data,indexing,data querying
+jods/EuzenatMSSS11,keyword1,keyword4,big data
+jods/GugliottaDCTGDGRRS08,data processing,data storage,keyword1
+jods/PirroRT09,indexing,data processing,keyword1
+jods/SegevG07,data storage,keyword1,keyword4
+jods/AlbertoniM08,data querying,big data,data management
+jods/JaudoinFPT09,keyword4,data querying,data querying
+jods/MecellaSVBCB03,keyword3,data processing,big data
+jods/GrozaHD11,data modeling,data querying,keyword4
+jods/TournairePRT11,data modeling,keyword3,keyword2
+jods/AtzeniBBG09,keyword2,keyword1,data modeling
+jods/SaisPR09,indexing,data management,indexing
+jods/BrambillaCCCVFTT08,data querying,data storage,data storage
+jods/PoggiLCGLR08,data management,data management,big data
+jods/SureAS03,computer vision,data querying,data modeling
+jods/PinetS09,data management,data management,keyword1
+jods/Pierra08,keyword4,keyword3,indexing
+jods/KodaliFW05,keyword4,data modeling,indexing
+jods/LeeSL05,data querying,keyword4,data processing
+jods/BrownP09,data modeling,data management,data processing
+jods/SkoutasSS09,data querying,keyword3,data processing
+jods/PapastefanatosVSV09,data management,data querying,keyword3
+jods/TroyerBK09,indexing,data storage,computer vision
+jods/NebotLPAP09,keyword1,computer vision,data storage
+jods/GiunchigliaYS07,data processing,keyword4,data querying
+jods/Mawlood-YunisWS11,keyword2,indexing,keyword1
+jods/DouMQ05,data modeling,keyword2,computer vision
+jods/CookeGN05,keyword4,data processing,keyword2
+jods/HurtadoPW08,data modeling,indexing,data processing
+jods/TzitzikasAS05,keyword3,keyword3,data management
+jods/KalfoglouS03,computer vision,keyword4,computer vision
+jods/BorgidaS03,data querying,data modeling,data modeling
+jods/BanerjeeD09,indexing,keyword3,keyword3
+jods/BrunzelS08,keyword3,keyword3,keyword4
+jods/NiinimakiN09,data querying,keyword4,keyword1
+jods/Majkic09,keyword4,big data,keyword3
+jods/FletcherW09,data modeling,keyword4,keyword3
+jods/SantosMQV08,keyword1,keyword2,data storage
+jods/CaliLPS09,big data,computer vision,keyword2
+jods/LamSPV08,keyword3,computer vision,keyword2
+jods/GiorginiMNS03,data querying,keyword3,data processing
+jods/MorkSRKW08,data storage,indexing,data modeling
+jods/HerschelHBC06,indexing,keyword4,data modeling
+jods/WangP08,keyword3,keyword3,keyword3
+jods/ParsonsW03,keyword2,data processing,computer vision
+fomac/HolzlG16,data querying,keyword2,computer vision
+fomac/SteffenN16,keyword1,keyword4,data storage
+fomac/Lindvall0TDH16,data processing,indexing,data modeling
+fomac/Tripakis16,data querying,computer vision,keyword1
+fomac/Felderer16,keyword3,data management,data storage
+fomac/CelebicBF16,keyword4,data querying,big data
+fomac/Margaria16,data modeling,data querying,keyword3
+fomac/BubelDHJOSY16,keyword1,data management,keyword3
+fomac/LegayT16,keyword4,data processing,data storage
+fomac/Rensink16,indexing,data querying,data storage
+fomac/BelznerHKW16,data processing,indexing,data querying
+fomac/HavelundK16,indexing,keyword4,computer vision
+fomac/Steffen16,data processing,keyword3,data management
+tdhms/LiuGWY14,indexing,data querying,keyword4
+tdhms/ChaK10,keyword2,big data,data management
+tdhms/Yamaguchi14,keyword1,big data,keyword2
+tdhms/ItoK10,computer vision,data storage,big data
+tdhms/LiuYLW14,big data,data processing,data storage
+tdhms/MeerwaldU12,data management,keyword4,keyword1
+tdhms/XuanSCTNT09,data processing,data processing,data management
+tdhms/PiperS09,big data,data management,data storage
+tdhms/EchizenYG12,computer vision,data storage,data querying
+tdhms/Vila-ForcenVKPP08,big data,data storage,data management
+tdhms/YanWESN14,keyword2,keyword1,data management
+tdhms/EchizenYG15,keyword2,computer vision,data processing
+tdhms/BierbrauerF08,keyword2,data processing,keyword2
+tdhms/JiangHT09,data management,keyword3,keyword3
+tdhms/ZmudzinskiSB12,indexing,data management,data querying
+tdhms/LiuYZG11,keyword3,data storage,data storage
+tdhms/LaadjelBKNY10,keyword2,indexing,data querying
+tdhms/SubramanyamE11,keyword3,data management,keyword3
+tdhms/WuC12,data management,keyword2,keyword3
+tdhms/YangJK11,keyword1,data querying,data modeling
+tdhms/LiuT09,keyword3,data processing,data querying
+tdhms/Al-AssamASJ12,data querying,keyword3,indexing
+tdhms/WeirY10,data processing,data management,data management
+tdhms/KraetzerD12,keyword4,keyword3,keyword3
+tdhms/LiuC15,keyword4,data management,data processing
+tdhms/Venturini08,data processing,data management,computer vision
+tdhms/CimatoYW14,data querying,keyword3,computer vision
+tdhms/YamadaEY12,keyword1,data modeling,indexing
+tdhms/XiaZFW15,keyword2,data querying,data processing
+tdhms/SurRM12,keyword3,indexing,data storage
+tdhms/MakrushinSV12,keyword4,keyword1,data querying
+tdhms/FuY14,data modeling,keyword4,data processing
+tdhms/NealE15,data management,keyword3,big data
+tdhms/AycockC15,keyword1,indexing,computer vision
+tdhms/XiangK11,data modeling,keyword4,keyword2
+tdhms/WeirY10a,data processing,data querying,data processing
+tdhms/MetternichWS10,indexing,data management,data modeling
+tdhms/Gloe12,data processing,data storage,data management
+tdhms/ZhaoSA12,data querying,data modeling,data modeling
+tdhms/QiQ09,data querying,keyword1,data storage
+tdhms/CaoK12,keyword1,data modeling,data storage
+tdhms/JohnsonSLGB15,keyword1,data modeling,big data
+tdhms/SutthiwanSZNS11,keyword3,keyword1,keyword2
+tdhms/KorzhikISMG08,keyword2,keyword3,big data
+tdhms/YampolskiyMH14,data management,keyword1,keyword4
+tdhms/JamzadK08,keyword3,keyword1,computer vision
+tcsb/YuanTPMWS12,data querying,keyword3,data storage
+tcsb/AndreiC12,data processing,data management,data querying
+tcsb/FeytmansNP05,big data,indexing,keyword3
+tcsb/ForestieroMPS08,data processing,indexing,data modeling
+tcsb/RemyR07,computer vision,data management,big data
+tcsb/RuedaBN08,keyword1,indexing,keyword4
+tcsb/PriamiQ05,keyword3,data modeling,data querying
+tcsb/Ciocchetta08,indexing,keyword3,data querying
+tcsb/Chesi09,keyword4,big data,computer vision
+tcsb/SaffreyMHVYFBW07,data modeling,data querying,indexing
+tcsb/MandoiuPT05,data processing,data querying,keyword2
+tcsb/DassowM09,keyword2,data storage,big data
+tcsb/ZhengL05,data querying,big data,computer vision
+tcsb/Ciocchetta09,data management,keyword3,keyword1
+tcsb/ZobeleyLKIK05,keyword1,keyword3,keyword4
+tcsb/BortolussiP09,data storage,keyword2,keyword2
+tcsb/BeyerTLSF10,data processing,indexing,data storage
+tcsb/RadulescuSPCL11,keyword3,data storage,keyword4
+tcsb/XuZ05,computer vision,data processing,data modeling
+tcsb/WangNGR08,data querying,computer vision,keyword3
+tcsb/DanosFFHK09,data querying,indexing,keyword3
+tcsb/WallaceW11,keyword3,data storage,data storage
+tcsb/SongSHA05,data management,keyword2,big data
+tcsb/HakkinenBSYR11,data management,keyword2,keyword2
+tcsb/DavidBM09,data management,data management,data querying
+tcsb/Wallace12,keyword4,data management,keyword3
+tcsb/BrimFDS12,data processing,keyword4,keyword3
+tcsb/LiuSMC05,keyword2,data querying,data processing
+tcsb/GomezAPGJV05,data modeling,data management,data processing
+tcsb/AtakanA08,big data,keyword2,computer vision
+tcsb/JackP09,keyword4,keyword3,big data
+tcsb/BarbutiCMM11,computer vision,data management,big data
+tcsb/WallaceW08,data querying,keyword3,data modeling
+tcsb/MeyerSTY08,big data,keyword1,keyword4
+tcsb/WallaceW09,big data,keyword1,keyword3
+tcsb/Guerriero09,keyword4,indexing,big data
+tcsb/CalderH09,data modeling,indexing,data management
+tcsb/KolliLHPP05,data storage,data management,keyword2
+tcsb/Dressler07,keyword4,data processing,keyword3
+tcsb/PauleveMR11,keyword2,computer vision,data management
+tcsb/CiocchettaDHH10,keyword1,keyword2,keyword4
+tcsb/BartocciLMP12,keyword1,big data,keyword3
+tcsb/SegataB08,data storage,keyword4,computer vision
+tcsb/AngiusHW12,data processing,keyword4,data modeling
+tcsb/BlinFRV05,keyword2,big data,data storage
+tcsb/LarcherPR10,computer vision,data storage,big data
+tcsb/UhrmacherDZ05,data querying,data processing,data storage
+tcsb/DubrovaTT08,data querying,keyword1,big data
+tcsb/SmithW08,data storage,data modeling,keyword2
+tcsb/LoeweGWMGH11,big data,data storage,keyword3
+tcsb/Roux-RouquieS05,data querying,big data,keyword2
+tcsb/BreitlingDGH10,keyword4,keyword1,data storage
+tcsb/MizeraCP12,data processing,data processing,data processing
+tcsb/ChopraB08,data processing,big data,keyword1
+tcsb/BarbutiMMTT08,data modeling,data management,data querying
+tcsb/PedersenP10,keyword2,data management,data modeling
+tcsb/LeiD05,computer vision,computer vision,data storage
+tcsb/ShenhavSLK05,keyword4,indexing,data storage
+tcsb/HeinerLGM09,keyword3,data storage,data management
+tcsb/GhoshGBD07,computer vision,data modeling,keyword1
+tcsb/EhrenfeuchtKKR12,big data,computer vision,data management
+tcsb/AmanC09,data management,keyword4,data storage
+tcsb/Priami07,data management,indexing,data storage
+tcsb/KuttlerLN10,data management,big data,data querying
+tcsb/ZhangCS05,big data,keyword1,computer vision
+tcsb/CoppoDDGGT11,keyword4,computer vision,keyword2
+tcsb/VersariZ12,computer vision,keyword3,keyword3
+tcsb/AnalouiJ07,keyword3,keyword2,data modeling
+tcsb/NakhlehW05,data storage,data management,data processing
+tcsb/GoldsteinW11,data management,keyword4,computer vision
+tcsb/JohnLNU10,keyword3,indexing,computer vision
+trs/PolkowskiS10,keyword2,keyword3,indexing
+trs/StrakowskiR08,keyword3,indexing,data storage
+trs/Ramanna10,data querying,indexing,indexing
+trs/MaciochaK09,data querying,keyword1,keyword1
+trs/YaoF13,data storage,keyword1,keyword3
+trs/Janicki11,indexing,indexing,keyword2
+trs/MajiP08,big data,data storage,keyword2
+trs/SurajG08,keyword2,keyword2,data processing
+trs/YamaguchiMLN10,data storage,keyword4,data processing
+trs/Pancerz15,keyword1,keyword1,data processing
+trs/Janusz12,indexing,data management,keyword4
+trs/VirginiaN15,indexing,keyword2,data modeling
+trs/ChenLLHK08,keyword3,data processing,data management
+trs/HanP08,keyword2,data storage,keyword3
+trs/SinghZR14,computer vision,computer vision,data processing
+trs/MarekT08,keyword4,data querying,indexing
+trs/MoshkovSS08,data management,data modeling,data management
+trs/YueM09,keyword2,data querying,indexing
+trs/OrlowskaR08,keyword1,computer vision,keyword4
+trs/Wolski13,keyword3,keyword3,keyword2
+trs/KostekWS08,big data,data querying,big data
+trs/MitraMC08,data modeling,data processing,keyword1
+trs/Jaworski11,keyword3,data storage,indexing
+trs/WuM11,keyword3,keyword4,keyword2
+trs/Mani19,big data,data management,data modeling
+trs/MarekS14,data processing,keyword2,big data
+trs/SunMZ10,computer vision,data processing,big data
+trs/ChanT11,indexing,data management,keyword3
+trs/Szczuka11,keyword3,keyword1,keyword2
+trs/XuS10,data modeling,data querying,data modeling
+trs/MoshkovSS10,indexing,data querying,data management
+trs/Pal10,big data,computer vision,big data
+trs/El-MonsefAM12,keyword4,keyword2,keyword1
+trs/YuWL11,data storage,keyword3,indexing
+trs/KryszkiewiczL08,keyword2,data querying,keyword3
+trs/Wojnarski08,data modeling,computer vision,data modeling
+trs/Wolski09,data processing,data modeling,data storage
+trs/MichalakS08,data modeling,data management,big data
+trs/HeptingSS11,data storage,keyword4,computer vision
+trs/Pulawski11,data querying,big data,data modeling
+trs/SamantaC11,data storage,keyword4,data management
+trs/Gopaulsingh19,keyword1,computer vision,big data
+trs/WuX13,keyword1,data processing,data storage
+trs/AzadMZ16,computer vision,data modeling,data processing
+trs/Revett08,indexing,keyword3,keyword1
+trs/Pagliani16,keyword3,data storage,computer vision
+trs/BediC11,big data,indexing,big data
+trs/SamantaC15,data management,keyword1,big data
+trs/GunjiH10,keyword1,data processing,keyword1
+trs/ZwanSKC08,keyword3,big data,keyword1
+trs/Henry12,keyword3,data querying,data modeling
+trs/MoshkovPZ08a,keyword3,keyword2,data storage
+trs/Sikora10,keyword2,data processing,keyword1
+trs/HenryS14,keyword3,keyword3,big data
+trs/KhanB10,data modeling,data querying,indexing
+trs/OsmiaiowskiP10,data modeling,big data,keyword4
+trs/Wolski08a,keyword3,keyword3,data management
+trs/LiuLL14,keyword2,data processing,data management
+trs/AzadCMZ15,keyword3,keyword3,computer vision
+trs/AnarakiSBE16,indexing,indexing,keyword4
+trs/Csajbok13,big data,indexing,data querying
+trs/Ziarko08,data processing,data management,keyword2
+trs/JuYDS14,keyword4,keyword2,data processing
+trs/StrakowskiR10,big data,keyword2,data management
+trs/SakaiIKN08,keyword1,indexing,data querying
+trs/Gomolinska08,keyword3,data querying,data querying
+trs/Gomolinska09,computer vision,data processing,data processing
+trs/MalyszkoS11,keyword1,keyword4,computer vision
+trs/TianZK11,data storage,keyword1,keyword2
+trs/FanLL15,big data,data processing,keyword3
+trs/YinDG11,indexing,big data,computer vision
+trs/GedigaD14,computer vision,computer vision,keyword2
+trs/Polkowski19a,big data,big data,indexing
+trs/CattaneoC09,keyword1,computer vision,indexing
+trs/WasilewskiPR11,data processing,keyword2,data storage
+trs/Mani12,keyword4,keyword2,data querying
+trs/Zielosko15,data storage,computer vision,keyword1
+trs/PatraN11,indexing,keyword4,indexing
+trs/PodsiadloR14,keyword4,keyword2,data management
+trs/Grzymala-Busse13,keyword4,data management,data management
+trs/WojnaL19,data processing,data processing,big data
+trs/SamantaC08,keyword3,data querying,data management
+trs/SzczukaJ13,keyword4,data querying,data processing
+trs/MazumdarMM10,keyword3,indexing,data storage
+trs/DuntschG15,data storage,keyword1,data management
+trs/Gomolinska10,keyword3,big data,indexing
+trs/DelimataMMPSS10,data querying,big data,keyword2
+trs/Cyran08,computer vision,keyword1,data management
+trs/PolkowskiA08,data modeling,data processing,keyword3
+trs/GanterM11,keyword2,indexing,data modeling
+trs/Terlecki10,computer vision,data processing,keyword1
+trs/PuriK11,data modeling,keyword3,data querying
+trs/Grzymala-Busse10,computer vision,keyword4,keyword2
+trs/LiuSZ08,data management,keyword1,keyword3
+trs/TsangZ10,data modeling,data processing,data processing
+trs/PolkowskiA08a,data querying,computer vision,keyword1
+trs/WangZHYHHSLSASCLQZXMMWWD08,keyword3,indexing,keyword1
+trs/ZhaoWY11,keyword1,data querying,data modeling
+trs/NagarajanU11,keyword4,keyword3,keyword2
+trs/GirishJ11,big data,big data,data management
+trs/BazanBPBSD15,data processing,indexing,data management
+trs/PrasadR14,big data,data storage,data processing
+trs/Wolski08,data processing,data storage,data modeling
+trs/KobylinskiW11,indexing,keyword2,keyword2
+trs/GrecoMS10,keyword1,data modeling,keyword4
+trs/YuH19,keyword3,keyword2,keyword3
+trs/JiaS14,data management,keyword2,keyword1
+trs/TrabelsiEL11,data querying,data processing,data querying
+trs/EklundG08,indexing,data management,keyword1
+trs/YaoZWH08,keyword1,keyword4,data processing
+trs/BonikowskiW08,data processing,data modeling,data modeling
+trs/Sosnowski19,data processing,keyword2,keyword3
+trs/XuWW14,data processing,keyword1,keyword1
+trs/JensenC11,data processing,data storage,data storage
+trs/HenryR13,data querying,data storage,data management
+trs/AbeT11,computer vision,big data,keyword4
+trs/Bazan08,data storage,data management,keyword4
+trs/Nguyen08,data querying,data management,data management
+trs/BunderBC08,data processing,data querying,computer vision
+trs/NguyenN15,indexing,data processing,data modeling
+trs/Jaworski08,indexing,keyword4,data management
+trs/CiucciD14,data modeling,data management,data storage
+trs/Khan16,data storage,data modeling,data processing
+trs/BianucciC09,indexing,indexing,data processing
+trs/PetersLW08,big data,data management,keyword3
+trs/LiuMZZ14,big data,indexing,keyword1
+trs/Szczech09,keyword3,keyword3,data modeling
+trs/Mani08,data querying,data processing,keyword3
+trs/Kundu15,data management,data querying,keyword3
+trs/Cyran10,indexing,keyword2,indexing
+trs/LeJ08,keyword3,data storage,data querying
+trs/Mani16,big data,data modeling,data querying
+trs/Polkowski19,data querying,computer vision,keyword4
+trs/Wakulicz-DejaN08,indexing,data querying,data management
+trs/Grzymala-BusseR08,data modeling,data storage,keyword2
+trs/SahaMP10,data querying,data processing,indexing
+trs/MoshkovPZ08,keyword3,data processing,keyword2
+trs/ElhadiZ08,data modeling,data modeling,computer vision
+trs/Grzymala-BusseR10,data querying,keyword2,data querying
+trs/Przybyszewski08,computer vision,keyword2,data processing
+trs/LiL13,big data,big data,data querying
+trs/KuzelewskaS08,keyword3,data management,data processing
+trs/Jiao11,keyword1,data storage,keyword3
+trs/PuzioP13,data storage,keyword4,data storage
+trs/Janusz14,keyword3,keyword4,indexing
+trs/BlaszczynskiSS10,data modeling,data modeling,big data
+trs/Pancerz09,keyword3,keyword3,keyword1
+trs/YuWJ14,indexing,keyword4,data modeling
+tcos/KimVMG13,keyword3,data management,data modeling
+tcos/ManzaliniBMM12,keyword3,keyword4,big data
+tcos/SayedUPPR16,data querying,indexing,data modeling
+tcos/ShamsuddinULW13,keyword1,computer vision,keyword1
+tcos/BoacaB08,keyword3,data querying,keyword4
+tcos/PolasekU13,keyword1,computer vision,data querying
+tcos/JiaWWZXLZ16,data querying,data storage,data management
+tcos/ManousopoulosDT08,data storage,data management,data querying
+tcos/Jamili15,keyword1,data modeling,computer vision
+tcos/CortesiFHZ18,data modeling,data querying,big data
+tcos/ArmknechtSSVW10,data modeling,data processing,data storage
+tcos/LiuSZL09,data processing,keyword4,keyword3
+tcos/BraunBWS18,big data,data storage,keyword2
+tcos/PrakashTC12,data modeling,data processing,keyword4
+tcos/SampaioVPO13,data storage,computer vision,data processing
+tcos/CardonaS14,data storage,data processing,big data
+tcos/KarKC15,keyword2,computer vision,data management
+tcos/FioreG10,data processing,data storage,keyword2
+tcos/Zhang09,keyword3,data processing,data management
+tcos/GuptaSS15,data management,data storage,keyword4
+tcos/ChenG13,data management,keyword1,data management
+tcos/CrandallBYWOSWC09,big data,data management,computer vision
+tcos/Vathy-FogarassyKA08,keyword1,keyword3,big data
+tcos/ShrivastavaBTC13,keyword1,big data,data processing
+tcos/HannielB10,big data,keyword3,data storage
+tcos/HaoR10,keyword1,keyword2,keyword1
+tcos/YaoZW08,keyword2,keyword2,data processing
+tcos/LuoLCYL11,data processing,data processing,computer vision
+tcos/DuttaPG10,data management,keyword4,data querying
+tcos/RahmanKJMA18,keyword1,data modeling,big data
+tcos/El-TawilA10a,data modeling,keyword4,data querying
+tcos/SourinSWG09,indexing,keyword3,data modeling
+tcos/PirzadehDH10,computer vision,keyword1,keyword2
+tcos/BlecicCT09,keyword2,data processing,data modeling
+tcos/MasangoMAM18,data querying,indexing,big data
+tcos/RoyB18,computer vision,keyword2,computer vision
+tcos/ChhabraS10,data processing,big data,keyword4
+tcos/ElbazTSGBM10,keyword4,data processing,indexing
+tcos/SarkarMSS18,big data,computer vision,computer vision
+tcos/HoritaTN14,data processing,computer vision,data querying
+tcos/HussainHS10,big data,data storage,computer vision
+tcos/SharmaA11,keyword4,computer vision,data querying
+tcos/LiuSN11,data processing,data management,data management
+tcos/NichollAA10,keyword3,keyword2,data modeling
+tcos/MelloWFCB09,keyword3,data processing,keyword4
+tcos/HoritaTATK15,keyword1,keyword1,keyword2
+tcos/TakanamiHATK16,indexing,keyword1,data management
+tcos/BarrigaRRR13,data querying,data storage,indexing
+tcos/MatrosovIS13,big data,keyword3,data processing
+tcos/AleksandrovPC16,data querying,data querying,data processing
+tcos/AichMSM09,keyword2,keyword3,keyword3
+tcos/SibaiK09,keyword1,data storage,indexing
+tcos/XuFTXM18,keyword1,keyword2,data storage
+tcos/DegtyarevG16,keyword2,computer vision,keyword4
+tcos/ThapliyalJNA13,data processing,data processing,data processing
+tcos/TianWH09,data querying,computer vision,keyword4
+tcos/RocheA09,keyword2,keyword1,data management
+tcos/SnaselKGA13,data modeling,data management,indexing
+tcos/ElbakryEE09,data storage,data management,keyword2
+tcos/FanZT10,data processing,data management,data storage
+tcos/TilmanneD12,data modeling,data modeling,data modeling
+tcos/HoritaT11,keyword3,indexing,keyword4
+tcos/Chakraborty18,indexing,computer vision,data processing
+tcos/PatanaSR13,indexing,data management,data storage
+tcos/IakushkinSV16,data storage,data management,data storage
+tcos/HonidenHSW10,data querying,keyword1,computer vision
+tcos/OhmoriK14,data storage,big data,big data
+tcos/MenshikovaBLPZ13,indexing,computer vision,data storage
+tcos/IslamHH09,data management,data querying,keyword3
+tcos/BertazzonO09,indexing,data storage,indexing
+tcos/DasDT19,data querying,data querying,data modeling
+tcos/TomarVT13,data management,keyword4,computer vision
+tcos/Prasolova-ForlandFDMH14,keyword3,data modeling,data processing
+tcos/FujiiS10,data storage,keyword3,data storage
+tcos/MorozovGFS13,indexing,data querying,data storage
+tcos/MadureiraPA13,big data,indexing,data querying
+tcos/OlsenS09,computer vision,data storage,data processing
+tcos/HopmannGTV11,indexing,indexing,data querying
+tcos/Wallgrun10,big data,data modeling,keyword2
+tcos/ChenKCW11a,keyword1,data modeling,keyword1
+tcos/HarrisonW10,keyword1,data storage,computer vision
+tcos/MehtaDK16,data storage,big data,big data
+tcos/GoukoI10,keyword1,computer vision,indexing
+tcos/CabidduA17,data management,big data,data storage
+tcos/DickersonGDZ11,big data,computer vision,keyword3
+tcos/OhmoriK12,keyword3,keyword3,data processing
+tcos/LimLSLKSKAW18,computer vision,data management,keyword1
+tcos/Greer09,data management,data storage,big data
+tcos/PedersenGT18,data processing,data processing,data management
+tcos/HarrisonC09,indexing,keyword3,keyword2
+tcos/MalekianZ10,data storage,keyword1,keyword2
+tcos/YildirimU16,big data,keyword3,data processing
+tcos/Fridenfalk16,data storage,keyword3,big data
+tcos/HarrisonMS12,data processing,keyword2,keyword2
+tcos/MoghadamTN14,computer vision,keyword2,data management
+tcos/MilesWLTR16,data processing,keyword2,computer vision
+tcos/Wang08b,keyword4,indexing,keyword2
+tcos/Borruso09,data processing,keyword2,data querying
+tcos/MohamedGY13,indexing,data processing,data querying
+tcos/Kenwright13,data processing,computer vision,data querying
+tcos/TomarV11,data modeling,keyword3,computer vision
+tcos/Tujillo-OlayaV10,data querying,keyword4,data management
+tcos/KimWKRBK10,keyword4,keyword3,indexing
+tcos/BhuvaneswariVS10,keyword3,data processing,keyword2
+tcos/EdelsbrunnerKHSF16,keyword3,computer vision,big data
+tcos/BediVT10,keyword1,keyword2,data management
+tcos/ThapliyalAS09,data storage,indexing,indexing
+tcos/SingaraveluV13,keyword1,data management,data storage
+tcos/BiasiKK11,keyword3,data management,keyword3
+tcos/SzymkowskiS18,data querying,keyword4,keyword4
+tcos/El-Tawil09,keyword4,indexing,data management
+tcos/Attene17,data processing,keyword1,data storage
+tcos/AntonMG09,indexing,keyword2,big data
+tcos/BandyopadhyayRD14,keyword1,indexing,keyword1
+tcos/MilyaevB13,keyword1,data modeling,big data
+tcos/Gavrilova17,data processing,big data,indexing
+tcos/LiuS13,keyword3,data processing,keyword4
+tcos/HuW09,indexing,keyword1,data querying
+tcos/AleshinABKKN12,data storage,big data,keyword1
+tcos/ChaurasiaS19,data modeling,data processing,computer vision
+tcos/SourinEGS16,data management,data storage,data storage
+tcos/ChatterjeeGBCD15,data processing,keyword3,data modeling
+tcos/FranzoniG09,indexing,big data,computer vision
+tcos/YenCZL10,big data,indexing,big data
+tcos/Balint-KurtiBGGHNS10,big data,data storage,data querying
+tcos/PereiraMOA13,keyword2,keyword3,keyword4
+tcos/RiffMN10,data modeling,data management,data modeling
+tcos/ZhangZZQZ08,data management,data processing,data processing
+tcos/SahinUGU12,indexing,keyword3,keyword1
+tcos/TL12,data modeling,computer vision,data processing
+tcos/RegazzoniEPGGMDPPLI09,computer vision,keyword4,computer vision
+tcos/HouLLLSMW16,data management,keyword3,data processing
+tcos/RahmanG17,data processing,data querying,data storage
+tcos/BoonmaS12,keyword3,keyword3,big data
+tcos/LopezNP08,big data,keyword4,keyword2
+tcos/SoundrapandiyanR15,data management,data management,data processing
+tcos/Wang08a,data querying,data storage,computer vision
+tcos/LiuS14,data management,keyword2,keyword4
+tcos/JiangQT11,keyword4,data processing,computer vision
+tcos/HalleVCD12,data processing,data querying,indexing
+tcos/ReganCG18,big data,data processing,keyword3
+tcos/NavratS13,data querying,keyword2,keyword3
+tcos/JhaLN13,keyword3,keyword1,data storage
+tcos/SherstyukK14,data storage,big data,keyword2
+tcos/0002SNN12,data management,data management,data modeling
+tcos/Wang08,keyword3,big data,data querying
+tcos/Kalantari13,keyword1,keyword3,data processing
+tcos/HeWF13,keyword4,computer vision,data modeling
+tcos/NescherK13,keyword2,indexing,indexing
+tcos/GavrilovaY11,data storage,data modeling,data management
+tcos/Gleibman09,keyword4,computer vision,data querying
+tcos/ProtoABOC10,data storage,data modeling,computer vision
+tcos/ZohraG18,data querying,data storage,keyword4
+tcos/SametSB16,data modeling,keyword2,data processing
+tcos/Vyatkina09,big data,keyword1,data modeling
+tcos/DaneseLM09,keyword3,keyword4,data storage
+tcos/GuptaD19,data processing,data management,data processing
+tcos/SultanaPG16,big data,data querying,indexing
+tcos/VassevM12,data querying,big data,big data
+tcos/OhmoriK13,keyword2,data modeling,data storage
+tcos/VoloshinMG14,keyword3,keyword1,data querying
+tcos/LiWWP12,big data,indexing,data management
+tcos/DuttaD09,keyword2,keyword1,data modeling
+tcos/Livesu19,data storage,data processing,data storage
+tcos/SametS17,computer vision,data querying,data processing
+tcos/LiuL08,data modeling,data storage,data processing
+tcos/WeygaertVEJPPHEKBHFHECT11,data processing,keyword3,keyword3
+tcos/ItoSYM14,data management,data processing,data storage
+tcos/SamihWMKS14,keyword3,keyword3,data querying
+tcos/KodamaSK12,data processing,keyword1,data management
+tcos/LindskogB09,indexing,computer vision,big data
+tcos/LizarazoE09,data processing,big data,indexing
+tcos/ArganyMKG11,data storage,keyword4,big data
+tcos/DasTG17,computer vision,keyword2,data modeling
+tcos/KasperOP10,data modeling,indexing,data management
+tcos/NakataS08,computer vision,keyword1,keyword4
+tcos/Thapliyal16,data storage,data management,computer vision
+tcos/PilyuginMAP13,keyword4,data querying,keyword2
+tcos/MaiaBO10,data modeling,data storage,data management
+tcos/LuoZCLLS11,keyword2,keyword1,data processing
+tcos/Bondarev13,data management,indexing,data modeling
+tcos/TakanamiF19,data processing,data querying,data querying
+tcos/PorubovBB10,keyword4,data querying,data modeling
+tcos/Kravchenko18,data querying,big data,computer vision
+tcos/HaoZ09,data querying,data modeling,keyword3
+tcos/SilomonR18,big data,big data,keyword4
+tcos/KarimipourG13,keyword1,keyword1,data modeling
+tcos/PerumallaY14,keyword2,indexing,data modeling
+tcos/Nuangjumnong16,data processing,data management,data modeling
+tcos/ZhangJZZ09,data processing,data management,big data
+tcos/JarvisH11,big data,data querying,keyword2
+tcos/FuHI13,data management,data modeling,keyword4
+tcos/RyuM09,big data,computer vision,computer vision
+tcos/SiddavaatamS18,computer vision,data modeling,keyword4
+tcos/Dailyudenko08,keyword4,data management,data processing
+tcos/KantiTB17,data processing,keyword4,data storage
+tcos/AliWLSWZ16,keyword3,keyword1,data querying
+tcos/CastroCMD08,data modeling,indexing,data management
+tcos/ZotosH13,big data,data modeling,computer vision
+tcos/KannanRP10,indexing,data management,data querying
+tcos/MostafaviBH10,data storage,keyword1,big data
+tcos/LysenkovE13,keyword3,data querying,keyword3
+tcos/TcholtchevS14,data storage,keyword4,keyword4
+tcos/HounsellBS14,keyword3,keyword2,keyword4
+tcos/RemolarCQGCRR11,data management,keyword4,keyword1
+tcos/XiaoLYZ14,indexing,keyword2,keyword1
+tcos/BalliuM10,data querying,big data,data management
+tcos/XiangLTZP11,data storage,keyword4,keyword1
+tcos/ChhabraSLH10,keyword3,indexing,data processing
+tcos/HeadleandJWPTC16,data modeling,computer vision,computer vision
+tcos/EisenbarthPW10,big data,keyword2,data querying
+tcos/HoumbRRC10,data processing,computer vision,data modeling
+tcos/NK13,keyword1,indexing,keyword2
+tcos/MiocAGM10,big data,data storage,big data
+tcos/Zhang08,keyword4,data management,data management
+tcos/CattaniS09,keyword3,data querying,data modeling
+tcos/VlasovFW13,data modeling,indexing,data processing
+tcos/PangSSCU11,keyword4,data processing,indexing
+tcos/Wang09,keyword4,data modeling,keyword1
+tcos/AlmasizadehA09,keyword2,indexing,data storage
+tcos/TingZH11,keyword4,data querying,data processing
+tcos/OmataKM14,data management,keyword1,keyword1
+tcos/SepulvedaPSC10,computer vision,data querying,data modeling
+tcos/Rao10,keyword1,indexing,data querying
+tcos/RenZ08,indexing,keyword1,keyword1
+tcos/FanLZ11,keyword2,keyword4,keyword2
+tcos/WangWAZJSZ16,big data,computer vision,data storage
+tcos/El-Tawil08,computer vision,keyword3,keyword2
+tcos/FuWYWZZ16,data processing,computer vision,data storage
+tcos/YangPC12,computer vision,data processing,data processing
+tcos/SeoKRLMK14,data querying,keyword1,keyword2
+tcos/RitsosGBSR13,keyword4,data management,data modeling
+tcos/Oshita14,computer vision,data management,big data
+tcos/Marghany09,computer vision,keyword2,keyword4
+tcos/JayashreeTA17,data management,data modeling,keyword4
+tcos/FrolovVKG13,keyword3,keyword4,data processing
+tcos/BazazianG15,keyword2,data processing,data storage
+tcos/AokiA16,data processing,data modeling,data storage
+tcos/AsanoT10,data management,data processing,indexing
+tcos/LiWY10,keyword2,data storage,keyword4
+tcos/ZohraG17,indexing,big data,data management
+tcos/SharmaZAB11,data storage,keyword1,keyword1
+tcos/BerkowitzKKM13,data processing,data modeling,keyword3
+tcos/DattaSRD14,data processing,data storage,keyword3
+tcos/WangYCL13,keyword2,data storage,data processing
+tcos/SetterSH10,data storage,data storage,data management
+tcos/MaidiMBO13,data processing,keyword2,keyword4
+tcos/DuttaDS13,data management,data querying,indexing
+tcos/ChenKCW11,computer vision,keyword3,data processing
+tcos/MoonsBW09,big data,data processing,keyword1
+tcos/PereiraM10,keyword3,keyword1,data processing
+tcos/DaescuCP09,computer vision,indexing,computer vision
+tcos/TanS17,big data,data processing,keyword4
+tcos/TanumaIM11,big data,computer vision,data management
+tcos/SinghS11,data processing,data management,keyword4
+tcos/TerleckiW08,big data,data management,data storage
+tcos/MajewskiBMK13,keyword4,keyword2,keyword2
+tcos/Diaz-ParraRBS13,data processing,data storage,data management
+tcos/IglesiasGC16,keyword2,data management,keyword4
+tcos/Shumskiy13,big data,data management,keyword1
+tcos/KhannaCG18,big data,data querying,data querying
+tcos/ZhouFQFY17,indexing,big data,data modeling
+tcos/GeiselmannMS10,keyword4,keyword4,indexing
+tcos/ChaurasiaVTA09,data modeling,keyword1,keyword1
+tcos/CortesJVV10,keyword4,keyword2,computer vision
+tcos/Wang09a,computer vision,big data,data management
+tcos/WangZ09,computer vision,keyword1,big data
+tcos/Polkowski08,big data,keyword1,computer vision
+tcos/GoelGP13,data querying,keyword1,computer vision
+tcos/SchmittV13,data storage,data querying,data modeling
+tcos/YangD11,keyword2,big data,big data
+tcos/TsumotoH08,data modeling,data modeling,data querying
+tcos/Veenhuis13,keyword2,data modeling,data management
+tcos/MuleyG19,data processing,keyword4,data storage
+tcos/VyatkinaB11,computer vision,indexing,data storage
+tcos/SethiR14,data processing,data management,indexing
+tcos/ThepadeDG15,big data,keyword2,data storage
+tcos/MahajanA09,data querying,indexing,computer vision
+tcos/HanninenSL14,keyword3,data querying,keyword4
+tcos/SpizhevoyE13,keyword4,data storage,keyword4
+tcos/ChaurasiaVT13,keyword1,data storage,big data
+tcos/AthanasopoulosUC11,big data,data processing,data storage
+tcos/TL13,data storage,data management,keyword1
+tcos/MilesPWLJPMMM14,indexing,keyword2,keyword4
+tcos/Leandre10,data storage,computer vision,data storage
+tcos/KushwahaS15,indexing,keyword2,keyword1
+tcos/BessonovV10,data processing,keyword4,indexing
+tcos/Serra-SogasOCBG09,keyword4,keyword1,computer vision
+tcos/KanamoriYHMF16,keyword1,data processing,keyword4
+tcos/NishiuchiT15,keyword4,data processing,data processing
+tcos/Veenhuis10,data querying,indexing,keyword1
+tcos/LachmundH10,big data,data querying,keyword2
+tcos/KannanSTMR19,keyword2,data modeling,indexing
+tcos/Wang13,computer vision,data processing,keyword2
+tcos/CompagnaKMS10,indexing,data processing,data storage
+tcos/ClementeRT10,keyword3,data querying,computer vision
+tcos/ToyouraAM17,indexing,data modeling,keyword4
+tcos/TranSGPK14,data modeling,big data,data management
+tcos/BogdanovGGTY16,data processing,indexing,keyword4
+tcos/ElbazCGLPT09,data processing,keyword3,keyword4
+tcos/TuiaKCK09,keyword3,keyword1,data querying
+tcos/CostaNM10,keyword4,data modeling,computer vision
+tcos/GuoLTX14,data processing,keyword4,computer vision
+tcos/LiuHSB16,keyword1,big data,indexing
+tcos/HouS11,big data,data storage,keyword1
+tcos/KotiyalTR14,data modeling,data querying,keyword2
+tcos/YasminS13,data management,keyword3,data management
+tcos/ChaurasiaV11,keyword2,data querying,keyword2
+tcos/RakkayB09,data querying,data storage,indexing
+tcos/LiuSSSCI18,keyword4,big data,data management
+tcos/WangYW08,data storage,data querying,indexing
+tcos/Croitoru09,keyword3,data querying,data storage
+tcos/JovanovicSO09,keyword1,keyword4,keyword2
+tcos/Yanagisawa09,keyword2,keyword4,keyword4
+tcos/Aboul-HassanRA10,data management,data management,keyword2
+tcos/LiuG10,big data,computer vision,indexing
+tcos/KryzhanovskyVSP13,indexing,keyword4,keyword2
+tcos/Phan12,big data,data storage,keyword4
+tcos/UteshevY16,keyword4,data storage,data querying
+tcos/KolingerovaVMF18,big data,data processing,keyword4
+tcos/TaramelliM09,keyword2,data management,keyword1
+tcos/LiuWF08,data storage,keyword3,data modeling
+tcos/BhaumikC09,keyword4,big data,keyword1
+tcos/StorozhilovaLYS13,keyword3,indexing,keyword2
+tcos/Slezak09,indexing,keyword1,keyword1
+tcos/DattaCS18,big data,keyword3,data management
+tcos/ChoudharyK18,data management,keyword2,indexing
+tcos/Bezdek13,computer vision,data querying,data modeling
+tcos/SeoKCM09,keyword4,keyword4,big data
+tcos/GironFU11,data management,data querying,keyword3
+tcos/GutierrezVR14,data storage,data storage,data storage
+tcos/NielsenN11,keyword2,data storage,data modeling
+tcos/SahaKMG13,computer vision,data management,data management
+tcos/YampolskiyCRG12,data processing,indexing,data management
+tcos/El-TawilA10,indexing,indexing,data modeling
+tcos/KirillovMK13,keyword1,keyword2,computer vision
+tcos/BanerjeeBDKMR13,data storage,data storage,keyword2
+tcos/MatsuiS10,data modeling,keyword1,data processing
+tcos/HaukePH11,data querying,keyword3,computer vision
+tcos/KimCKS13,data storage,data storage,keyword2
+tcos/MohamedA09,data querying,data modeling,keyword3
+tcos/Devai18,keyword3,data storage,keyword1
+tcos/JainBC15,data querying,keyword1,keyword4
+tcos/KlimenkoKKNNMT17,keyword1,indexing,data querying
+tcos/BhattacharyaG13,computer vision,data processing,keyword2
+tcos/Mura12,computer vision,keyword4,keyword4
+tcos/RasoolS14,keyword4,keyword3,data querying
+tcos/Cattani09,data modeling,big data,keyword1
+tcos/GanesanESV13,keyword2,indexing,keyword2
+tcos/PereiraO09,keyword3,indexing,keyword4
+tcos/ChibaAMKM11,big data,data querying,keyword3
+tcos/VinhB08,computer vision,keyword1,keyword2
+tedu/LiZ11,indexing,data management,data management
+tedu/ZhangL12b,data storage,data processing,indexing
+tedu/JiangNTLLH16,keyword4,keyword3,data storage
+tedu/LiLCD15,data storage,data querying,keyword2
+tedu/SatoLMAI08,keyword1,keyword4,data processing
+tedu/AiliyaSM10,keyword1,data storage,data modeling
+tedu/ShaoY18,data querying,keyword1,indexing
+tedu/HeLZ12,keyword3,keyword3,data processing
+tedu/LiWD08,data storage,indexing,big data
+tedu/Shen15,computer vision,keyword2,data querying
+tedu/HsuWH10,data modeling,data modeling,keyword4
+tedu/Walton13,data modeling,keyword3,data management
+tedu/ShaoY15,keyword2,data processing,keyword4
+tedu/MerabtiRSDMP08,data querying,data querying,data querying
+tedu/HuangC12,keyword4,computer vision,computer vision
+tedu/Cui16,data management,keyword1,keyword1
+tedu/GuerraSF13,computer vision,keyword3,keyword1
+tedu/FangLYY12,data processing,keyword1,keyword4
+tedu/YuY15,big data,keyword1,big data
+tedu/LiuHLC11,data storage,keyword2,data processing
+tedu/TatematsuOD15,keyword1,data management,keyword4
+tedu/LuoZCWL12,indexing,keyword3,data modeling
+tedu/XiaoAC13,data storage,keyword3,keyword3
+tedu/HuZ18,data processing,keyword2,data storage
+tedu/ChelghoumWW17,indexing,keyword4,data querying
+tedu/ZhangQ15,keyword2,keyword4,data querying
+tedu/KangOW09,big data,keyword3,big data
+tedu/Xiao15,data modeling,keyword3,data processing
+tedu/LinL11,data querying,data processing,data storage
+tedu/ZengMYSZ15,indexing,keyword4,computer vision
+tedu/NingXZL11,indexing,data management,keyword4
+tedu/LiuMGWL16,computer vision,big data,data storage
+tedu/ChristopoulosMAK13,keyword3,big data,keyword1
+tedu/MaoLMT11,data querying,data processing,data management
+tedu/SislerB08,keyword4,data processing,indexing
+tedu/HungCFCTT12,computer vision,big data,computer vision
+tedu/ShiratuddinW12,indexing,data storage,indexing
+tedu/Berger012,data modeling,keyword3,keyword1
+tedu/JiangYTLZH15,computer vision,data management,data processing
+tedu/LyuGS18,big data,data management,big data
+tedu/ShiCC12,data modeling,data querying,indexing
+tedu/RiekkiCHSK13,data management,keyword2,big data
+tedu/WangHW09,keyword1,keyword2,data querying
+tedu/Ratzka13,keyword1,data storage,keyword1
+tedu/SobkeCK13,data management,data modeling,data querying
+tedu/ZhengG18,indexing,big data,data processing
+tedu/JungKJBL08,big data,data management,big data
+tedu/JiZZ12,data management,data querying,keyword3
+tedu/LongZGXDYZ11,keyword3,keyword2,big data
+tedu/Wang18,data processing,data processing,computer vision
+tedu/HulusicR13,keyword2,keyword4,data storage
+tedu/PengMZW17,keyword3,keyword2,data querying
+tedu/Brown-SimmonsKKY09,data storage,keyword3,data management
+tedu/Chiang12,indexing,computer vision,big data
+tedu/TragazikisM09,computer vision,computer vision,keyword1
+tedu/ShaoZMX11,data management,data storage,keyword1
+tedu/ZhaoPH15,data processing,data management,data processing
+tedu/PanZ11,computer vision,keyword4,data modeling
+tedu/AhnS09,keyword1,keyword1,data modeling
+tedu/HuangYWXZ11,indexing,indexing,big data
+tedu/ShiYY13,big data,computer vision,data querying
+tedu/WangW17a,data modeling,big data,keyword2
+tedu/Yang15,data management,big data,computer vision
+tedu/MaWD17,data management,data management,data storage
+tedu/LiuAGH12,computer vision,keyword4,data querying
+tedu/VosinakisKZ13,keyword4,data modeling,keyword2
+tedu/PangQCH10,keyword2,data querying,indexing
+tedu/HoZWL09,data storage,data processing,keyword1
+tedu/ErsotelosD11,data querying,indexing,data processing
+tedu/ChangWH08,keyword3,keyword2,keyword4
+tedu/LiuJLDZ16,big data,keyword3,indexing
+tedu/Paiva08,data management,data processing,data querying
+tedu/UeokaKH09,keyword4,data querying,data management
+tedu/ZhaoCWZ16,data processing,keyword1,data storage
+tedu/BonneaudRCW12,data management,keyword3,data management
+tedu/ZhuZP13,keyword4,data modeling,data querying
+tedu/ParkW12,keyword4,keyword4,keyword4
+tedu/TangSYG11,data querying,data querying,keyword4
+tedu/SuTWS16,data management,data management,computer vision
+tedu/LeeW08,indexing,data processing,keyword2
+tedu/ChenZJP09,keyword4,data querying,indexing
+tedu/CheWG16,keyword3,big data,indexing
+tedu/BufeK10,data storage,data modeling,big data
+tedu/LuZ11,keyword1,big data,data processing
+tedu/PrestonM09,keyword4,data storage,indexing
+tedu/DongLB11,keyword1,data processing,data modeling
+tedu/ZhengL17,data management,data modeling,data processing
+tedu/LiuF12,data processing,indexing,data management
+tedu/XieZWZ15,data modeling,data storage,keyword4
+tedu/HuangH15,data storage,data processing,data storage
+tedu/LiA11,data storage,data storage,keyword1
+tedu/YamaguchiISKDTSTY09,keyword2,big data,keyword1
+tedu/YanFY12,big data,data processing,data modeling
+tedu/HanW10,indexing,keyword2,keyword4
+tedu/ZhaoS18,computer vision,keyword3,keyword1
+tedu/LvWGPS13,data processing,data storage,data storage
+tedu/NieYJ17,data management,indexing,data storage
+tedu/LvB17,data modeling,computer vision,computer vision
+tedu/BlasP13,keyword2,data storage,keyword1
+tedu/XiongLH11,data processing,indexing,computer vision
+tedu/LinZXW11,indexing,keyword2,data querying
+tedu/GuP18,indexing,data modeling,keyword1
+tedu/LeePL11,indexing,data modeling,indexing
+tedu/CaoLCP17,indexing,keyword3,keyword2
+tedu/LiXJS11,computer vision,data processing,data querying
+tedu/WangJZLJ17,data processing,data processing,data querying
+tedu/MaoYJXW11,big data,computer vision,data querying
+tedu/YangWWL17,keyword2,data storage,keyword4
+tedu/WangH12,data modeling,keyword1,keyword2
+tedu/LiangXLLZ11,computer vision,data management,keyword1
+tedu/ZhangMLYZ11,keyword3,keyword1,keyword2
+tedu/PuXQHD15,data modeling,data management,keyword2
+tedu/JamiesonS13,data storage,data storage,keyword3
+tedu/ZhangZ17,data querying,data querying,keyword3
+tedu/MathieuPP13,computer vision,keyword3,keyword2
+tedu/WangCLZ15,keyword3,indexing,data modeling
+tedu/WangYXYM09,data querying,keyword2,data processing
+tedu/ShaoLP09,big data,keyword4,keyword2
+tedu/ChangC12,data storage,data storage,data querying
+tedu/WangCLZ16,keyword2,indexing,computer vision
+tedu/HorvathDSS09,data querying,keyword4,keyword3
+tedu/FloresM13,data querying,keyword2,data processing
+tedu/MirriSRG11,keyword4,computer vision,data processing
+tedu/YanD17,indexing,data management,big data
+tedu/GaoJPQL18,data querying,big data,data modeling
+tedu/SogaKT09,indexing,keyword4,computer vision
+tedu/Moreno-GerBCSF08,indexing,data processing,indexing
+tedu/CaoLCP18,data management,keyword3,keyword4
+tedu/YehHWC12,data modeling,indexing,data modeling
+tedu/HarrisonA13,big data,keyword2,keyword3
+tedu/ShengLYAZZ16,data processing,data querying,data processing
+tedu/HowlandGB13,big data,data querying,data modeling
+tedu/FengJHWZ12,data processing,data management,indexing
+tedu/SongSHP16,computer vision,keyword3,indexing
+tedu/HuangLX11,data storage,keyword4,data processing
+tedu/WangZZYX11,data querying,big data,big data
+tedu/ChenZT15,keyword2,data storage,computer vision
+tedu/LuoNCJDH12,data processing,data modeling,keyword3
+tedu/LiuFCTYC12,data management,keyword2,keyword4
+tedu/ZhangL12a,data modeling,computer vision,keyword2
+tedu/WangZP16,data storage,data processing,data management
+tedu/ZhaiQWFW12,data processing,keyword2,keyword4
+tedu/PanLZYCTY09,indexing,big data,data management
+tedu/HuangS16,keyword1,keyword1,data querying
+tedu/HuLZT11,data management,big data,big data
+tedu/HanQ18,data processing,computer vision,keyword1
+tedu/QianFZLR17,computer vision,keyword1,data management
+tedu/TolicH09,data processing,keyword2,computer vision
+tedu/LinL09,indexing,keyword3,data modeling
+tedu/SampaioP09,keyword1,data storage,indexing
+tedu/MartensDM08,big data,data modeling,computer vision
+tedu/Zhang12,data management,indexing,big data
+tedu/LehtonenT11,data modeling,big data,keyword1
+tedu/FengYLTZZP12,data querying,data storage,keyword1
+tedu/ShaoJS11,data modeling,computer vision,big data
+tedu/JiangS10,keyword2,keyword4,data querying
+tedu/JiaPS11,keyword1,keyword3,keyword1
+tedu/PaireekrengRW09,keyword1,data management,computer vision
+tedu/Koppe13,keyword4,data management,data storage
+tedu/PanZG18,data modeling,keyword3,data querying
+tedu/SourinaTW09,keyword2,computer vision,data processing
+tedu/WangWZLX12,indexing,big data,data storage
+tedu/SuhardiL09,keyword1,data querying,data processing
+tedu/YuanW11,data storage,keyword1,computer vision
+tedu/KimN12,keyword1,keyword2,computer vision
+tedu/DuBZX15,data processing,data querying,keyword4
+tedu/ZhangJLX13,keyword2,indexing,keyword3
+tedu/JiaZZL10,computer vision,data storage,data management
+tedu/ChanNPQCYH10,data processing,data querying,data querying
+tedu/Kutay13,data processing,data processing,keyword1
+tedu/PeternierVT08,big data,keyword4,keyword2
+tedu/LuZ12,computer vision,indexing,data storage
+tedu/ZhaoW11,keyword4,big data,data storage
+tedu/ZhangP12,indexing,data management,keyword3
+tedu/WangCML13,data querying,keyword2,data modeling
+tedu/GaoHZ12,data querying,computer vision,indexing
+tedu/ThinP10,indexing,data querying,data management
+tedu/CaiQSL12,big data,data management,data processing
+tedu/ZhangW11,data processing,keyword2,keyword4
+tedu/AsaiKMB10,data management,keyword4,data storage
+tedu/BirchallG13,data processing,data modeling,data storage
+tedu/PanSBLL15,data modeling,indexing,keyword2
+tedu/CaoJLP18,data querying,indexing,data storage
+tedu/YouLW11,big data,indexing,data management
+tedu/WangSKH18,data storage,keyword4,indexing
+tedu/NeyGBSB10,data processing,keyword3,indexing
+tedu/KwakNVHF11,computer vision,data processing,data modeling
+tedu/SuJ15,computer vision,keyword3,indexing
+tedu/BadaTERC12,keyword4,keyword3,keyword1
+tedu/LeeWF10,keyword1,data storage,keyword2
+tedu/KhineS08,data storage,big data,keyword4
+tedu/ZhangY09,indexing,big data,data management
+tedu/OhW08,data processing,keyword4,data modeling
+tedu/PaliokasAM13,keyword4,big data,keyword4
+tedu/HuF10,data modeling,data processing,data storage
+tedu/ZhaoD15,indexing,keyword4,indexing
+tedu/RiedelWJSS13,indexing,keyword4,big data
+tedu/StaffansWHS09,data querying,data querying,keyword4
+tedu/FanWCPS12,data storage,data modeling,data management
+tedu/ChengMZ13,data storage,keyword1,data modeling
+tedu/Li13,data storage,big data,data storage
+tedu/GohMG08,keyword4,data querying,big data
+tedu/ShiHC11,data modeling,data storage,data management
+tedu/HuaYDZ12,keyword3,keyword3,data management
+tedu/HodhodCK11,computer vision,indexing,keyword1
+tedu/HuF09,data querying,keyword2,data modeling
+tedu/LiZWW13,keyword4,keyword4,data storage
+tedu/HePZ17,data storage,computer vision,keyword4
+tedu/KoenitzHFS13,data modeling,data modeling,indexing
+tedu/ShenJZFL17,data processing,data querying,keyword1
+tedu/WangC12,data storage,keyword3,big data
+tedu/QiuXZ15,data management,computer vision,data modeling
+tedu/WeiL10,data querying,keyword1,big data
+tedu/ShenL17,big data,keyword1,computer vision
+tedu/YangYZZZ17,big data,big data,keyword2
+tedu/YuanLWL09,data management,data storage,data querying
+tedu/Ruping13,keyword4,keyword3,keyword4
+tedu/ZhangWYXZ17,data management,indexing,keyword2
+tedu/LinWAS12,indexing,keyword2,keyword4
+tedu/HuangTKWLT09,big data,indexing,indexing
+tedu/WangW17,indexing,computer vision,computer vision
+tedu/NaBW08,keyword2,data processing,keyword3
+tedu/DongHYJ13,data modeling,big data,keyword2
+tedu/Spierling08,data querying,keyword1,data management
+tedu/CarterRMP09,indexing,keyword4,big data
+tedu/Wechselberger09,indexing,big data,data storage
+tedu/SeilerS13,data querying,big data,indexing
+tedu/Dong18,keyword1,keyword3,data storage
+tedu/Zhang10,keyword4,keyword4,keyword3
+tedu/ZhangL12,big data,computer vision,data storage
+tedu/LoCTY09,keyword2,data management,indexing
+tedu/YanYLYZ11,data management,keyword4,keyword2
+tedu/Sauve09,keyword1,keyword4,big data
+tedu/GaudyNA09,indexing,data modeling,data storage
+tedu/MolnarK16,computer vision,data management,indexing
+tedu/WangGYT17,keyword1,data querying,keyword1
+tedu/CaiLSL12,data modeling,keyword3,indexing
+tedu/Hu08,indexing,keyword1,data querying
+tedu/ZhangZXD11,keyword4,keyword3,keyword2
+tedu/HuangFGH18,indexing,data querying,keyword3
+tedu/Zhang13,keyword1,keyword2,keyword3
+tedu/Choi10,indexing,keyword4,keyword3
+tedu/JesusRC11,keyword2,keyword3,data management
+tedu/WangS18,computer vision,keyword3,indexing
+tedu/HeCZ11,computer vision,keyword1,keyword1
+tedu/KrugerD13,data management,big data,keyword3
+tedu/ZhangW12,computer vision,data processing,data storage
+tedu/Meyer09,data querying,keyword4,keyword2
+tedu/ShenJSPHH15,indexing,keyword4,big data
+tedu/ChenPZ12,keyword2,keyword3,data querying
+tedu/ChenZCZ17,data querying,keyword2,computer vision
+tedu/DaiZ13,data storage,keyword4,keyword3
+tedu/ZhangDZCP12,keyword2,data storage,data storage
+tedu/Zhong18,data processing,data management,keyword2
+tedu/KarimGMBB11,data querying,data querying,keyword4
+tedu/HungKC09,data storage,keyword2,computer vision
+tedu/LinazaGTT08,indexing,data processing,computer vision
+tedu/RebholzZ13,data storage,keyword4,data management
+tedu/Delgado-MataIGG08,data modeling,big data,computer vision
+tedu/WangWH11,keyword2,data querying,indexing
+tedu/BacklundTEJLSSPS13,data management,data storage,data storage
+tedu/KlopferO13,indexing,keyword1,data storage
+tedu/LiuFLX16,data modeling,computer vision,data processing
+tedu/LiZ18,data storage,indexing,data storage
+tedu/KaoHL12,computer vision,keyword3,data processing
+tedu/LiZD17,data processing,keyword1,data processing
+tedu/ChenLWSW12,keyword2,indexing,keyword3
+tedu/GeYST11,keyword1,keyword4,data processing
+tedu/ZhouPLWL17,big data,big data,keyword3
+tedu/JiangC11,computer vision,keyword4,data modeling
+tedu/HeZ11,keyword4,keyword2,data querying
+tedu/YunJL09,data management,big data,data querying
+tedu/CaiICZ08,data storage,keyword4,data storage
+tedu/DangCA13,big data,data modeling,data storage
+tedu/FengFY16,data modeling,keyword1,keyword3
+tedu/HuHZD13,keyword3,big data,keyword4
+tedu/ShinozakiIN08,keyword1,keyword3,data processing
+tedu/PengHZL09,data processing,data modeling,keyword2
+tedu/YeZP16,computer vision,data modeling,keyword3
+tedu/TarumiYDKITHY09,keyword1,data querying,data querying
+tedu/Schoenau-FogBKF13,data storage,computer vision,indexing
+tedu/ZhangPM10,big data,data modeling,data querying
+tedu/WendelBHKGS10,big data,data storage,keyword3
+tedu/WangCNZSZW12,indexing,computer vision,keyword3
+tedu/DongYWLL12,keyword4,keyword3,keyword2
+tedu/TaylorP09,keyword2,big data,data modeling
+tedu/ZengWNML12,data querying,data management,keyword3
+tedu/LoJSYC08,keyword1,keyword1,indexing
+tedu/SunL10,data modeling,data querying,data modeling
+tedu/HuLS17,indexing,big data,data processing
+tedu/0007YMWP18,data storage,keyword2,keyword4
+tedu/SzilasAR12,keyword2,data querying,keyword3
+tedu/SmithC13,keyword4,data modeling,keyword2
+tedu/YangHW11,data storage,data querying,data querying
+tedu/ChenQ12,data management,keyword4,computer vision
+tedu/YangXL15,data processing,data modeling,computer vision
+tedu/ValentinCGL12,big data,keyword1,data management
+tedu/GuoXCZ10,big data,data modeling,keyword3
+tedu/MolletCB09,data processing,keyword2,keyword2
+tedu/BilottaGST09,data querying,keyword3,data querying
+tedu/ZhangX12,keyword1,data management,computer vision
+tedu/WangLHNSZZ15,keyword4,keyword3,computer vision
+tedu/LiSL16,keyword3,data querying,keyword4
+tedu/CourgeonCTM11,data processing,keyword1,keyword1
+tedu/Garcia-MateosF09,data querying,keyword3,data storage
+tedu/CaiY10,keyword3,data management,data storage
+tedu/MarchiMFLC10,big data,computer vision,keyword4
+tedu/ChenKCH09,computer vision,keyword3,data processing
+tedu/TorrenteLMF09,data storage,keyword1,big data
+taosd/Malakuti16,keyword1,keyword2,indexing
+taosd/KouraiHC09,keyword2,data management,big data
+taosd/BergmansHA12,big data,data processing,big data
+taosd/LanduytbTJ12,keyword1,computer vision,big data
+taosd/TeruelWDN14,data modeling,keyword2,data querying
+taosd/LanduytTJ10,big data,keyword2,data management
+taosd/KellensMT07,data storage,data processing,data processing
+taosd/KleinFJ07,computer vision,data modeling,data storage
+taosd/TekinerdoganBMTA11,keyword4,keyword3,computer vision
+taosd/KaminaAMT16,keyword3,data processing,data storage
+taosd/AraujoB07,data management,data storage,keyword2
+taosd/AraujoB07a,data modeling,data querying,data management
+taosd/CartonDJC09,keyword4,data management,keyword3
+taosd/BrabrandRTWB13,data modeling,data management,data storage
+taosd/BoerGJKW14,indexing,data management,keyword4
+taosd/CazzolaCS07,data modeling,data management,keyword2
+taosd/WhiteGS09,data querying,keyword4,big data
+taosd/ChitchyanPRF07,big data,data querying,keyword4
+taosd/KienzleGM10,indexing,data storage,data management
+taosd/AlvesMCVBR07,computer vision,keyword1,keyword1
+taosd/AxelsenSKM12,big data,big data,keyword1
+taosd/MaozS13,indexing,keyword1,data modeling
+taosd/Laddad11,data storage,keyword2,indexing
+taosd/MalakutiA14,keyword1,data storage,data storage
+taosd/HeidenreichHJZ09,big data,keyword2,indexing
+taosd/NguyenNKMT13,keyword4,data querying,data storage
+taosd/AmalioKMG10,data modeling,computer vision,data modeling
+taosd/FilhoAB16,big data,data management,big data
+taosd/WhittleJEMA09,keyword4,data processing,data querying
+taosd/CiraciHABB10,data management,keyword3,data modeling
+taosd/NiuYGELM09,data modeling,keyword4,indexing
+taosd/SalvaneschiM13,big data,big data,keyword4
+taosd/ChurchillMST14,data modeling,keyword4,keyword4
+taosd/LanduytbTV11,keyword3,keyword2,data querying
+taosd/HolzerZJE12,indexing,keyword3,big data
+taosd/LiuGC07,big data,big data,indexing
+taosd/GroherV09,data storage,keyword2,data querying
+taosd/RoychoudhuryGJ11,data modeling,data storage,keyword4
+taosd/KienzleDG09,keyword3,data processing,keyword3
+taosd/KaminaAM16,keyword1,data processing,big data
+taosd/MussbacherAW07,data management,keyword2,keyword3
+taosd/BritoVMR07,keyword1,indexing,big data
+taosd/TigliLRFHAVR12,data modeling,data processing,data management
+taosd/BergCH07,data management,data management,big data
+taosd/ChitchyanFKR09,big data,keyword4,keyword2
+taosd/MolderezJ15,indexing,data modeling,data management
+taosd/MitschkeEMGB13,data modeling,data management,keyword1
+taosd/NinoMCC09,data modeling,big data,computer vision
+taosd/HeidenreichSSZAAFKMR10,data querying,big data,data storage
+taosd/DubslaffBK14,keyword1,data querying,keyword1
+taosd/MehnerMT09,data management,keyword2,keyword4
+taosd/MosserBF10,computer vision,keyword3,big data
+taosd/SilvaVM14,big data,keyword2,data modeling
+taosd/FigueroaTT13,keyword1,data management,data processing
+taosd/FuentesS09,data querying,data management,keyword4
+taosd/LohmannSHS12,keyword3,keyword2,keyword1
+taosd/0001RC13,keyword2,data modeling,keyword4
+taosd/ZhuangC13,indexing,data querying,big data
+taosd/Bagherzadeh0FSR16,data management,keyword4,keyword2
+taosd/YinBA13,computer vision,keyword2,data storage
+taosd/McNeileR10,keyword2,keyword3,data processing
+taosd/Kniesel09,keyword4,data querying,keyword3
+taosd/AnsaloniBMV12,data management,computer vision,computer vision
+taosd/JagadeesanPR09,data processing,data processing,keyword3
+taosd/SampaioRCR07,data management,keyword2,data storage
+taosd/DisenfeldK16,keyword2,computer vision,data storage
+taosd/MostowskiU16,data querying,data modeling,keyword4
+taosd/NiuE07,keyword3,data querying,keyword1
+taosd/MussbacherAAM10,keyword4,data management,keyword1
+taosd/SanchezFJC07,data modeling,keyword3,data management
+taosd/KienzleAFJK10,keyword2,big data,data modeling
+taosd/HolzlKZ10,keyword3,indexing,indexing
+taosd/BynensTJ11,data processing,data processing,keyword1
+taosd/beeckDLJ13,data management,data management,keyword3
+taosd/HohensteinJ11,data management,keyword3,data modeling
+taosd/UrbanLS11,data querying,data management,data storage
+tcci/CegielkaDLM18,computer vision,data management,data storage
+tcci/SchiendorferASR15,data storage,keyword3,keyword4
+tcci/Freixas18,data storage,data storage,keyword3
+tcci/SinghMXSR18,data management,data modeling,keyword2
+tcci/MaioFLTTV15,data storage,data processing,data querying
+tcci/Barbucha13,indexing,keyword4,data storage
+tcci/QinO13,keyword4,computer vision,data storage
+tcci/AbdulrahmanNHRL13,computer vision,data management,big data
+tcci/MercikR17,keyword1,data processing,keyword4
+tcci/ChohraBM13,keyword2,data storage,indexing
+tcci/NishizakiHH13,data management,data storage,indexing
+tcci/PrzybyszewskiS18,data processing,data querying,keyword1
+tcci/LorkiewiczKK12,indexing,keyword2,keyword2
+tcci/OrlowskiZOKSP16b,data processing,big data,keyword4
+tcci/Lloyd-KellyGL15,indexing,keyword1,data modeling
+tcci/TomfordeKMBS18,big data,data management,keyword4
+tcci/ByrskiSS13,data querying,indexing,big data
+tcci/CalzarossaVMNT19,data modeling,keyword2,keyword3
+tcci/DinhA14,data modeling,keyword4,computer vision
+tcci/PiskorskiTAGZ11,keyword3,data storage,data querying
+tcci/ChaoucheFIS14,big data,data processing,keyword2
+tcci/Heudin18,keyword2,keyword3,big data
+tcci/FortinoRR12,indexing,data querying,data storage
+tcci/Nalepa11,indexing,big data,data querying
+tcci/XuNTS15,data modeling,computer vision,data querying
+tcci/Rybakov11,data querying,indexing,data processing
+tcci/SimonovaPK15,keyword1,data storage,data querying
+tcci/Capkovic11,data querying,data storage,big data
+tcci/SzymanezykDD12,data modeling,keyword2,computer vision
+tcci/MaleszkaN12,indexing,keyword1,keyword2
+tcci/TianYCM11,keyword4,keyword2,indexing
+tcci/KivWK12,big data,computer vision,keyword4
+tcci/Cybulka10,indexing,computer vision,keyword2
+tcci/BehzadAHGK19,data querying,indexing,keyword4
+tcci/KacprzakKTBGLR11,keyword3,keyword3,indexing
+tcci/PastuszakO13,computer vision,data management,data querying
+tcci/RamseyKB18,keyword4,big data,big data
+tcci/CarfiDG17,keyword2,indexing,indexing
+tcci/HuangC11,computer vision,data modeling,data modeling
+tcci/TabakovFAQ18,keyword1,keyword1,data processing
+tcci/VinhA16,data processing,keyword1,indexing
+tcci/JonkerSTWW10,data processing,data modeling,data processing
+tcci/BennajehBSA18,keyword3,data management,keyword2
+tcci/VesyropoulosGP18,data querying,big data,data storage
+tcci/AdanhounmeDA12,big data,computer vision,keyword1
+tcci/OrlowskiZOKSP16,indexing,data modeling,data modeling
+tcci/JascanuJB12,data querying,computer vision,computer vision
+tcci/IvanovicIVB18,keyword1,data modeling,data modeling
+tcci/JaffaliAJH15,data management,data management,data processing
+tcci/Mazalov18,computer vision,big data,indexing
+tcci/Malawski17,keyword3,keyword4,big data
+tcci/ZargayounaZ12,data querying,keyword3,keyword2
+tcci/EmaniSFG16,data querying,keyword1,data processing
+tcci/CuiHLX15,computer vision,big data,computer vision
+tcci/LabidiCB18,data modeling,keyword1,big data
+tcci/ZhouDC17,keyword3,data management,data querying
+tcci/PalettaH10,data modeling,data processing,data processing
+tcci/KohanaSKO19,data querying,keyword2,computer vision
+tcci/FridHKMMS16,indexing,data querying,indexing
+tcci/OrlowskiZOKSP16d,data modeling,data management,data storage
+tcci/RossiCB18,data modeling,data storage,data querying
+tcci/Otamendi13,data modeling,data management,keyword3
+tcci/MontazeryW18,computer vision,keyword1,data storage
+tcci/ZacharaMP13,data modeling,keyword3,data querying
+tcci/HofstedeJV10,data modeling,computer vision,keyword4
+tcci/GavalecN18,computer vision,indexing,keyword3
+tcci/WauteletKK11,data processing,keyword3,data modeling
+tcci/KonradyST16,big data,data querying,keyword4
+tcci/NguyenS12,keyword3,data processing,data management
+tcci/DabbechiNBH18,data management,data storage,keyword1
+tcci/TanLZF15,indexing,data processing,computer vision
+tcci/Capkovic13,data modeling,data querying,keyword3
+tcci/ChohraM18,data management,indexing,data management
+tcci/ResconiH12,data modeling,keyword1,keyword4
+tcci/DawoudSR19,big data,keyword4,data querying
+tcci/WelshBSW14,data management,keyword4,data processing
+tcci/HorvatGB10,keyword4,big data,data processing
+tcci/HoangNH14,data querying,computer vision,keyword2
+tcci/IvanovicB15,data management,data processing,indexing
+tcci/Hayashi18,data storage,keyword2,data management
+tcci/DuolikunE019,data querying,data modeling,indexing
+tcci/CaoNS14,data processing,keyword1,data processing
+tcci/LihuHL13,data management,indexing,indexing
+tcci/BoryczkaJ13,indexing,keyword3,data processing
+tcci/IfrimKWPMC17,data management,data storage,data management
+tcci/JbeliSA18,keyword4,data management,keyword3
+tcci/Cardoso15,big data,keyword1,keyword3
+tcci/Godlewska12,keyword4,big data,keyword4
+tcci/FreixasP17,keyword2,data modeling,computer vision
+tcci/Chiu13,data management,big data,data querying
+tcci/GladyszP17,data management,data processing,computer vision
+tcci/NguyenS10,indexing,keyword2,data management
+tcci/FujitaMFN18,computer vision,keyword3,big data
+tcci/ChohraMK10,keyword1,keyword4,data management
+tcci/KrauseHD15,data modeling,data querying,keyword1
+tcci/PiGCL13,data processing,big data,computer vision
+tcci/ThabetHG13,keyword1,indexing,keyword1
+tcci/KacprzykNZ17,computer vision,computer vision,keyword3
+tcci/KotulskiS12,data storage,keyword2,data modeling
+tcci/BelhajjameGHY17,keyword2,data modeling,data management
+tcci/BosseT11,data storage,data modeling,data modeling
+tcci/JaffryT13,data processing,keyword4,data querying
+tcci/KubalikAZB16,big data,keyword2,data management
+tcci/UrbanoRO11,data storage,keyword1,keyword2
+tcci/Bedkowski13,keyword2,computer vision,indexing
+tcci/DuPN18,indexing,data modeling,indexing
+tcci/KobayashiM16,keyword2,data management,data management
+tcci/Czarnowski11,big data,keyword4,keyword3
+tcci/Husakova18,big data,keyword2,big data
+tcci/OrlowskiZOKSP16c,big data,data storage,data processing
+tcci/KaczorKN13,computer vision,keyword3,data management
+tcci/Kluska-NawareckaWR13,keyword1,indexing,indexing
+tcci/FulopKS10,keyword1,data processing,big data
+tcci/TerzoMRCGNC13,data processing,keyword4,data storage
+tcci/Choros11,data modeling,computer vision,data storage
+tcci/FosznerGPMJP14,indexing,data querying,keyword4
+tcci/LeNPPN19,data modeling,computer vision,keyword2
+tcci/Sosnowska17,data storage,data querying,data management
+tcci/Zakrzewska12,data processing,data management,big data
+tcci/BonidalTG14,data querying,big data,keyword3
+tcci/NakamuraE019,data querying,data storage,data processing
+tcci/BergamaschiFGS16,data storage,indexing,data querying
+tcci/Recio-GarciaDGS10,data processing,computer vision,big data
+tcci/HarelKMW14,indexing,big data,big data
+tcci/Motylska-Kuzma18,keyword3,keyword3,keyword4
+tcci/KolodziejK13,big data,big data,data processing
+tcci/Bolon-CanedoRSA15,keyword4,data processing,keyword2
+tcci/Was12,computer vision,keyword4,data management
+tcci/Takahashi12,data modeling,indexing,data querying
+tcci/StangeKN17,keyword4,big data,big data
+tcci/Kubik11,keyword4,indexing,data processing
+tcci/FernandesLMCR16,data processing,data querying,data querying
+tcci/Niewiadomska-Szynkiewicz13,computer vision,indexing,data management
+tcci/ZagarO13,keyword2,data querying,indexing
+tcci/DoT15,keyword1,keyword3,keyword2
+tcci/LiaoWLZQ15,big data,data modeling,big data
+tcci/MissaouiF15,data management,data management,data modeling
+tcci/CottaLVOMCCR16,keyword4,data storage,data querying
+tcci/Alor-HernandezAJPRMBG10,data processing,data management,keyword1
+tcci/AouichaTM18,data querying,data querying,big data
+tcci/ThorissonSW10,keyword4,data querying,data querying
+tcci/WangMMZ15,data processing,keyword4,data management
+tcci/SaramagoARC19,computer vision,big data,computer vision
+tcci/MughazHG17,keyword4,keyword1,keyword4
+tcci/PonomarevaC14,keyword4,big data,data processing
+tcci/KhelifaBA18,data storage,data modeling,data querying
+tcci/GladyszMR18,big data,data storage,keyword3
+tcci/OommenKS16,data management,data querying,keyword1
+tcci/BriataF17,data modeling,keyword4,indexing
+tcci/SzubaPSW11,data storage,data querying,keyword3
+tcci/PietakK13,data management,data querying,big data
+tcci/MianowskaN11,keyword3,keyword4,keyword2
+tcci/BuratoC12,computer vision,data management,data modeling
+tcci/YahyaaDM15,keyword4,keyword2,data management
+tcci/RawatJSR18,indexing,data processing,data management
+tcci/KapustaMD15,data storage,data querying,data management
+tcci/StarzecSBKBL19,data processing,big data,data modeling
+tcci/Andrzej11,keyword1,data processing,data storage
+tcci/SaitoM10,data querying,data modeling,data processing
+tcci/CochezTE17,data processing,data management,keyword1
+tcci/Kamide12,keyword1,data processing,data querying
+tcci/Putz-LeszczynskaP13,keyword3,big data,computer vision
+tcci/MereloLFGCCRMGTCC16,data querying,computer vision,keyword4
+tcci/MarinheiroC18,data processing,data processing,data modeling
+tcci/LiuFYLX15,big data,big data,keyword3
+tcci/TagarevTA17,data management,data processing,keyword2
+tcci/BellingerO12,keyword4,data processing,computer vision
+tcci/ZiembaJW18,data processing,computer vision,indexing
+tcci/ZhaoCTWYXZ15,data processing,data querying,data processing
+tcci/DavisV16,big data,data storage,data processing
+tcci/ByrskiKT17,keyword4,data storage,keyword2
+tcci/Ihrig13,keyword2,keyword3,data processing
+tcci/SitekW18,big data,computer vision,keyword3
+tcci/BitontoLRR12,data management,keyword4,data querying
+tcci/LongoDB10,data management,data querying,keyword4
+tcci/MartinBRM19,keyword1,computer vision,data modeling
+tcci/Aydin10,data modeling,data modeling,data modeling
+tcci/Keinanen10,computer vision,data storage,keyword4
+tcci/SartoriVG16,data storage,keyword2,data querying
+tcci/KostrzewaMP16,keyword4,data querying,data storage
+tcci/TozickaJK18,data management,data modeling,data storage
+tcci/IchikawaU13,data querying,data querying,data management
+tcci/NagataTK13,indexing,keyword4,indexing
+tcci/OommenH12,keyword3,data querying,keyword3
+tcci/Treur19,data storage,data management,keyword3
+tcci/BertiniBGGPS18,data management,keyword2,big data
+tcci/RedavidFE13,data querying,computer vision,computer vision
+tcci/FerreiraCR15,big data,keyword2,keyword2
+tcci/GhiormezPPP18,data storage,data processing,data storage
+tcci/FrasheriCE18,data storage,big data,big data
+tcci/Nurmi18,data modeling,keyword1,keyword4
+tcci/JedrzejowiczJ11,indexing,data modeling,data management
+tcci/Treur12,data management,keyword4,data querying
+tcci/Brodowski14,indexing,indexing,data processing
+tcci/KaminskiL12,data storage,keyword3,data processing
+tcci/StankovicKOK17,computer vision,data storage,data management
+tcci/JankowskaS13,data processing,keyword4,keyword1
+tcci/Sus17,keyword4,keyword1,keyword1
+tcci/MicheliF18,data processing,big data,data querying
+tcci/Dunin-KepliczS13,keyword3,keyword1,keyword2
+tcci/LathamCME12,keyword3,data modeling,data processing
+tcci/JakielaLO12,data management,data storage,big data
+tcci/DeniseR14,data querying,data processing,keyword3
+tcci/MercikS18,data querying,keyword4,data querying
+tcci/MinhT14,indexing,data modeling,big data
+tcci/WalFRMB17,data querying,data processing,data storage
+tcci/HorakPS12,keyword2,data storage,big data
+tcci/NalepaF10,data processing,computer vision,keyword1
+tcci/MariesS11,big data,keyword4,big data
+tcci/Piech12,keyword1,keyword1,data querying
+tcci/Cadegnani0IRLVA17,indexing,data processing,data processing
+tcci/SmithSW14,indexing,big data,keyword2
+tcci/NouriDG18,data management,keyword2,data processing
+tcci/VrdoljakBPJK10,keyword3,data management,data management
+tcci/DaneshNADMS11,keyword1,computer vision,keyword3
+tcci/OSheaBC12,data modeling,data management,data processing
+tcci/LiuZLDSBM14,computer vision,data management,keyword4
+tcci/IoannouV16,data modeling,indexing,data processing
+tcci/BhattacharyaC19,big data,computer vision,data processing
+tcci/Machova13,computer vision,data processing,keyword1
+tcci/OrlowskiZOKSP16e,indexing,keyword3,big data
+tcci/OrlowskiSKK18,keyword2,indexing,data querying
+tcci/ChilipireaPDPX15,data processing,data querying,data modeling
+tcci/SaltoA15,keyword3,data storage,data storage
+tcci/PhamCT14,data storage,data storage,data querying
+tcci/GathHV15,keyword1,data processing,data storage
+tcci/MemonT12,big data,keyword3,keyword2
+tcci/Begier11,computer vision,indexing,keyword1
+tcci/Meyer-NiebergK18,keyword3,data management,keyword4
+tcci/Hernes15,data modeling,computer vision,data management
+tcci/ChiangAM16,data modeling,big data,big data
+tcci/Stach17,computer vision,big data,computer vision
+tcci/JutteW18,keyword3,data querying,keyword2
+tcci/LeeC11,computer vision,computer vision,data modeling
+tcci/ZagarRR10,keyword4,data management,keyword1
+tcci/GrappioloMY14,data querying,keyword1,data modeling
+tcci/AnT10,keyword3,keyword1,data modeling
+tcci/SuchackaB13,keyword2,keyword3,keyword1
+tcci/BoryczkaKS13,keyword1,indexing,big data
+tcci/HorvatVC16,keyword4,data storage,data storage
+tcci/HolblingPK11,keyword3,data storage,data processing
+tcci/KoszelewO13,indexing,data processing,data management
+tcci/BakCJ13,data management,indexing,big data
+tcci/SixtoAL18,data modeling,indexing,data modeling
+tcci/DzienkowskiM12,data querying,indexing,keyword2
+tcci/IliadisADS18,computer vision,keyword3,data modeling
+tcci/Le15,keyword2,data processing,keyword4
+tcci/Neri12,data querying,data modeling,keyword4
+tcci/GarbaGR13,indexing,data modeling,data querying
+tcci/RodriguesDFCOC15,computer vision,keyword2,data processing
+tcci/Leon18,data management,keyword4,keyword2
+tcci/Hernes19,data management,keyword1,data management
+tcci/Ahmadi-AbkenariS13,data storage,indexing,data modeling
+tcci/ShahamatniaMDRF16,data management,indexing,data modeling
+tcci/AndersonBH13,data modeling,keyword3,data storage
+tcci/YamamotoYO11,indexing,indexing,big data
+tcci/RekabsazBLH17,keyword3,keyword2,data processing
+tcci/BarbuchaCJRW10,data querying,data querying,indexing
+tcci/LettmannBEK11,data management,keyword1,keyword3
+tcci/JhaN15,keyword3,data modeling,data management
+tcci/CegielkaDLMR17,data storage,data processing,keyword2
+tcci/LiP13,data management,data storage,keyword2
+tcci/Dudek13,keyword1,keyword3,data querying
+tcci/WangMYW15,computer vision,big data,keyword4
+tcci/Selamat11,data management,data processing,data processing
+tcci/ZhangZZ15,big data,data storage,keyword3
+tcci/HoogendoornTWW11,keyword4,indexing,data processing
+tcci/TozickaJDK15,data processing,keyword2,data querying
+tcci/Kyriazis19,keyword2,data management,big data
+tcci/OrlowskiZOKSP16a,indexing,computer vision,data storage
+tcci/TrandafiliB13,computer vision,keyword2,indexing
+tplop/PontKB09,data processing,big data,big data
+tplop/AguiarD11,keyword4,keyword1,keyword3
+tplop/Saridakis09,keyword4,computer vision,data modeling
+tplop/KolfschotenBL11,data storage,data management,keyword2
+tplop/MahoneyE09,data storage,computer vision,computer vision
+tplop/Siddle09,keyword1,keyword3,keyword4
+tplop/VainsencherB09,data modeling,keyword4,big data
+tplop/BallesterosKPJAC09,big data,keyword2,big data
+tplop/Riehle11,computer vision,computer vision,keyword4
+tplop/HentrichZ09,data processing,keyword1,computer vision
+tplop/Hentrich09,data management,keyword4,data modeling
+tplop/Siddle11,indexing,data storage,data querying
+tplop/ZimmermannRS11,data storage,big data,keyword1
+topnoc/StahlMB09,indexing,data modeling,big data
+topnoc/DalmasTN18,data querying,data querying,keyword2
+topnoc/BaldanCKS08,keyword1,computer vision,data management
+topnoc/ChatainH14,big data,data management,keyword4
+topnoc/CabacD08,computer vision,indexing,keyword2
+topnoc/HeeVSS09,data management,data querying,data management
+topnoc/RadhouaniILR15,data management,keyword3,data modeling
+topnoc/DarondeauR12,keyword2,keyword1,data querying
+topnoc/HeeKPSW08,keyword4,data processing,data modeling
+topnoc/MascheroniF12,computer vision,keyword3,keyword2
+topnoc/BashkinL14,data modeling,indexing,indexing
+topnoc/TruongD09,data querying,computer vision,big data
+topnoc/BergenthumDML09,indexing,data modeling,keyword1
+topnoc/ReichertRD09,keyword2,data management,data management
+topnoc/PhawadeL15,keyword3,keyword4,data querying
+topnoc/HoldererCTM17,data processing,keyword3,indexing
+topnoc/BaldanCGS13,data storage,keyword2,data querying
+topnoc/LiuL14,big data,data storage,indexing
+topnoc/ReisigRT13,data storage,keyword2,data querying
+topnoc/Brabrand08,keyword1,data management,big data
+topnoc/SuriadiOF12,keyword1,data management,data processing
+topnoc/SoleC12,data querying,keyword2,keyword3
+topnoc/SztylerCVS16,data processing,data storage,keyword4
+topnoc/AalstD13,data modeling,keyword1,data storage
+topnoc/MarroneMNPRV12,data storage,keyword2,keyword3
+topnoc/BernardinelloMP13,computer vision,keyword3,indexing
+topnoc/Wester-EbbinghausMK10,data storage,keyword3,keyword2
+topnoc/NiewiadomskiP15,big data,keyword4,indexing
+topnoc/MontaliR17,data processing,computer vision,keyword2
+topnoc/KnapikSP10,keyword4,data processing,keyword1
+topnoc/Wolf09,data management,data processing,keyword4
+topnoc/KnapikP12,data modeling,data storage,keyword2
+topnoc/JensenNOS16,keyword3,keyword3,data management
+topnoc/KleijnKP14,keyword1,keyword2,indexing
+topnoc/PenczekPZ10,data management,big data,data querying
+topnoc/BruneoLP12,data storage,keyword2,keyword4
+topnoc/HeeHHPT10,keyword4,data processing,keyword3
+topnoc/BestW13,keyword4,data processing,indexing
+topnoc/DongenMW09,computer vision,big data,computer vision
+topnoc/Winkowski17,keyword1,data management,keyword3
+topnoc/Aalst09,data querying,keyword2,data modeling
+topnoc/Westergaard12,data modeling,data modeling,data querying
+topnoc/RibeiroC16,keyword3,data management,data storage
+topnoc/EnnaouiNT18,data querying,data modeling,data querying
+topnoc/PuraB15,data querying,keyword2,data management
+topnoc/Valmari13,data processing,data processing,keyword3
+topnoc/KristensenJ08,data querying,data storage,keyword4
+topnoc/BarylskaBSS17,data querying,indexing,keyword3
+topnoc/BergenthumDHM12,data management,data management,computer vision
+topnoc/LassenD08,keyword1,keyword3,keyword3
+topnoc/MokhovCB16,keyword1,data querying,data modeling
+topnoc/WangKMS18,data modeling,keyword4,big data
+topnoc/AalstSW13,keyword4,computer vision,data modeling
+topnoc/KordonGHPJRH16,indexing,keyword3,keyword4
+topnoc/Wester-EbbinghausK13,data processing,keyword3,data storage
+topnoc/CabacMW14,indexing,computer vision,keyword4
+topnoc/EvangelistaWK09,data modeling,keyword4,data storage
+topnoc/VerbeekPAW08,keyword2,big data,indexing
+topnoc/BillingtonVG09,data processing,keyword1,data storage
+topnoc/CalzolaiNLT08,keyword4,keyword4,keyword4
+topnoc/ShilS15,indexing,keyword4,keyword2
+topnoc/MostellerCH16,indexing,data querying,keyword2
+topnoc/BonnefoiCK09,big data,indexing,keyword2
+topnoc/HillahKLP12,data modeling,indexing,keyword1
+topnoc/DongenDA12,data management,data querying,computer vision
+topnoc/GogolinskaMP18,data querying,keyword2,data modeling
+topnoc/KleijnK13,keyword1,data processing,data querying
+topnoc/BrogiCSW16,data processing,data processing,data processing
+topnoc/BernardinelloKP16,keyword1,keyword3,keyword1
+topnoc/RussellAH09,keyword4,data querying,data modeling
+topnoc/MansRAMB10,data management,data storage,computer vision
+topnoc/KristensenS13,indexing,computer vision,data management
+topnoc/BonetHHT08,data querying,keyword2,data processing
+topnoc/KhomenkoG15,big data,data processing,big data
+topnoc/BergenthumS15,keyword2,keyword1,data querying
+topnoc/HoussayePD17,keyword2,indexing,keyword4
+topnoc/WestergaardFS13,data management,big data,data modeling
+topnoc/Carmona12,keyword3,data modeling,data storage
+topnoc/Reisig13,data storage,indexing,computer vision
+topnoc/ShershakovKL17,indexing,data storage,keyword3
+topnoc/Klai15,data storage,data management,data querying
+topnoc/Vanit-Anunchai16,big data,data processing,data management
+topnoc/ChoppyDEKPY12,keyword3,data storage,big data
+topnoc/Verbeek17,indexing,indexing,keyword3
+topnoc/DanoyBB10,keyword4,data processing,data modeling
+topnoc/ZelstBD18,keyword1,keyword2,big data
+topnoc/0001DJ13,big data,data processing,big data
+topnoc/Mendling09,data processing,keyword4,data modeling
+topnoc/AalstHHSVVW09,big data,data querying,indexing
+topnoc/HeinerRST16,data modeling,data management,data storage
+topnoc/CiardoZJ12,keyword4,keyword1,data querying
+topnoc/BergenthumDM09,computer vision,big data,computer vision
+topnoc/DahmaniIB08,keyword4,keyword1,keyword4
+topnoc/ChesaniLMMRS09,keyword4,keyword1,data processing
+topnoc/HeeSW13a,data management,keyword4,data modeling
+topnoc/Hamez16,keyword2,computer vision,keyword1
+topnoc/MietznerKL09,computer vision,indexing,data modeling
+topnoc/KoutnyP12,data processing,computer vision,keyword4
+topnoc/MaissaKMT13,keyword3,big data,data storage
+topnoc/WestergaardK12,data modeling,data management,data processing
+topnoc/MollerHMS18,computer vision,data storage,keyword4
+topnoc/ValmariH17,keyword4,indexing,data management
+topnoc/ArnoldB12,keyword1,keyword2,data management
+topnoc/Lakos09,data modeling,big data,data management
+topnoc/Kohler-BussmeierWM09,data processing,data querying,indexing
+topnoc/KoninckW17,computer vision,computer vision,data modeling
+topnoc/BetzCDWW14,keyword3,data storage,data processing
+topnoc/CortadellaKBCJ08,keyword1,data storage,data modeling
+topnoc/EisentrautH08,big data,data storage,keyword3
+topnoc/RamosBHH08,data modeling,keyword4,data storage
+topnoc/RoyS16,data querying,keyword1,computer vision
+topnoc/KordonGHPJHABBEJBLMSTPW18,data processing,indexing,computer vision
+topnoc/Rohr13,keyword1,keyword1,data management
+topnoc/JanowskaPPZ13,keyword2,keyword1,data processing
+topnoc/DeselE16,keyword1,indexing,keyword2
+topnoc/DeselM10,data storage,big data,keyword3
+topnoc/Kindler12,keyword3,keyword3,keyword2
+topnoc/BernardinelloKMP14,keyword4,data management,computer vision
+topnoc/Kindler09,computer vision,big data,data querying
+topnoc/HongKPE12,big data,big data,data modeling
+topnoc/LohmannVD09,indexing,data management,data querying
+topnoc/EvangelistaK10,data querying,data management,data querying
+topnoc/WagnerQMR12,computer vision,keyword1,big data
+topnoc/AmparoreDBGM18,computer vision,keyword2,data modeling
+topnoc/KnapikNPPSZ10,keyword4,keyword2,keyword3
+topnoc/DedovaP13,computer vision,indexing,data management
+topnoc/BernardinelloFPA18,keyword3,data management,keyword1
+topnoc/HerajySH13,keyword3,indexing,keyword2
+topnoc/BillingtonY09,keyword3,data modeling,keyword3
+topnoc/KordonLBCELLPTW12,data modeling,data querying,keyword3
+topnoc/PuhlmannW09,keyword4,data querying,keyword1
+topnoc/Xu09,computer vision,computer vision,indexing
+topnoc/Wolf16,keyword4,data processing,keyword1
+topnoc/Elhog-BenzinaHH12,computer vision,keyword3,data processing
+topnoc/RussellH09,keyword3,computer vision,big data
+topnoc/SedlmajerBHLBM12,data modeling,data modeling,keyword3
+topnoc/MansARBMLJ09,keyword2,keyword2,data querying
+topnoc/Lopez-GraoC12,computer vision,computer vision,data storage
+topnoc/BarylskaBEMP16,data storage,keyword2,keyword1
+topnoc/Banaji12,computer vision,big data,data management
+topnoc/JinLC14,computer vision,keyword4,keyword2
+topnoc/SimonsenKK16,keyword2,indexing,data processing
+topnoc/HeeSW13,data querying,data storage,keyword3
+topnoc/SalemDK12,data storage,keyword3,big data
+tlsdkcs/FengLHD13,data querying,keyword4,keyword1
+tlsdkcs/CarvalhoFGP16,keyword2,computer vision,data processing
+tlsdkcs/SurduGSP13,data storage,computer vision,keyword3
+tlsdkcs/TalebET13,keyword2,keyword4,indexing
+tlsdkcs/Ait-SadouneA13,keyword3,data processing,data processing
+tlsdkcs/ChabinAMR13,data processing,big data,data modeling
+tlsdkcs/Leitao09,data querying,keyword3,keyword3
+tlsdkcs/0001XI12a,indexing,data querying,data querying
+tlsdkcs/AtkinsonBD12,keyword4,keyword2,data querying
+tlsdkcs/0001RA16,big data,data storage,data processing
+tlsdkcs/TruongRN17,indexing,keyword2,data modeling
+tlsdkcs/MohaniaBRCG09,keyword2,indexing,data storage
+tlsdkcs/XieOZY16,indexing,big data,keyword2
+tlsdkcs/MaskatPE16,data storage,indexing,keyword1
+tlsdkcs/QayumiN18,computer vision,data querying,data querying
+tlsdkcs/AfsarmaneshEMC09,data processing,data querying,keyword1
+tlsdkcs/HeendaliyaLH12a,big data,keyword1,data modeling
+tlsdkcs/CerqueusCL12,indexing,keyword1,big data
+tlsdkcs/WildWHTG15,big data,data storage,data modeling
+tlsdkcs/KayemVM18,data querying,keyword4,data querying
+tlsdkcs/LeungCJ13,indexing,keyword3,data querying
+tlsdkcs/BohmNPWZ09,keyword4,data processing,big data
+tlsdkcs/GilFT19,keyword1,data querying,big data
+tlsdkcs/Quang-HungTS14,data processing,keyword2,keyword1
+tlsdkcs/PrzymusK14,keyword4,keyword3,big data
+tlsdkcs/ScheweGIKNKKFZ15,keyword1,data management,indexing
+tlsdkcs/GomesS15,big data,computer vision,keyword1
+tlsdkcs/StefanidisNPNK13,keyword2,keyword1,big data
+tlsdkcs/DangD14,keyword4,data management,data modeling
+tlsdkcs/ThiCL17,data querying,data processing,data modeling
+tlsdkcs/Draheim16,keyword4,computer vision,indexing
+tlsdkcs/NguyenNW13,keyword4,data processing,data querying
+tlsdkcs/PutzP19,big data,big data,indexing
+tlsdkcs/AnHHT14,data management,data modeling,data management
+tlsdkcs/FerrarottiHLMM13,data modeling,keyword2,data querying
+tlsdkcs/PhamKMAJVL18,keyword3,data querying,keyword4
+tlsdkcs/MetouiBA17,data storage,computer vision,keyword1
+tlsdkcs/YanJ15,keyword2,data storage,data modeling
+tlsdkcs/DanderHNPSB11,keyword4,keyword3,keyword1
+tlsdkcs/GuzunTC14,keyword1,big data,data modeling
+tlsdkcs/MichelFM19,data processing,data modeling,data modeling
+tlsdkcs/Liroz-GistauAPPV13,data processing,keyword2,keyword2
+tlsdkcs/CamaraK09,keyword1,data management,data modeling
+tlsdkcs/JajodiaLS13,keyword2,keyword1,keyword3
+tlsdkcs/LeDTN14,computer vision,data processing,keyword4
+tlsdkcs/ChristodoulouPF15,data storage,data management,keyword1
+tlsdkcs/FrankP12,keyword3,data processing,data modeling
+tlsdkcs/JaikarN16,data processing,data querying,data processing
+tlsdkcs/ChenH15,keyword3,indexing,data management
+tlsdkcs/LeclercqGGS19,data querying,keyword4,data storage
+tlsdkcs/HarshanDO16,data processing,data management,data processing
+tlsdkcs/KombiLLRB19,keyword2,data management,keyword1
+tlsdkcs/KohD13,keyword3,keyword3,data modeling
+tlsdkcs/ZamaniCKZM16,data storage,data processing,data processing
+tlsdkcs/WangZHXHG19,big data,data processing,computer vision
+tlsdkcs/BenouaretL18,keyword4,keyword4,keyword3
+tlsdkcs/YefernyAB13,indexing,keyword4,indexing
+tlsdkcs/AmaviA14,indexing,keyword3,data storage
+tlsdkcs/DuongBGLSV18,keyword2,data querying,keyword1
+tlsdkcs/DuchateauB16,keyword4,keyword4,data management
+tlsdkcs/HameurlainM09,data modeling,data storage,keyword4
+tlsdkcs/PhandR16,big data,data querying,big data
+tlsdkcs/DedzoeLAV13,big data,data storage,data storage
+tlsdkcs/AmaroucheBBMA11,data storage,keyword1,data querying
+tlsdkcs/GaoMLHJLBZF16,data processing,data storage,data modeling
+tlsdkcs/DashdorjS16,computer vision,computer vision,data storage
+tlsdkcs/CiglicEK16,keyword3,data querying,keyword1
+tlsdkcs/MargarisV18,keyword3,data processing,data processing
+tlsdkcs/BressHSBS14,data management,keyword1,keyword1
+tlsdkcs/JenkinsALBSSECCKKRS13,computer vision,keyword4,data querying
+tlsdkcs/AtzeniGC09,data querying,data querying,data storage
+tlsdkcs/Vidyasankar17,data modeling,indexing,data storage
+tlsdkcs/BouadjenekHB19,big data,keyword4,data management
+tlsdkcs/Jamil11,data processing,data management,data processing
+tlsdkcs/AcharyaL15,data storage,data storage,big data
+tlsdkcs/VidalCAMP16,data processing,data processing,keyword1
+tlsdkcs/FernandesHP17,keyword4,keyword1,data modeling
+tlsdkcs/SouzaPKTS11,keyword4,data storage,data processing
+tlsdkcs/DongCFK18,keyword4,keyword3,keyword2
+tlsdkcs/CruzKAK16,data modeling,data modeling,data querying
+tlsdkcs/MaamarBSRPSPBS17,data storage,indexing,keyword1
+tlsdkcs/MargarisV17,keyword1,keyword3,data modeling
+tlsdkcs/KawakatsuKTA16,keyword3,big data,data processing
+tlsdkcs/HanCJ12a,keyword2,keyword1,big data
+tlsdkcs/CarvalhoSR15,keyword3,indexing,computer vision
+tlsdkcs/KosorusK14,data processing,computer vision,indexing
+tlsdkcs/KalischBR16,data management,data processing,indexing
+tlsdkcs/BondiombouyKLV16,indexing,data modeling,big data
+tlsdkcs/Jamil11a,computer vision,keyword1,data storage
+tlsdkcs/AkbariniaTPVL11,keyword3,data modeling,computer vision
+tlsdkcs/AlhadadSBL15,data storage,keyword4,keyword4
+tlsdkcs/ThanhD15,keyword2,keyword3,keyword3
+tlsdkcs/AnceaumeBG13,keyword3,keyword3,keyword4
+tlsdkcs/AtzeniNP12,data storage,big data,keyword4
+tlsdkcs/Thalheim12a,data storage,computer vision,data modeling
+tlsdkcs/MamiBC16,big data,keyword4,keyword2
+tlsdkcs/DoP16,keyword1,indexing,computer vision
+tlsdkcs/TepandiLLRPPD17,keyword3,data querying,data modeling
+tlsdkcs/TianWJNY12,data modeling,data management,data modeling
+tlsdkcs/GerlBKB18,data modeling,data modeling,keyword1
+tlsdkcs/EndrisGLMVA18,indexing,keyword3,data management
+tlsdkcs/JaeckschL13,data querying,data storage,keyword2
+tlsdkcs/AntwiV16,computer vision,keyword2,keyword1
+tlsdkcs/AsikiTK12a,keyword4,data modeling,keyword4
+tlsdkcs/LeeKML15,data storage,computer vision,data processing
+tlsdkcs/GrabockaS15,keyword4,data querying,keyword4
+tlsdkcs/BerkaniBG18,keyword2,data modeling,computer vision
+tlsdkcs/Nicolae11,indexing,data storage,keyword1
+tlsdkcs/ZhaZLL15,computer vision,data querying,indexing
+tlsdkcs/CaoBS12a,data processing,keyword4,keyword1
+tlsdkcs/KritikosRK15,keyword2,computer vision,data storage
+tlsdkcs/CostaF15,data processing,data modeling,big data
+tlsdkcs/SalamehCC19,data querying,indexing,data processing
+tlsdkcs/JiangLKD16,data querying,keyword4,data management
+tlsdkcs/AbdelbakiYM15,data processing,keyword1,computer vision
+tlsdkcs/SessomsA14,keyword3,data processing,data modeling
+tlsdkcs/ThiD17,data management,data querying,data modeling
+tlsdkcs/ZhangCLL11,keyword4,data processing,data querying
+tlsdkcs/BashirR10,keyword1,data modeling,data storage
+tlsdkcs/HeendaliyaLH15,big data,data modeling,computer vision
+tlsdkcs/SiksnysTP15,data storage,computer vision,data management
+tlsdkcs/HartmannMV16,keyword4,data querying,big data
+tlsdkcs/CraveiroAM16,keyword1,computer vision,data management
+tlsdkcs/BacheA10,computer vision,big data,data management
+tlsdkcs/DurandQ16,keyword2,big data,big data
+tlsdkcs/RibeiroCBN18,big data,keyword4,big data
+tlsdkcs/MaraslisCTO16,keyword2,keyword4,data storage
+tlsdkcs/RoncancioVLS09,keyword1,keyword4,data querying
+tlsdkcs/Kern-IsbernerBFT12a,keyword2,data management,keyword1
+tlsdkcs/VirgilioB14,data storage,computer vision,data modeling
+tlsdkcs/PatelHL13,data management,data processing,indexing
+tlsdkcs/NalepaBZ18,data querying,big data,data storage
+tlsdkcs/DimitrovSM15,keyword3,data management,indexing
+tlsdkcs/YaishGF15,data modeling,data storage,big data
+tlsdkcs/RautenbergSHW11,keyword1,data storage,keyword2
+tlsdkcs/MontoyaISMV14,keyword1,keyword2,keyword1
+tlsdkcs/SabesanR12,data processing,data management,data querying
+tlsdkcs/BonifatiSPD14,data storage,computer vision,keyword3
+tlsdkcs/LeitaoVA09,keyword2,keyword4,data storage
+tlsdkcs/ChenH13,data processing,data modeling,keyword1
+tlsdkcs/Khare0S14,keyword3,keyword2,keyword2
+tlsdkcs/MamiBC13,indexing,data modeling,keyword4
+tlsdkcs/BechiniG11,keyword3,data querying,indexing
+tlsdkcs/YoshimuraASBR16,keyword1,data storage,keyword2
+tlsdkcs/DraidiPK11,data management,data processing,data querying
+tlsdkcs/KorfkampGRSKBBPA16,data querying,keyword2,data modeling
+tlsdkcs/EderDSS09,keyword2,data processing,keyword4
+tlsdkcs/KawamuraO14,keyword3,data processing,data modeling
+tlsdkcs/PoppeGRB13,data management,data management,indexing
+tlsdkcs/SaririSKAG16,data querying,data storage,indexing
+tlsdkcs/Fischer-HubnerFL09,data processing,keyword4,data modeling
+tlsdkcs/HuangKD15,keyword2,data processing,data modeling
+tlsdkcs/LiuTP13,keyword4,keyword2,big data
+tlsdkcs/ThalheimD16,data processing,keyword3,keyword1
+tlsdkcs/TryfonopoulosIKR14,data processing,data modeling,keyword3
+tlsdkcs/Decker17,keyword1,data modeling,keyword4
+tlsdkcs/WangJRMZLKPG15,indexing,indexing,keyword4
+tlsdkcs/Rahhal17,big data,keyword1,data storage
+tlsdkcs/TsangKD13,computer vision,keyword3,data management
+tlsdkcs/ChongGKL11,keyword4,keyword1,data modeling
+tlsdkcs/NovakZ16,computer vision,data storage,computer vision
+tlsdkcs/MahfoudI15,data management,keyword4,keyword1
+tlsdkcs/StahlGAMLBY12,data storage,computer vision,keyword1
+tlsdkcs/BasuLCVYSB16,keyword2,computer vision,keyword4
+tlsdkcs/EzeifeZ14,data processing,indexing,computer vision
+tlsdkcs/GraefeK10,keyword4,indexing,big data
+tlsdkcs/GhandeharizadehAH19,keyword1,keyword3,data storage
+tlsdkcs/QuimbayaRCV11,keyword1,data querying,computer vision
+tlsdkcs/BenkridBC14,computer vision,keyword4,data storage
+tlsdkcs/BouraouiCB11,big data,indexing,data querying
+tlsdkcs/VirgilioM12,data management,data querying,big data
+tlsdkcs/Quang-HungST16,big data,data modeling,data storage
+tlsdkcs/BadrV15,data management,indexing,data processing
+tlsdkcs/RaniKH17,data modeling,computer vision,keyword2
+tlsdkcs/Iam-onB13,data querying,big data,indexing
+tlsdkcs/PappelPTD17,data modeling,data processing,data querying
+tlsdkcs/HarbMLBJ15,data management,computer vision,keyword2
+tlsdkcs/WorksR14,data storage,data management,keyword1
+tlsdkcs/Kellou-MenouerK16,computer vision,indexing,computer vision
+tlsdkcs/NguyenD16,data storage,computer vision,data storage
+tlsdkcs/Besnard17,data storage,keyword2,computer vision
+tlsdkcs/SakkaD12,keyword2,keyword4,data querying
+tlsdkcs/ChakrabortyS12,computer vision,data modeling,data processing
+tlsdkcs/HassanRTTZ15,keyword4,big data,big data
+tlsdkcs/HaddadinL10,data modeling,keyword3,data processing
+tlsdkcs/ServajeanPLAA15,keyword2,keyword3,keyword1
+tlsdkcs/BaFD16,indexing,data querying,keyword1
+tlsdkcs/AlgergawyMSES14,data storage,computer vision,computer vision
+tlsdkcs/NodarakisPSTTT16,data modeling,data querying,data storage
+tlsdkcs/BorekSKR16,big data,data storage,data processing
+tlsdkcs/SilvestreBPMS15,keyword3,keyword2,keyword4
+tlsdkcs/LeNTN16,keyword2,indexing,data processing
+tlsdkcs/IijimaKSTO16,keyword3,data management,data storage
+tlsdkcs/BianchiniCAFQT14,data processing,data processing,data storage
+tlsdkcs/AljumahPD17,keyword1,data querying,data management
+tlsdkcs/GuoHPF13,data management,data modeling,indexing
+tlsdkcs/FerraraGMC15,data processing,keyword4,data management
+tlsdkcs/NgD10,big data,keyword1,keyword1
+tlsdkcs/VenkateshKRK18,data querying,data modeling,keyword2
+tlsdkcs/TranTS09,keyword1,data management,keyword4
+tlsdkcs/MunozN18,data management,data processing,data storage
+tlsdkcs/BonfanteCGILLMMRV11,big data,computer vision,data processing
+tlsdkcs/FilaliBHB11,keyword3,keyword3,data management
+tlsdkcs/VilladsenS17,indexing,data processing,keyword2
+tlsdkcs/XuHLP13,data querying,computer vision,data management
+tlsdkcs/MohammedHS17,keyword1,keyword1,indexing
+tlsdkcs/MaWZ15,keyword1,big data,keyword1
+tlsdkcs/MishraM016,keyword4,data querying,keyword3
+tlsdkcs/BahiHHK13,indexing,indexing,keyword1
+tlsdkcs/TangASB16,keyword3,keyword2,keyword4
+tlsdkcs/MannaORAL12,keyword2,data processing,indexing
+tlsdkcs/VlachouDK12,data storage,keyword1,keyword2
+tlsdkcs/BouchouAL12a,data querying,indexing,keyword4
+tlsdkcs/CaoKXMTTB13,data modeling,big data,data storage
+tlsdkcs/MahboubiAV19,data management,indexing,data modeling
+tlsdkcs/StahlMMBG15,keyword2,keyword4,keyword2
+tlsdkcs/EgamiKSTO16,indexing,keyword1,big data
+tlsdkcs/LahiriAM13,data querying,keyword3,data querying
+tlsdkcs/BarahmandG16,data processing,big data,data processing
+tlsdkcs/MansourCA18,data processing,indexing,data querying
+tlsdkcs/BouadiCQ13,keyword2,keyword2,indexing
+tlsdkcs/CuzzocreaJLLPT15,data management,data processing,indexing
+tlsdkcs/Fegaras18,data modeling,keyword4,keyword1
+tlsdkcs/AbdullahiCM16,data processing,keyword4,keyword1
+tlsdkcs/AlharbiAS17,computer vision,data processing,keyword2
+tlsdkcs/HedelerBMGALPFE12,data processing,indexing,keyword1
+tlsdkcs/ZamiteSCS11,data processing,keyword1,data management
+tlsdkcs/AttardOA16,keyword3,big data,data modeling
+tlsdkcs/MinhT17,data storage,keyword3,computer vision
+tlsdkcs/BollweinW18,keyword1,indexing,data modeling
+tlsdkcs/Seki15,keyword3,keyword3,data management
+tlsdkcs/MatuleviciusNUN17,data management,data modeling,keyword4
+tlsdkcs/AlghamdiR16,keyword2,keyword3,keyword2
+tlsdkcs/BoukadiGMBV09,indexing,keyword4,indexing
+tlsdkcs/ChristodoulouSFP18,keyword4,keyword3,keyword3
+tlsdkcs/HartogDGL15,data querying,data storage,data modeling
+tlsdkcs/Draheim09,data querying,data querying,keyword3
+tlsdkcs/SassiTO12,data modeling,keyword3,indexing
+tlsdkcs/Bench-CaponAW15,keyword3,keyword3,big data
+tlsdkcs/TranNLV16,big data,data modeling,keyword4
+tlsdkcs/MarquesuzaaELNL16,keyword4,keyword2,data management
+tlsdkcs/SongBD15,data storage,keyword4,data storage
+tlsdkcs/RamampiaroL11,data management,keyword4,keyword4

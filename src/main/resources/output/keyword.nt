@@ -1,0 +1,11 @@
+<http://www.semanticweb.org/resource/data_processing> <http://www.semanticweb.org/keyword_name> "data processing" .
+<http://www.semanticweb.org/resource/keyword3> <http://www.semanticweb.org/keyword_name> "keyword3" .
+<http://www.semanticweb.org/resource/keyword1> <http://www.semanticweb.org/keyword_name> "keyword1" .
+<http://www.semanticweb.org/resource/keyword4> <http://www.semanticweb.org/keyword_name> "keyword4" .
+<http://www.semanticweb.org/resource/data_storage> <http://www.semanticweb.org/keyword_name> "data storage" .
+<http://www.semanticweb.org/resource/big_data> <http://www.semanticweb.org/keyword_name> "big data" .
+<http://www.semanticweb.org/resource/indexing> <http://www.semanticweb.org/keyword_name> "indexing" .
+<http://www.semanticweb.org/resource/keyword2> <http://www.semanticweb.org/keyword_name> "keyword2" .
+<http://www.semanticweb.org/resource/data_modeling> <http://www.semanticweb.org/keyword_name> "data modeling" .
+<http://www.semanticweb.org/resource/computer_vision> <http://www.semanticweb.org/keyword_name> "computer vision" .
+<http://www.semanticweb.org/resource/data_querying> <http://www.semanticweb.org/keyword_name> "data querying" .
